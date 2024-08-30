@@ -2,7 +2,7 @@ name: Update EPG
 
 on:
   schedule:
-    - cron: '0 23 * * *'  # Executa diariamente às 23h
+    - cron: '10 23 * * *'  # Executa diariamente às 23h
 #    - cron: '0 0 * * *'  # Executa diariamente à meia-noite
 #    - cron: '0 */2 * * *'  # Executa a cada duas horas
   workflow_dispatch:  # Permite execução manual
