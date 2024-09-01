@@ -1,922 +1,608 @@
-#EXTM3U url-tvg="http://m3u4u.com/epg/xe47yz1pd9spv21mn9vq"
 #EXTM3U url-tvg="http://m3u4u.com/epg/j67zn6m4w7fq9rv8yd1w"
-
-
-#EXTINF:-1 tvg-id="TVAlvoradadoSul.br" tvg-name="IMPLAYER" tvg-logo="https://i.imgur.com/2RnqZLa.png" group-title=" PIAUÍ TV ", IMPLAYER
+#EXTINF:-1 tvg-id="TVAlvoradadoSul.br" tvg-name="IMPLAYER" tvg-logo="https://i.imgur.com/2RnqZLa.png" group-title="PIAUÍ TV",IMPLAYER
 http://m3u4u.com/m3u/xe47yz1pd9spv21mn9vq
-
-#EXTINF:-1 tvg-id="TVAlvoradadoSul.br" tvg-name="PLAYLISTS" tvg-logo="https://i.imgur.com/2RnqZLa.png" group-title=" PIAUÍ TV ", PLAYLISTS
+#EXTINF:-1 tvg-id="TVAlvoradadoSul.br" tvg-name="PLAYLISTS" tvg-logo="https://i.imgur.com/2RnqZLa.png" group-title="PIAUÍ TV",PLAYLISTS
 http://m3u4u.com/m3u/j67zn6m4w7fq9rv8yd1w
-
-#EXTINF:-1 tvg-id="TVAntena10.br" tvg-name="ANTENA 10" tvg-logo="https://i.imgur.com/BqzBsdm.png" group-title=" PIAUÍ TV ", ANTENA 10
+#EXTINF:-1 tvg-id="TVAntena10.br" tvg-name="ANTENA 10" tvg-logo="https://i.imgur.com/BqzBsdm.png" group-title="PIAUÍ TV",ANTENA 10
 https://video01.logicahost.com.br/a10maisadap/smil:transcoder.smil/chunklist_w856880855_b2046000.m3u8
-
-#EXTINF:-1 tvg-id="RedeTV.br" tvg-name="O DIA TV" tvg-logo="https://i.imgur.com/xbPIEDD.png" group-title=" PIAUÍ TV ", O DIA TV
+#EXTINF:-1 tvg-id="RedeTV.br" tvg-name="O DIA TV" tvg-logo="https://i.imgur.com/xbPIEDD.png" group-title="PIAUÍ TV",O DIA TV
 https://59e4b6c1beddc.streamlock.net/tvodia/tvodia/chunklist_w1921501568.m3u8
-
-#EXTINF:-1 tvg-id="TVAntena10.br" tvg-name="TV CANÇÃO NOVA" tvg-logo="https://i.imgur.com/fv4L9T4.jpeg" group-title=" PIAUÍ TV ", TV CANÇÃO NOVA
+#EXTINF:-1 tvg-id="TVAntena10.br" tvg-name="TV CANÇÃO NOVA" tvg-logo="https://i.imgur.com/fv4L9T4.jpeg" group-title="PIAUÍ TV",TV CANÇÃO NOVA
 https://www.youtube.com/user/tvcancaonova/live
-
-#EXTINF:-1 tvg-id="TVCidadeVerde.br" tvg-name="TV CIDADE VERDE PICOS" tvg-logo="https://i.imgur.com/rkGbMJL.png" group-title=" PIAUÍ TV ", TV CIDADE VERDE PICOS
+#EXTINF:-1 tvg-id="TVCidadeVerde.br" tvg-name="TV CIDADE VERDE PICOS" tvg-logo="https://i.imgur.com/rkGbMJL.png" group-title="PIAUÍ TV",TV CIDADE VERDE PICOS
 https://stmv1.transmissaodigital.com/tvcidadeverde/tvcidadeverde/chunklist_w1496024979.m3u8
-
-#EXTINF:-1 tvg-id="SBT.br" tvg-name="TV CIDADE VERDE PICOS" tvg-logo="https://i.imgur.com/rkGbMJL.png" group-title=" PIAUÍ TV ", TV CIDADE VERDE PICOS
+#EXTINF:-1 tvg-id="SBT.br" tvg-name="TV CIDADE VERDE PICOS HD" tvg-logo="https://i.imgur.com/rkGbMJL.png" group-title="PIAUÍ TV",TV CIDADE VERDE PICOS HD
 https://stmv1.transmissaodigital.com/tvcidadeverde/tvcidadeverde/chunklist_w685970594.m3u8
-
-#EXTINF:-1 tvg-id="TVCidadeVerde.br" tvg-name="TV CIDADE VERDE TERESINA" tvg-logo="https://i.imgur.com/rkGbMJL.png" group-title=" PIAUÍ TV ", TV CIDADE VERDE TERESINA
+#EXTINF:-1 tvg-id="TVCidadeVerde.br" tvg-name="TV CIDADE VERDE TERESINA" tvg-logo="https://i.imgur.com/rkGbMJL.png" group-title="PIAUÍ TV",TV CIDADE VERDE TERESINA
 https://stmv1.transmissaodigital.com/cidadeverdenovo/cidadeverdenovo/chunklist_w1115557601.m3u8
-
-#EXTINF:-1 tvg-id="SBT.br" tvg-name="TV CIDADE VERDE TERESINA" tvg-logo="https://i.imgur.com/rkGbMJL.png" group-title=" PIAUÍ TV ", TV CIDADE VERDE TERESINA
+#EXTINF:-1 tvg-id="SBT.br" tvg-name="TV CIDADE VERDE TERESINA HD" tvg-logo="https://i.imgur.com/rkGbMJL.png" group-title="PIAUÍ TV",TV CIDADE VERDE TERESINA HD
 https://stmv1.transmissaodigital.com/cidadeverdenovo/cidadeverdenovo/chunklist_w1094170448.m3u8
-
-#EXTINF:-1 tvg-id="TVAntena10.br" tvg-name="TV GALLO" tvg-logo="https://i.imgur.com/Go7equc.png" group-title=" PIAUÍ TV ", TV GALLO
+#EXTINF:-1 tvg-id="BandPiaui.br" tvg-name="TV GALLO" tvg-logo="https://i.imgur.com/Go7equc.png" group-title="PIAUÍ TV",TV GALLO
 https://5c483b9d1019c.streamlock.net/8202/8202/chunklist_w974707802.m3u8
-
-#EXTINF:-1 tvg-id="SexyHot.br" tvg-name="CAMILA MINEIRA SAFADA" tvg-logo="https://i.imgur.com/oOgG1I0.jpeg" group-title=" PORNSTARS ", CAMILA MINEIRA SAFADA
+#EXTINF:-1 tvg-id="SexyHot.br" tvg-name="CAMILA MINEIRA SAFADA" tvg-logo="https://i.imgur.com/oOgG1I0.jpeg" group-title="PORNSTARS",CAMILA MINEIRA SAFADA
 https://dl.dropboxusercontent.com/s/iu5rie53opoa26c/Camila_Mineira_-_Mineira_Safadaa.mp4?dl=0
-
-#EXTINF:-1 tvg-id="VenusTV.br" tvg-name="CAMILA MINEIRA SAFADAA" tvg-logo="https://i.imgur.com/oOgG1I0.jpeg" group-title=" PORNSTARS ", CAMILA MINEIRA SAFADAA
+#EXTINF:-1 tvg-id="VenusTV.br" tvg-name="CAMILA MINEIRA SAFADAA" tvg-logo="https://i.imgur.com/oOgG1I0.jpeg" group-title="PORNSTARS",CAMILA MINEIRA SAFADAA
 https://dl.dropboxusercontent.com/s/w7f7dqhsbb7izsh/Camila_Mineira_Safadaa.mp4?dl=0
-
-#EXTINF:-1 tvg-id="Playboy.br" tvg-name="DANIELA FODIDA EM UMA REDE" tvg-logo="https://i.imgur.com/oOgG1I0.jpeg" group-title=" PORNSTARS ", DANIELA FODIDA EM UMA REDE
+#EXTINF:-1 tvg-id="Playboy.br" tvg-name="DANIELA FODIDA EM UMA REDE" tvg-logo="https://i.imgur.com/oOgG1I0.jpeg" group-title="PORNSTARS",DANIELA FODIDA EM UMA REDE
 https://files.catbox.moe/op6vbx.mp4
-
-#EXTINF:-1 tvg-id="SexyHot.br" tvg-name="A ABUSADA E O CONTADOR DE HISTÓRIAS" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title=" SEX PRIVÉ ", A ABUSADA E O CONTADOR DE HISTÓRIAS
+#EXTINF:-1 tvg-id="SexyHot.br" tvg-name="A ABUSADA E O CONTADOR DE HISTÓRIAS" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="SEX PRIVÉ",A ABUSADA E O CONTADOR DE HISTÓRIAS
 https://video21.mais.uol.com.br/16882385-10-90.m3u8
-
-#EXTINF:-1 tvg-id="VenusTV.br" tvg-name="A COROA E A BENGALA" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title=" SEX PRIVÉ ", A COROA E A BENGALA
+#EXTINF:-1 tvg-id="VenusTV.br" tvg-name="A COROA E A BENGALA" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="SEX PRIVÉ",A COROA E A BENGALA
 https://video20.mais.uol.com.br/16931343-10-90.m3u8
-
-#EXTINF:-1 tvg-id="Playboy.br" tvg-name="A COROA EXPERIENTE" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title=" SEX PRIVÉ ", A COROA EXPERIENTE
+#EXTINF:-1 tvg-id="Playboy.br" tvg-name="A COROA EXPERIENTE" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="SEX PRIVÉ",A COROA EXPERIENTE
 https://videohd5.mais.uol.com.br/17039337-10-90.m3u8
-
-#EXTINF:-1 tvg-id="SextremeBrazil.br" tvg-name="A COROA RENATA RIOS" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title=" SEX PRIVÉ ", A COROA RENATA RIOS
+#EXTINF:-1 tvg-id="SextremeBrazil.br" tvg-name="A COROA RENATA RIOS" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="SEX PRIVÉ",A COROA RENATA RIOS
 https://video21.mais.uol.com.br/16930672-10-90.m3u8
-
-#EXTINF:-1 tvg-id="SexyHot.br" tvg-name="A DEVORADORA DE HOMENS" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title=" SEX PRIVÉ ", A DEVORADORA DE HOMENS
+#EXTINF:-1 tvg-id="SexyHot.br" tvg-name="A DEVORADORA DE HOMENS" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="SEX PRIVÉ",A DEVORADORA DE HOMENS
 https://video17.mais.uol.com.br/16797845-10-60.m3u8
-
-#EXTINF:-1 tvg-id="VenusTV.br" tvg-name="A DIVERSÃO ESTÁ GARANTIDA" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title=" SEX PRIVÉ ", A DIVERSÃO ESTÁ GARANTIDA
+#EXTINF:-1 tvg-id="VenusTV.br" tvg-name="A DIVERSÃO ESTÁ GARANTIDA" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="SEX PRIVÉ",A DIVERSÃO ESTÁ GARANTIDA
 https://videohd6.mais.uol.com.br/16718728-10-90.m3u8
-
-#EXTINF:-1 tvg-id="Playboy.br" tvg-name="A FOTÓGRAFA" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title=" SEX PRIVÉ ", A FOTÓGRAFA
+#EXTINF:-1 tvg-id="Playboy.br" tvg-name="A FOTÓGRAFA" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="SEX PRIVÉ",A FOTÓGRAFA
 https://video26.mais.uol.com.br/16807140-10-90.m3u8
-
-#EXTINF:-1 tvg-id="SextremeBrazil.br" tvg-name="A FRUTA DO PRAZER" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title=" SEX PRIVÉ ", A FRUTA DO PRAZER
+#EXTINF:-1 tvg-id="SextremeBrazil.br" tvg-name="A FRUTA DO PRAZER" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="SEX PRIVÉ",A FRUTA DO PRAZER
 https://video21.mais.uol.com.br/16827412-10-90.m3u8
-
-#EXTINF:-1 tvg-id="SexyHot.br" tvg-name="A GATA DO MOMENTO - BRUNA ALVES E DON PICONE" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title=" SEX PRIVÉ ", A GATA DO MOMENTO - BRUNA ALVES E DON PICONE
+#EXTINF:-1 tvg-id="SexyHot.br" tvg-name="A GATA DO MOMENTO - BRUNA ALVES E DON PICONE" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="SEX PRIVÉ",A GATA DO MOMENTO - BRUNA ALVES E DON PICONE
 https://video18.mais.uol.com.br/16678716-10-90.m3u8
-
-#EXTINF:-1 tvg-id="VenusTV.br" tvg-name="A GRANDE COROA" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title=" SEX PRIVÉ ", A GRANDE COROA
+#EXTINF:-1 tvg-id="VenusTV.br" tvg-name="A GRANDE COROA" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="SEX PRIVÉ",A GRANDE COROA
 https://video26.mais.uol.com.br/17035258-10-90.m3u8
-
-#EXTINF:-1 tvg-id="Playboy.br" tvg-name="A GUERREIRA BRUNA FERRAZ" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title=" SEX PRIVÉ ", A GUERREIRA BRUNA FERRAZ
+#EXTINF:-1 tvg-id="Playboy.br" tvg-name="A GUERREIRA BRUNA FERRAZ" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="SEX PRIVÉ",A GUERREIRA BRUNA FERRAZ
 https://video20.mais.uol.com.br/16897521-10-90.m3u8
-
-#EXTINF:-1 tvg-id="SextremeBrazil.br" tvg-name="A LOLITA JULY PAIVA" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title=" SEX PRIVÉ ", A LOLITA JULY PAIVA
+#EXTINF:-1 tvg-id="SextremeBrazil.br" tvg-name="A LOLITA JULY PAIVA" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="SEX PRIVÉ",A LOLITA JULY PAIVA
 https://video28.mais.uol.com.br/17032761-10-90.m3u8
-
-#EXTINF:-1 tvg-id="SexyHot.br" tvg-name="A LOLITA MORGANA DARK" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title=" SEX PRIVÉ ", A LOLITA MORGANA DARK
+#EXTINF:-1 tvg-id="SexyHot.br" tvg-name="A LOLITA MORGANA DARK" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="SEX PRIVÉ",A LOLITA MORGANA DARK
 https://videohd6.mais.uol.com.br/16932777-10-90.m3u8
-
-#EXTINF:-1 tvg-id="VenusTV.br" tvg-name="A MORENA DO FUNK" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title=" SEX PRIVÉ ", A MORENA DO FUNK
+#EXTINF:-1 tvg-id="VenusTV.br" tvg-name="A MORENA DO FUNK" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="SEX PRIVÉ",A MORENA DO FUNK
 https://video17.mais.uol.com.br/16930374-10-90.m3u8
-
-#EXTINF:-1 tvg-id="Playboy.br" tvg-name="A NOVINHA JÉSSICA TAYLOR" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title=" SEX PRIVÉ ", A NOVINHA JÉSSICA TAYLOR
+#EXTINF:-1 tvg-id="Playboy.br" tvg-name="A NOVINHA JÉSSICA TAYLOR" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="SEX PRIVÉ",A NOVINHA JÉSSICA TAYLOR
 https://video29.mais.uol.com.br/16940410-10-50.m3u8
-
-#EXTINF:-1 tvg-id="SextremeBrazil.br" tvg-name="A PLANTA SAFADA JU PANTERA" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title=" SEX PRIVÉ ", A PLANTA SAFADA JU PANTERA
+#EXTINF:-1 tvg-id="SextremeBrazil.br" tvg-name="A PLANTA SAFADA JU PANTERA" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="SEX PRIVÉ",A PLANTA SAFADA JU PANTERA
 https://videohd2.mais.uol.com.br/16944844-10-90.m3u8
-
-#EXTINF:-1 tvg-id="SexyHot.br" tvg-name="A PRIMEIRA CENA A GENTE NUNCA ESQUECE" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title=" SEX PRIVÉ ", A PRIMEIRA CENA A GENTE NUNCA ESQUECE
+#EXTINF:-1 tvg-id="SexyHot.br" tvg-name="A PRIMEIRA CENA A GENTE NUNCA ESQUECE" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="SEX PRIVÉ",A PRIMEIRA CENA A GENTE NUNCA ESQUECE
 https://video26.mais.uol.com.br/16793399-10-90.m3u8
-
-#EXTINF:-1 tvg-id="VenusTV.br" tvg-name="A PRIMEIRA VEZ DA MASCARADA" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title=" SEX PRIVÉ ", A PRIMEIRA VEZ DA MASCARADA
+#EXTINF:-1 tvg-id="VenusTV.br" tvg-name="A PRIMEIRA VEZ DA MASCARADA" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="SEX PRIVÉ",A PRIMEIRA VEZ DA MASCARADA
 https://videohd2.mais.uol.com.br/16837592-10-90.m3u8
-
-#EXTINF:-1 tvg-id="Playboy.br" tvg-name="A PRIMEIRA VEZ DA NINFETINHA NA COZINHA" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title=" SEX PRIVÉ ", A PRIMEIRA VEZ DA NINFETINHA NA COZINHA
+#EXTINF:-1 tvg-id="Playboy.br" tvg-name="A PRIMEIRA VEZ DA NINFETINHA NA COZINHA" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="SEX PRIVÉ",A PRIMEIRA VEZ DA NINFETINHA NA COZINHA
 https://video19.mais.uol.com.br/16940408-10-90.m3u8
-
-#EXTINF:-1 tvg-id="SextremeBrazil.br" tvg-name="A PRIMEIRA VEZ DE FOXX" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title=" SEX PRIVÉ ", A PRIMEIRA VEZ DE FOXX
+#EXTINF:-1 tvg-id="SextremeBrazil.br" tvg-name="A PRIMEIRA VEZ DE FOXX" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="SEX PRIVÉ",A PRIMEIRA VEZ DE FOXX
 https://video18.mais.uol.com.br/16878122-10-90.m3u8
-
-#EXTINF:-1 tvg-id="SexyHot.br" tvg-name="A RUIVINHA QUER TUDO COM O KID" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title=" SEX PRIVÉ ", A RUIVINHA QUER TUDO COM O KID
+#EXTINF:-1 tvg-id="SexyHot.br" tvg-name="A RUIVINHA QUER TUDO COM O KID" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="SEX PRIVÉ",A RUIVINHA QUER TUDO COM O KID
 https://video18.mais.uol.com.br/17049490-10-90.m3u8
-
-#EXTINF:-1 tvg-id="VenusTV.br" tvg-name="A SAFADA" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title=" SEX PRIVÉ ", A SAFADA
+#EXTINF:-1 tvg-id="VenusTV.br" tvg-name="A SAFADA" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="SEX PRIVÉ",A SAFADA
 https://video17.mais.uol.com.br/16793572-10-90.m3u8
-
-#EXTINF:-1 tvg-id="Playboy.br" tvg-name="A SAFADA FERNANDINHA FERNANDEZ" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title=" SEX PRIVÉ ", A SAFADA FERNANDINHA FERNANDEZ
+#EXTINF:-1 tvg-id="Playboy.br" tvg-name="A SAFADA FERNANDINHA FERNANDEZ" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="SEX PRIVÉ",A SAFADA FERNANDINHA FERNANDEZ
 https://videohd4.mais.uol.com.br/16934509-10-90.m3u8
-
-#EXTINF:-1 tvg-id="SextremeBrazil.br" tvg-name="A SURFISTINHA EMANUELLE" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title=" SEX PRIVÉ ", A SURFISTINHA EMANUELLE
+#EXTINF:-1 tvg-id="SextremeBrazil.br" tvg-name="A SURFISTINHA EMANUELLE" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="SEX PRIVÉ",A SURFISTINHA EMANUELLE
 https://video23.mais.uol.com.br/16930688-10-90.m3u8
-
-#EXTINF:-1 tvg-id="SexyHot.br" tvg-name="A SURUBA DA MÔNICA MATTOS" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title=" SEX PRIVÉ ", A SURUBA DA MÔNICA MATTOS
+#EXTINF:-1 tvg-id="SexyHot.br" tvg-name="A SURUBA DA MÔNICA MATTOS" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="SEX PRIVÉ",A SURUBA DA MÔNICA MATTOS
 https://video19.mais.uol.com.br/16935964-10-90.m3u8
-
-#EXTINF:-1 tvg-id="VenusTV.br" tvg-name="A SURUBA DO IMPERADOR" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title=" SEX PRIVÉ ", A SURUBA DO IMPERADOR
+#EXTINF:-1 tvg-id="VenusTV.br" tvg-name="A SURUBA DO IMPERADOR" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="SEX PRIVÉ",A SURUBA DO IMPERADOR
 https://videohd7.mais.uol.com.br/16944855-10-90.m3u8
-
-#EXTINF:-1 tvg-id="Playboy.br" tvg-name="ACORDANDO A PALOMA JOY DAQUELE JEITO!" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title=" SEX PRIVÉ ", ACORDANDO A PALOMA JOY DAQUELE JEITO!
+#EXTINF:-1 tvg-id="Playboy.br" tvg-name="ACORDANDO A PALOMA JOY DAQUELE JEITO!" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="SEX PRIVÉ",ACORDANDO A PALOMA JOY DAQUELE JEITO!
 https://video32.mais.uol.com.br/16702051-10-90.m3u8
-
-#EXTINF:-1 tvg-id="SextremeBrazil.br" tvg-name="AGUENTA O BIG?" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title=" SEX PRIVÉ ", AGUENTA O BIG?
+#EXTINF:-1 tvg-id="SextremeBrazil.br" tvg-name="AGUENTA O BIG?" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="SEX PRIVÉ",AGUENTA O BIG?
 https://video20.mais.uol.com.br/16939572-10-90.m3u8
-
-#EXTINF:-1 tvg-id="SexyHot.br" tvg-name="ALEXANDRE FROTA VENDENDO O CORPO PARA PAMELA BUTT" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title=" SEX PRIVÉ ", ALEXANDRE FROTA VENDENDO O CORPO PARA PAMELA BUTT
+#EXTINF:-1 tvg-id="SexyHot.br" tvg-name="ALEXANDRE FROTA VENDENDO O CORPO PARA PAMELA BUTT" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="SEX PRIVÉ",ALEXANDRE FROTA VENDENDO O CORPO PARA PAMELA BUTT
 https://video21.mais.uol.com.br/16702573-10-90.m3u8
-
-#EXTINF:-1 tvg-id="VenusTV.br" tvg-name="AMOR E TRAIÇÃO - BÁRBARA ALVES E ED JÚNIOR" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title=" SEX PRIVÉ ", AMOR E TRAIÇÃO - BÁRBARA ALVES E ED JÚNIOR
+#EXTINF:-1 tvg-id="VenusTV.br" tvg-name="AMOR E TRAIÇÃO - BÁRBARA ALVES E ED JÚNIOR" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="SEX PRIVÉ",AMOR E TRAIÇÃO - BÁRBARA ALVES E ED JÚNIOR
 https://videohd1.mais.uol.com.br/16678735-10-90.m3u8
-
-#EXTINF:-1 tvg-id="SextremeBrazil.br" tvg-name="ANAL COM A JULY PAIVA" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title=" SEX PRIVÉ ", ANAL COM A JULY PAIVA
+#EXTINF:-1 tvg-id="SextremeBrazil.br" tvg-name="ANAL COM A JULY PAIVA" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="SEX PRIVÉ",ANAL COM A JULY PAIVA
 https://video21.mais.uol.com.br/16910702-10-90.m3u8
-
-#EXTINF:-1 tvg-id="SexyHot.br" tvg-name="ANAL COM BIG MACKY" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title=" SEX PRIVÉ ", ANAL COM BIG MACKY
+#EXTINF:-1 tvg-id="SexyHot.br" tvg-name="ANAL COM BIG MACKY" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="SEX PRIVÉ",ANAL COM BIG MACKY
 https://video20.mais.uol.com.br/16877808-10-90.m3u8
-
-#EXTINF:-1 tvg-id="VenusTV.br" tvg-name="ANAL DA NINFETA" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title=" SEX PRIVÉ ", ANAL DA NINFETA
+#EXTINF:-1 tvg-id="VenusTV.br" tvg-name="ANAL DA NINFETA" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="SEX PRIVÉ",ANAL DA NINFETA
 https://videohd5.mais.uol.com.br/16895044-10-90.m3u8
-
-#EXTINF:-1 tvg-id="Playboy.br" tvg-name="ANAL DELICIOSO" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title=" SEX PRIVÉ ", ANAL DELICIOSO
+#EXTINF:-1 tvg-id="Playboy.br" tvg-name="ANAL DELICIOSO" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="SEX PRIVÉ",ANAL DELICIOSO
 https://videohd4.mais.uol.com.br/16931302-10-90.m3u8
-
-#EXTINF:-1 tvg-id="SextremeBrazil.br" tvg-name="ANAL GOSTOSO" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title=" SEX PRIVÉ ", ANAL GOSTOSO
+#EXTINF:-1 tvg-id="SextremeBrazil.br" tvg-name="ANAL GOSTOSO" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="SEX PRIVÉ",ANAL GOSTOSO
 https://video26.mais.uol.com.br/16821116-10-90.m3u8
-
-#EXTINF:-1 tvg-id="SexyHot.br" tvg-name="ANAL INSANO" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title=" SEX PRIVÉ ", ANAL INSANO
+#EXTINF:-1 tvg-id="SexyHot.br" tvg-name="ANAL INSANO" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="SEX PRIVÉ",ANAL INSANO
 https://video26.mais.uol.com.br/16793530-10-90.m3u8
-
-#EXTINF:-1 tvg-id="VenusTV.br" tvg-name="APRENDENDO DE TUDO UM POUCO" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title=" SEX PRIVÉ ", APRENDENDO DE TUDO UM POUCO
+#EXTINF:-1 tvg-id="VenusTV.br" tvg-name="APRENDENDO DE TUDO UM POUCO" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="SEX PRIVÉ",APRENDENDO DE TUDO UM POUCO
 https://video19.mais.uol.com.br/16718679-10-90.m3u8
-
-#EXTINF:-1 tvg-id="Playboy.br" tvg-name="AQUELA GATA DO WHATS..." tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title=" SEX PRIVÉ ", AQUELA GATA DO WHATS...
+#EXTINF:-1 tvg-id="Playboy.br" tvg-name="AQUELA GATA DO WHATS..." tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="SEX PRIVÉ",AQUELA GATA DO WHATS...
 https://video32.mais.uol.com.br/16789180-10-90.m3u8
-
-#EXTINF:-1 tvg-id="SextremeBrazil.br" tvg-name="AQUI HOMEM NÃO ENTRA" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title=" SEX PRIVÉ ", AQUI HOMEM NÃO ENTRA
+#EXTINF:-1 tvg-id="SextremeBrazil.br" tvg-name="AQUI HOMEM NÃO ENTRA" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="SEX PRIVÉ",AQUI HOMEM NÃO ENTRA
 https://videohd7.mais.uol.com.br/16793552-10-90.m3u8
-
-#EXTINF:-1 tvg-id="SexPrive.br" tvg-name="BABALU E MAIS DOIS" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title=" SEX PRIVÉ ", BABALU E MAIS DOIS
+#EXTINF:-1 tvg-id="SexPrive.br" tvg-name="BABALU E MAIS DOIS" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="SEX PRIVÉ",BABALU E MAIS DOIS
 https://videohd3.mais.uol.com.br/16998303-10-80.m3u8
-
-#EXTINF:-1 tvg-id="VenusTV.br" tvg-name="BAD BOY" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title=" SEX PRIVÉ ", BAD BOY
+#EXTINF:-1 tvg-id="VenusTV.br" tvg-name="BAD BOY" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="SEX PRIVÉ",BAD BOY
 https://video28.mais.uol.com.br/16682031-10-90.m3u8
-
-#EXTINF:-1 tvg-id="Playboy.br" tvg-name="BANHO DE LEITINHO" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title=" SEX PRIVÉ ", BANHO DE LEITINHO
+#EXTINF:-1 tvg-id="Playboy.br" tvg-name="BANHO DE LEITINHO" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="SEX PRIVÉ",BANHO DE LEITINHO
 https://videohd6.mais.uol.com.br/16826864-10-90.m3u8
-
-#EXTINF:-1 tvg-id="SextremeBrazil.br" tvg-name="BENGALA NO CÚ DA JAPA" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title=" SEX PRIVÉ ", BENGALA NO CÚ DA JAPA
+#EXTINF:-1 tvg-id="SextremeBrazil.br" tvg-name="BENGALA NO CÚ DA JAPA" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="SEX PRIVÉ",BENGALA NO CÚ DA JAPA
 https://videohd3.mais.uol.com.br/16934436-10-90.m3u8
-
-#EXTINF:-1 tvg-id="SexyHot.br" tvg-name="BIG MACKY E A LOIRINHA GOSTOSA" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title=" SEX PRIVÉ ", BIG MACKY E A LOIRINHA GOSTOSA
+#EXTINF:-1 tvg-id="SexyHot.br" tvg-name="BIG MACKY E A LOIRINHA GOSTOSA" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="SEX PRIVÉ",BIG MACKY E A LOIRINHA GOSTOSA
 https://video21.mais.uol.com.br/17035271-10-90.m3u8
-
-#EXTINF:-1 tvg-id="VenusTV.br" tvg-name="BIG MACKY X MÔNICA MATTOS" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title=" SEX PRIVÉ ", BIG MACKY X MÔNICA MATTOS
+#EXTINF:-1 tvg-id="VenusTV.br" tvg-name="BIG MACKY X MÔNICA MATTOS" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="SEX PRIVÉ",BIG MACKY X MÔNICA MATTOS
 https://video21.mais.uol.com.br/16946499-10-90.m3u8
-
-#EXTINF:-1 tvg-id="SexPrive.br" tvg-name="BILHAR SENSUAL" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title=" SEX PRIVÉ ", BILHAR SENSUAL
+#EXTINF:-1 tvg-id="SexPrive.br" tvg-name="BILHAR SENSUAL" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="SEX PRIVÉ",BILHAR SENSUAL
 https://videohd3.mais.uol.com.br/16795680-10-90.m3u8
-
-#EXTINF:-1 tvg-id="SextremeBrazil.br" tvg-name="BILHAR SENSUAL LÉSBICO" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title=" SEX PRIVÉ ", BILHAR SENSUAL LÉSBICO
+#EXTINF:-1 tvg-id="SextremeBrazil.br" tvg-name="BILHAR SENSUAL LÉSBICO" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="SEX PRIVÉ",BILHAR SENSUAL LÉSBICO
 https://videohd2.mais.uol.com.br/16824993-10-90.m3u8
-
-#EXTINF:-1 tvg-id="SexPrive.br" tvg-name="BLACK AND WHITE 8 - MAYARA RODRIGUES" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title=" SEX PRIVÉ ", BLACK AND WHITE 8 - MAYARA RODRIGUES
+#EXTINF:-1 tvg-id="SexPrive.br" tvg-name="BLACK AND WHITE 8 - MAYARA RODRIGUES" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="SEX PRIVÉ",BLACK AND WHITE 8 - MAYARA RODRIGUES
 https://video30.mais.uol.com.br/16678659-10-90.m3u8
-
-#EXTINF:-1 tvg-id="VenusTV.br" tvg-name="BOXE" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title=" SEX PRIVÉ ", BOXE
+#EXTINF:-1 tvg-id="VenusTV.br" tvg-name="BOXE" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="SEX PRIVÉ",BOXE
 https://videohd2.mais.uol.com.br/16803298-10-90.m3u8
-
-#EXTINF:-1 tvg-id="Playboy.br" tvg-name="BRUNA SPYNELLA X KID BENGALA" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title=" SEX PRIVÉ ", BRUNA SPYNELLA X KID BENGALA
+#EXTINF:-1 tvg-id="Playboy.br" tvg-name="BRUNA SPYNELLA X KID BENGALA" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="SEX PRIVÉ",BRUNA SPYNELLA X KID BENGALA
 https://video19.mais.uol.com.br/16998327-10-80.m3u8
-
-#EXTINF:-1 tvg-id="SextremeBrazil.br" tvg-name="CASA DE SWING" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title=" SEX PRIVÉ ", CASA DE SWING
+#EXTINF:-1 tvg-id="SextremeBrazil.br" tvg-name="CASA DE SWING" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="SEX PRIVÉ",CASA DE SWING
 https://video28.mais.uol.com.br/16793611-10-60.m3u8
-
-#EXTINF:-1 tvg-id="SexyHot.br" tvg-name="CLOSES ERÓTICOS" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title=" SEX PRIVÉ ", CLOSES ERÓTICOS
+#EXTINF:-1 tvg-id="SexyHot.br" tvg-name="CLOSES ERÓTICOS" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="SEX PRIVÉ",CLOSES ERÓTICOS
 https://video19.mais.uol.com.br/16821069-10-90.m3u8
-
-#EXTINF:-1 tvg-id="VenusTV.br" tvg-name="CLUBE PRIVÉ - MATHEUS CARRIERI E LANA STARCK" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title=" SEX PRIVÉ ", CLUBE PRIVÉ - MATHEUS CARRIERI E LANA STARCK
+#EXTINF:-1 tvg-id="VenusTV.br" tvg-name="CLUBE PRIVÉ - MATHEUS CARRIERI E LANA STARCK" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="SEX PRIVÉ",CLUBE PRIVÉ - MATHEUS CARRIERI E LANA STARCK
 https://video24.mais.uol.com.br/16676226-10-90.m3u8
-
-#EXTINF:-1 tvg-id="SexPrive.br" tvg-name="COLEGIAL EXIGENTE" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title=" SEX PRIVÉ ", COLEGIAL EXIGENTE
+#EXTINF:-1 tvg-id="SexPrive.br" tvg-name="COLEGIAL EXIGENTE" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="SEX PRIVÉ",COLEGIAL EXIGENTE
 https://videohd3.mais.uol.com.br/16826771-10-90.m3u8
-
-#EXTINF:-1 tvg-id="SextremeBrazil.br" tvg-name="COMENDO A IRMÃ DO AMIGO" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title=" SEX PRIVÉ ", COMENDO A IRMÃ DO AMIGO
+#EXTINF:-1 tvg-id="SextremeBrazil.br" tvg-name="COMENDO A IRMÃ DO AMIGO" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="SEX PRIVÉ",COMENDO A IRMÃ DO AMIGO
 https://videohd3.mais.uol.com.br/16937220-10-90.m3u8
-
-#EXTINF:-1 tvg-id="SexPrive.br" tvg-name="COMENDO A MULHER DO CORNO" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title=" SEX PRIVÉ ", COMENDO A MULHER DO CORNO
+#EXTINF:-1 tvg-id="SexPrive.br" tvg-name="COMENDO A MULHER DO CORNO" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="SEX PRIVÉ",COMENDO A MULHER DO CORNO
 https://videohd2.mais.uol.com.br/16948174-10-90.m3u8
-
-#EXTINF:-1 tvg-id="VenusTV.br" tvg-name="COMO DEIXAR UM HOMEM LOUCO COM A BOCA" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title=" SEX PRIVÉ ", COMO DEIXAR UM HOMEM LOUCO COM A BOCA
+#EXTINF:-1 tvg-id="VenusTV.br" tvg-name="COMO DEIXAR UM HOMEM LOUCO COM A BOCA" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="SEX PRIVÉ",COMO DEIXAR UM HOMEM LOUCO COM A BOCA
 https://video27.mais.uol.com.br/16795670-10-70.m3u8
-
-#EXTINF:-1 tvg-id="Playboy.br" tvg-name="COMO UM HOMEM DEVE MASSAGEAR UMA MULHER" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title=" SEX PRIVÉ ", COMO UM HOMEM DEVE MASSAGEAR UMA MULHER
+#EXTINF:-1 tvg-id="Playboy.br" tvg-name="COMO UM HOMEM DEVE MASSAGEAR UMA MULHER" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="SEX PRIVÉ",COMO UM HOMEM DEVE MASSAGEAR UMA MULHER
 https://video31.mais.uol.com.br/16828999-10-50.m3u8
-
-#EXTINF:-1 tvg-id="SextremeBrazil.br" tvg-name="COMO UMA MULHER DEVE MASSAGEAR UM HOMEM" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title=" SEX PRIVÉ ", COMO UMA MULHER DEVE MASSAGEAR UM HOMEM
+#EXTINF:-1 tvg-id="SextremeBrazil.br" tvg-name="COMO UMA MULHER DEVE MASSAGEAR UM HOMEM" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="SEX PRIVÉ",COMO UMA MULHER DEVE MASSAGEAR UM HOMEM
 https://video22.mais.uol.com.br/16829008-10-50.m3u8
-
-#EXTINF:-1 tvg-id="SexyHot.br" tvg-name="CURRADA AO AR LIVRE" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title=" SEX PRIVÉ ", CURRADA AO AR LIVRE
+#EXTINF:-1 tvg-id="SexyHot.br" tvg-name="CURRADA AO AR LIVRE" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="SEX PRIVÉ",CURRADA AO AR LIVRE
 https://video31.mais.uol.com.br/16827414-10-90.m3u8
-
-#EXTINF:-1 tvg-id="VenusTV.br" tvg-name="DANDO O CÚ PARA O KID BENGALA" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title=" SEX PRIVÉ ", DANDO O CÚ PARA O KID BENGALA
+#EXTINF:-1 tvg-id="VenusTV.br" tvg-name="DANDO O CÚ PARA O KID BENGALA" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="SEX PRIVÉ",DANDO O CÚ PARA O KID BENGALA
 https://video31.mais.uol.com.br/17003732-10-90.m3u8
-
-#EXTINF:-1 tvg-id="SexPrive.br" tvg-name="DANDO O RABO NA ACADEMIA" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title=" SEX PRIVÉ ", DANDO O RABO NA ACADEMIA
+#EXTINF:-1 tvg-id="SexPrive.br" tvg-name="DANDO O RABO NA ACADEMIA" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="SEX PRIVÉ",DANDO O RABO NA ACADEMIA
 https://video18.mais.uol.com.br/16881592-10-90.m3u8
-
-#EXTINF:-1 tvg-id="SextremeBrazil.br" tvg-name="DANDO SEM CANSAR" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title=" SEX PRIVÉ ", DANDO SEM CANSAR
+#EXTINF:-1 tvg-id="SextremeBrazil.br" tvg-name="DANDO SEM CANSAR" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="SEX PRIVÉ",DANDO SEM CANSAR
 https://video19.mais.uol.com.br/16939566-10-90.m3u8
-
-#EXTINF:-1 tvg-id="SexyHot.br" tvg-name="DE LADINHO NO SOFÁ" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title=" SEX PRIVÉ ", DE LADINHO NO SOFÁ
+#EXTINF:-1 tvg-id="SexyHot.br" tvg-name="DE LADINHO NO SOFÁ" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="SEX PRIVÉ",DE LADINHO NO SOFÁ
 https://video17.mais.uol.com.br/16879333-10-90.m3u8
-
-#EXTINF:-1 tvg-id="VenusTV.br" tvg-name="DE OLHO NA NOVINHA" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title=" SEX PRIVÉ ", DE OLHO NA NOVINHA
+#EXTINF:-1 tvg-id="VenusTV.br" tvg-name="DE OLHO NA NOVINHA" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="SEX PRIVÉ",DE OLHO NA NOVINHA
 https://video20.mais.uol.com.br/16879335-10-90.m3u8
-
-#EXTINF:-1 tvg-id="Playboy.br" tvg-name="DE QUATRO NO SOFÁ" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title=" SEX PRIVÉ ", DE QUATRO NO SOFÁ
+#EXTINF:-1 tvg-id="Playboy.br" tvg-name="DE QUATRO NO SOFÁ" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="SEX PRIVÉ",DE QUATRO NO SOFÁ
 https://video22.mais.uol.com.br/16881719-10-90.m3u8
-
-#EXTINF:-1 tvg-id="SextremeBrazil.br" tvg-name="DEPOIS DOS 40 COM KID BENGALA" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title=" SEX PRIVÉ ", DEPOIS DOS 40 COM KID BENGALA
+#EXTINF:-1 tvg-id="SextremeBrazil.br" tvg-name="DEPOIS DOS 40 COM KID BENGALA" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="SEX PRIVÉ",DEPOIS DOS 40 COM KID BENGALA
 https://video19.mais.uol.com.br/16930696-10-80.m3u8
-
-#EXTINF:-1 tvg-id="SexyHot.br" tvg-name="DEPOIS DOS 40 COM O KID" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title=" SEX PRIVÉ ", DEPOIS DOS 40 COM O KID
+#EXTINF:-1 tvg-id="SexyHot.br" tvg-name="DEPOIS DOS 40 COM O KID" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="SEX PRIVÉ",DEPOIS DOS 40 COM O KID
 https://video19.mais.uol.com.br/16930696-10-90.m3u8
-
-#EXTINF:-1 tvg-id="VenusTV.br" tvg-name="DESBRAVANDO NOVOS ORIFÍCIOS" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title=" SEX PRIVÉ ", DESBRAVANDO NOVOS ORIFÍCIOS
+#EXTINF:-1 tvg-id="VenusTV.br" tvg-name="DESBRAVANDO NOVOS ORIFÍCIOS" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="SEX PRIVÉ",DESBRAVANDO NOVOS ORIFÍCIOS
 https://videohd3.mais.uol.com.br/16827427-10-90.m3u8
-
-#EXTINF:-1 tvg-id="SexPrive.br" tvg-name="DETETIVE SAFADA" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title=" SEX PRIVÉ ", DETETIVE SAFADA
+#EXTINF:-1 tvg-id="SexPrive.br" tvg-name="DETETIVE SAFADA" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="SEX PRIVÉ",DETETIVE SAFADA
 https://video17.mais.uol.com.br/16907263-10-90.m3u8
-
-#EXTINF:-1 tvg-id="SextremeBrazil.br" tvg-name="DOAÇÃO GENEROSA" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title=" SEX PRIVÉ ", DOAÇÃO GENEROSA
+#EXTINF:-1 tvg-id="SextremeBrazil.br" tvg-name="DOAÇÃO GENEROSA" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="SEX PRIVÉ",DOAÇÃO GENEROSA
 https://video18.mais.uol.com.br/16835338-10-90.m3u8
-
-#EXTINF:-1 tvg-id="SexPrive.br" tvg-name="DOM PICONE MOSTRANDO QUE SABE DOMAR NOVINHAS E COROAS" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title=" SEX PRIVÉ ", DOM PICONE MOSTRANDO QUE SABE DOMAR NOVINHAS E COROAS
+#EXTINF:-1 tvg-id="SexPrive.br" tvg-name="DOM PICONE MOSTRANDO QUE SABE DOMAR NOVINHAS E COROAS" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="SEX PRIVÉ",DOM PICONE MOSTRANDO QUE SABE DOMAR NOVINHAS E COROAS
 https://videohd7.mais.uol.com.br/16702567-10-90.m3u8
-
-#EXTINF:-1 tvg-id="VenusTV.br" tvg-name="DP COM A MAYARA RODRIGUES" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title=" SEX PRIVÉ ", DP COM A MAYARA RODRIGUES
+#EXTINF:-1 tvg-id="VenusTV.br" tvg-name="DP COM A MAYARA RODRIGUES" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="SEX PRIVÉ",DP COM A MAYARA RODRIGUES
 https://video26.mais.uol.com.br/16998337-10-90.m3u8
-
-#EXTINF:-1 tvg-id="Playboy.br" tvg-name="DP COM A PAMELA" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title=" SEX PRIVÉ ", DP COM A PAMELA
+#EXTINF:-1 tvg-id="Playboy.br" tvg-name="DP COM A PAMELA" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="SEX PRIVÉ",DP COM A PAMELA
 https://videohd6.mais.uol.com.br/16933513-10-90.m3u8
-
-#EXTINF:-1 tvg-id="SextremeBrazil.br" tvg-name="DP COM MAYARA RODRIGUES" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title=" SEX PRIVÉ ", DP COM MAYARA RODRIGUES
+#EXTINF:-1 tvg-id="SextremeBrazil.br" tvg-name="DP COM MAYARA RODRIGUES" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="SEX PRIVÉ",DP COM MAYARA RODRIGUES
 https://video26.mais.uol.com.br/16998337-10-60.m3u8
-
-#EXTINF:-1 tvg-id="SexyHot.br" tvg-name="DP DA ELISA" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title=" SEX PRIVÉ ", DP DA ELISA
+#EXTINF:-1 tvg-id="SexyHot.br" tvg-name="DP DA ELISA" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="SEX PRIVÉ",DP DA ELISA
 https://video22.mais.uol.com.br/16904237-10-90.m3u8
-
-#EXTINF:-1 tvg-id="VenusTV.br" tvg-name="DUAS CELEBRIDADES EM UM ENCONTRO BEM SAFADO" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title=" SEX PRIVÉ ", DUAS CELEBRIDADES EM UM ENCONTRO BEM SAFADO
+#EXTINF:-1 tvg-id="VenusTV.br" tvg-name="DUAS CELEBRIDADES EM UM ENCONTRO BEM SAFADO" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="SEX PRIVÉ",DUAS CELEBRIDADES EM UM ENCONTRO BEM SAFADO
 https://video26.mais.uol.com.br/16683611-10-90.m3u8
-
-#EXTINF:-1 tvg-id="Playboy.br" tvg-name="DUPLA PENETRAÇÃO COM A SAFADINHA" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title=" SEX PRIVÉ ", DUPLA PENETRAÇÃO COM A SAFADINHA
+#EXTINF:-1 tvg-id="Playboy.br" tvg-name="DUPLA PENETRAÇÃO COM A SAFADINHA" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="SEX PRIVÉ",DUPLA PENETRAÇÃO COM A SAFADINHA
 https://video22.mais.uol.com.br/16888455-10-90.m3u8
-
-#EXTINF:-1 tvg-id="SexyHot.br" tvg-name="E BOCA NA PICA!" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title=" SEX PRIVÉ ", E BOCA NA PICA!
+#EXTINF:-1 tvg-id="SexyHot.br" tvg-name="E BOCA NA PICA!" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="SEX PRIVÉ",E BOCA NA PICA!
 https://video28.mais.uol.com.br/16718761-10-90.m3u8
-
-#EXTINF:-1 tvg-id="SexPrive.br" tvg-name="ELA DIZ QUE É VIRGEM..." tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title=" SEX PRIVÉ ", ELA DIZ QUE É VIRGEM...
+#EXTINF:-1 tvg-id="SexPrive.br" tvg-name="ELA DIZ QUE É VIRGEM..." tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="SEX PRIVÉ",ELA DIZ QUE É VIRGEM...
 https://videohd1.mais.uol.com.br/16718681-10-90.m3u8
-
-#EXTINF:-1 tvg-id="Playboy.br" tvg-name="ELA SÓ QUER O KID BENGALA" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title=" SEX PRIVÉ ", ELA SÓ QUER O KID BENGALA
+#EXTINF:-1 tvg-id="Playboy.br" tvg-name="ELA SÓ QUER O KID BENGALA" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="SEX PRIVÉ",ELA SÓ QUER O KID BENGALA
 https://videohd4.mais.uol.com.br/17044322-10-90.m3u8
-
-#EXTINF:-1 tvg-id="SextremeBrazil.br" tvg-name="ELISA SANCHES COM DOIS" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title=" SEX PRIVÉ ", ELISA SANCHES COM DOIS
+#EXTINF:-1 tvg-id="SextremeBrazil.br" tvg-name="ELISA SANCHES COM DOIS" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="SEX PRIVÉ",ELISA SANCHES COM DOIS
 https://video30.mais.uol.com.br/16836373-10-90.m3u8
-
-#EXTINF:-1 tvg-id="SexyHot.br" tvg-name="ELISA SANCHES EM UM MENAGÉ BEM SAFADO" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title=" SEX PRIVÉ ", ELISA SANCHES EM UM MENAGÉ BEM SAFADO
+#EXTINF:-1 tvg-id="SexyHot.br" tvg-name="ELISA SANCHES EM UM MENAGÉ BEM SAFADO" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="SEX PRIVÉ",ELISA SANCHES EM UM MENAGÉ BEM SAFADO
 https://videohd3.mais.uol.com.br/16793527-10-90.m3u8
-
-#EXTINF:-1 tvg-id="SexPrive.br" tvg-name="ENCHENDO O COPINHO 9 - VOLUME 3" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title=" SEX PRIVÉ ", ENCHENDO O COPINHO 9 - VOLUME 3
+#EXTINF:-1 tvg-id="SexPrive.br" tvg-name="ENCHENDO O COPINHO 9 - VOLUME 3" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="SEX PRIVÉ",ENCHENDO O COPINHO 9 - VOLUME 3
 https://videohd7.mais.uol.com.br/16826854-10-90.m3u8
-
-#EXTINF:-1 tvg-id="SextremeBrazil.br" tvg-name="ENCHENDO O COPINHO 9 VOLUME 1" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title=" SEX PRIVÉ ", ENCHENDO O COPINHO 9 VOLUME 1
+#EXTINF:-1 tvg-id="SextremeBrazil.br" tvg-name="ENCHENDO O COPINHO 9 VOLUME 1" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="SEX PRIVÉ",ENCHENDO O COPINHO 9 VOLUME 1
 https://video27.mais.uol.com.br/16816348-10-90.m3u8
-
-#EXTINF:-1 tvg-id="SexPrive.br" tvg-name="Espantando e dando para o fantasma" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title=" SEX PRIVÉ ", Espantando e dando para o fantasma
+#EXTINF:-1 tvg-id="SexPrive.br" tvg-name="Espantando e dando para o fantasma" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="SEX PRIVÉ",Espantando e dando para o fantasma
 https://videohd7.mais.uol.com.br/16898495-10-50.m3u8
-
-#EXTINF:-1 tvg-id="SexPrive.br" tvg-name="ESTA COROA AGUENTA TUDO" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title=" SEX PRIVÉ ", ESTA COROA AGUENTA TUDO
+#EXTINF:-1 tvg-id="SexPrive.br" tvg-name="ESTA COROA AGUENTA TUDO" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="SEX PRIVÉ",ESTA COROA AGUENTA TUDO
 https://videohd2.mais.uol.com.br/17039384-10-90.m3u8
-
-#EXTINF:-1 tvg-id="Playboy.br" tvg-name="ESTRANHO AMOR - LARISSA MENDES E CARLÃO BAZUCA" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title=" SEX PRIVÉ ", ESTRANHO AMOR - LARISSA MENDES E CARLÃO BAZUCA
+#EXTINF:-1 tvg-id="Playboy.br" tvg-name="ESTRANHO AMOR - LARISSA MENDES E CARLÃO BAZUCA" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="SEX PRIVÉ",ESTRANHO AMOR - LARISSA MENDES E CARLÃO BAZUCA
 https://video21.mais.uol.com.br/16678673-10-90.m3u8
-
-#EXTINF:-1 tvg-id="SexPrive.br" tvg-name="FANTASMA DO SEXO" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title=" SEX PRIVÉ ", FANTASMA DO SEXO
+#EXTINF:-1 tvg-id="SexPrive.br" tvg-name="FANTASMA DO SEXO" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="SEX PRIVÉ",FANTASMA DO SEXO
 https://videohd4.mais.uol.com.br/16943971-10-90.m3u8
-
-#EXTINF:-1 tvg-id="SexyHot.br" tvg-name="FAÇAM SUAS APOSTAS." tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title=" SEX PRIVÉ ", FAÇAM SUAS APOSTAS.
+#EXTINF:-1 tvg-id="SexyHot.br" tvg-name="FAÇAM SUAS APOSTAS." tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="SEX PRIVÉ",FAÇAM SUAS APOSTAS.
 https://video29.mais.uol.com.br/16718689-10-90.m3u8
-
-#EXTINF:-1 tvg-id="VenusTV.br" tvg-name="FETICHISTA MORGANA" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title=" SEX PRIVÉ ", FETICHISTA MORGANA
+#EXTINF:-1 tvg-id="VenusTV.br" tvg-name="FETICHISTA MORGANA" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="SEX PRIVÉ",FETICHISTA MORGANA
 https://video19.mais.uol.com.br/16988283-10-70.m3u8
-
-#EXTINF:-1 tvg-id="SexPrive.br" tvg-name="FISTING NA HIADY MANSUR" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title=" SEX PRIVÉ ", FISTING NA HIADY MANSUR
+#EXTINF:-1 tvg-id="SexPrive.br" tvg-name="FISTING NA HIADY MANSUR" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="SEX PRIVÉ",FISTING NA HIADY MANSUR
 https://videohd1.mais.uol.com.br/16941275-10-90.m3u8
-
-#EXTINF:-1 tvg-id="SextremeBrazil.br" tvg-name="FODINHA COM ROGÊ FERRO" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title=" SEX PRIVÉ ", FODINHA COM ROGÊ FERRO
+#EXTINF:-1 tvg-id="SextremeBrazil.br" tvg-name="FODINHA COM ROGÊ FERRO" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="SEX PRIVÉ",FODINHA COM ROGÊ FERRO
 https://videohd3.mais.uol.com.br/16944829-10-90.m3u8
-
-#EXTINF:-1 tvg-id="SexyHot.br" tvg-name="GAROTA SAMAMBAIA" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title=" SEX PRIVÉ ", GAROTA SAMAMBAIA
+#EXTINF:-1 tvg-id="SexyHot.br" tvg-name="GAROTA SAMAMBAIA" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="SEX PRIVÉ",GAROTA SAMAMBAIA
 https://videohd4.mais.uol.com.br/16682142-10-90.m3u8
-
-#EXTINF:-1 tvg-id="VenusTV.br" tvg-name="GAROTAS DA MÁFIA" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title=" SEX PRIVÉ ", GAROTAS DA MÁFIA
+#EXTINF:-1 tvg-id="VenusTV.br" tvg-name="GAROTAS DA MÁFIA" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="SEX PRIVÉ",GAROTAS DA MÁFIA
 https://video19.mais.uol.com.br/16682529-10-90.m3u8
-
-#EXTINF:-1 tvg-id="SexPrive.br" tvg-name="GATAS DE IPANEMA" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title=" SEX PRIVÉ ", GATAS DE IPANEMA
+#EXTINF:-1 tvg-id="SexPrive.br" tvg-name="GATAS DE IPANEMA" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="SEX PRIVÉ",GATAS DE IPANEMA
 https://videohd7.mais.uol.com.br/16834413-10-90.m3u8
-
-#EXTINF:-1 tvg-id="SextremeBrazil.br" tvg-name="GOSTOSAS TESOURANDO" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title=" SEX PRIVÉ ", GOSTOSAS TESOURANDO
+#EXTINF:-1 tvg-id="SextremeBrazil.br" tvg-name="GOSTOSAS TESOURANDO" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="SEX PRIVÉ",GOSTOSAS TESOURANDO
 https://video20.mais.uol.com.br/16881937-10-90.m3u8
-
-#EXTINF:-1 tvg-id="SexyHot.br" tvg-name="GOZANDO DENTRO" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title=" SEX PRIVÉ ", GOZANDO DENTRO
+#EXTINF:-1 tvg-id="SexyHot.br" tvg-name="GOZANDO DENTRO" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="SEX PRIVÉ",GOZANDO DENTRO
 https://video29.mais.uol.com.br/16881704-10-90.m3u8
-
-#EXTINF:-1 tvg-id="VenusTV.br" tvg-name="GOZANDO NA BUNDINHA" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title=" SEX PRIVÉ ", GOZANDO NA BUNDINHA
+#EXTINF:-1 tvg-id="VenusTV.br" tvg-name="GOZANDO NA BUNDINHA" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="SEX PRIVÉ",GOZANDO NA BUNDINHA
 https://videohd1.mais.uol.com.br/16935452-10-90.m3u8
-
-#EXTINF:-1 tvg-id="Playboy.br" tvg-name="GOZANDO NA MONICA MATTOS" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title=" SEX PRIVÉ ", GOZANDO NA MONICA MATTOS
+#EXTINF:-1 tvg-id="Playboy.br" tvg-name="GOZANDO NA MONICA MATTOS" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="SEX PRIVÉ",GOZANDO NA MONICA MATTOS
 https://video23.mais.uol.com.br/17044355-10-90.m3u8
-
-#EXTINF:-1 tvg-id="SextremeBrazil.br" tvg-name="GOZANDO PELO CU" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title=" SEX PRIVÉ ", GOZANDO PELO CU
+#EXTINF:-1 tvg-id="SextremeBrazil.br" tvg-name="GOZANDO PELO CU" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="SEX PRIVÉ",GOZANDO PELO CU
 https://video24.mais.uol.com.br/16816368-10-90.m3u8
-
-#EXTINF:-1 tvg-id="Playboy.br" tvg-name="HORA EXTRA" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title=" SEX PRIVÉ ", HORA EXTRA
+#EXTINF:-1 tvg-id="Playboy.br" tvg-name="HORA EXTRA" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="SEX PRIVÉ",HORA EXTRA
 https://videohd4.mais.uol.com.br/16877468-10-90.m3u8
-
-#EXTINF:-1 tvg-id="Playboy.br" tvg-name="INTER-RACIAL NA PISCINA" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title=" SEX PRIVÉ ", INTER-RACIAL NA PISCINA
+#EXTINF:-1 tvg-id="Playboy.br" tvg-name="INTER-RACIAL NA PISCINA" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="SEX PRIVÉ",INTER-RACIAL NA PISCINA
 https://video23.mais.uol.com.br/16945820-10-60.m3u8
-
-#EXTINF:-1 tvg-id="SextremeBrazil.br" tvg-name="JARDINEIRO SAFADO" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title=" SEX PRIVÉ ", JARDINEIRO SAFADO
+#EXTINF:-1 tvg-id="SextremeBrazil.br" tvg-name="JARDINEIRO SAFADO" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="SEX PRIVÉ",JARDINEIRO SAFADO
 https://video32.mais.uol.com.br/16816356-10-90.m3u8
-
-#EXTINF:-1 tvg-id="Playboy.br" tvg-name="JAZZ DURO COM AS GOSTOSAS" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title=" SEX PRIVÉ ", JAZZ DURO COM AS GOSTOSAS
+#EXTINF:-1 tvg-id="Playboy.br" tvg-name="JAZZ DURO COM AS GOSTOSAS" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="SEX PRIVÉ",JAZZ DURO COM AS GOSTOSAS
 https://video32.mais.uol.com.br/16926262-10-90.m3u8
-
-#EXTINF:-1 tvg-id="Playboy.br" tvg-name="JAZZ DURO DANDO CONTA DA GRINGA" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title=" SEX PRIVÉ ", JAZZ DURO DANDO CONTA DA GRINGA
+#EXTINF:-1 tvg-id="Playboy.br" tvg-name="JAZZ DURO DANDO CONTA DA GRINGA" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="SEX PRIVÉ",JAZZ DURO DANDO CONTA DA GRINGA
 https://video24.mais.uol.com.br/16919441-10-90.m3u8
-
-#EXTINF:-1 tvg-id="Playboy.br" tvg-name="JUJU DOIDERA E MAIS DOIS" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title=" SEX PRIVÉ ", JUJU DOIDERA E MAIS DOIS
+#EXTINF:-1 tvg-id="Playboy.br" tvg-name="JUJU DOIDERA E MAIS DOIS" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="SEX PRIVÉ",JUJU DOIDERA E MAIS DOIS
 https://videohd3.mais.uol.com.br/16898488-10-90.m3u8
-
-#EXTINF:-1 tvg-id="Playboy.br" tvg-name="JÚLIA PAES E SEU BIG MACKY" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title=" SEX PRIVÉ ", JÚLIA PAES E SEU BIG MACKY
+#EXTINF:-1 tvg-id="Playboy.br" tvg-name="JÚLIA PAES E SEU BIG MACKY" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="SEX PRIVÉ",JÚLIA PAES E SEU BIG MACKY
 https://videohd7.mais.uol.com.br/16933606-10-90.m3u8
-
-#EXTINF:-1 tvg-id="SexyHot.br" tvg-name="JULIA PAES ENCARA A POTÊNCIA DO CARLOS BAZUCA" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title=" SEX PRIVÉ ", JULIA PAES ENCARA A POTÊNCIA DO CARLOS BAZUCA
+#EXTINF:-1 tvg-id="SexyHot.br" tvg-name="JULIA PAES ENCARA A POTÊNCIA DO CARLOS BAZUCA" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="SEX PRIVÉ",JULIA PAES ENCARA A POTÊNCIA DO CARLOS BAZUCA
 https://video20.mais.uol.com.br/16673218-10-90.m3u8
-
-#EXTINF:-1 tvg-id="VenusTV.br" tvg-name="JURO QUE NÃO CONTO" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title=" SEX PRIVÉ ", JURO QUE NÃO CONTO
+#EXTINF:-1 tvg-id="VenusTV.br" tvg-name="JURO QUE NÃO CONTO" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="SEX PRIVÉ",JURO QUE NÃO CONTO
 https://video18.mais.uol.com.br/16819598-10-90.m3u8
-
-#EXTINF:-1 tvg-id="Playboy.br" tvg-name="KID BENGALA COM FOME DE SEXO" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title=" SEX PRIVÉ ", KID BENGALA COM FOME DE SEXO
+#EXTINF:-1 tvg-id="Playboy.br" tvg-name="KID BENGALA COM FOME DE SEXO" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="SEX PRIVÉ",KID BENGALA COM FOME DE SEXO
 https://video18.mais.uol.com.br/16998375-10-90.m3u8
-
-#EXTINF:-1 tvg-id="Playboy.br" tvg-name="KID BENGALA E A MORENA TATUADA" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title=" SEX PRIVÉ ", KID BENGALA E A MORENA TATUADA
+#EXTINF:-1 tvg-id="Playboy.br" tvg-name="KID BENGALA E A MORENA TATUADA" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="SEX PRIVÉ",KID BENGALA E A MORENA TATUADA
 https://video23.mais.uol.com.br/17039391-10-90.m3u8
-
-#EXTINF:-1 tvg-id="Playboy.br" tvg-name="KID BENGALA E A NOVINHA SEDENTA" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title=" SEX PRIVÉ ", KID BENGALA E A NOVINHA SEDENTA
+#EXTINF:-1 tvg-id="Playboy.br" tvg-name="KID BENGALA E A NOVINHA SEDENTA" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="SEX PRIVÉ",KID BENGALA E A NOVINHA SEDENTA
 https://video19.mais.uol.com.br/17039409-10-90.m3u8?
-
-#EXTINF:-1 tvg-id="Playboy.br" tvg-name="KID BENGALA E SUAS NINFETAS" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title=" SEX PRIVÉ ", KID BENGALA E SUAS NINFETAS
+#EXTINF:-1 tvg-id="Playboy.br" tvg-name="KID BENGALA E SUAS NINFETAS" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="SEX PRIVÉ",KID BENGALA E SUAS NINFETAS
 https://video23.mais.uol.com.br/16685441-10-90.m3u8
-
-#EXTINF:-1 tvg-id="Playboy.br" tvg-name="KID BENGALA SURPREENDE A COROA" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title=" SEX PRIVÉ ", KID BENGALA SURPREENDE A COROA
+#EXTINF:-1 tvg-id="Playboy.br" tvg-name="KID BENGALA SURPREENDE A COROA" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="SEX PRIVÉ",KID BENGALA SURPREENDE A COROA
 https://video24.mais.uol.com.br/17040248-10-90.m3u8
-
-#EXTINF:-1 tvg-id="Playboy.br" tvg-name="LAVANDO O CARRO E TRAINDO" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title=" SEX PRIVÉ ", LAVANDO O CARRO E TRAINDO
+#EXTINF:-1 tvg-id="Playboy.br" tvg-name="LAVANDO O CARRO E TRAINDO" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="SEX PRIVÉ",LAVANDO O CARRO E TRAINDO
 https://video18.mais.uol.com.br/16839598-10-90.m3u8
-
-#EXTINF:-1 tvg-id="Playboy.br" tvg-name="LEVANDO TROLHA" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title=" SEX PRIVÉ ", LEVANDO TROLHA
+#EXTINF:-1 tvg-id="Playboy.br" tvg-name="LEVANDO TROLHA" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="SEX PRIVÉ",LEVANDO TROLHA
 https://video28.mais.uol.com.br/16827415-10-90.m3u8
-
-#EXTINF:-1 tvg-id="Playboy.br" tvg-name="LOIRA ABUSADA" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title=" SEX PRIVÉ ", LOIRA ABUSADA
+#EXTINF:-1 tvg-id="Playboy.br" tvg-name="LOIRA ABUSADA" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="SEX PRIVÉ",LOIRA ABUSADA
 https://video22.mais.uol.com.br/16951799-10-90.m3u8
-
-#EXTINF:-1 tvg-id="Playboy.br" tvg-name="LOIRA SENSUAL" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title=" SEX PRIVÉ ", LOIRA SENSUAL
+#EXTINF:-1 tvg-id="Playboy.br" tvg-name="LOIRA SENSUAL" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="SEX PRIVÉ",LOIRA SENSUAL
 https://video31.mais.uol.com.br/16835956-10-90.m3u8
-
-#EXTINF:-1 tvg-id="Playboy.br" tvg-name="LOIRINHA NA VAN" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title=" SEX PRIVÉ ", LOIRINHA NA VAN
+#EXTINF:-1 tvg-id="Playboy.br" tvg-name="LOIRINHA NA VAN" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="SEX PRIVÉ",LOIRINHA NA VAN
 https://videohd3.mais.uol.com.br/16881905-10-90.m3u8
-
-#EXTINF:-1 tvg-id="SexyHot.br" tvg-name="LÉSBICO SENSUAL COUNTRY" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title=" SEX PRIVÉ ", LÉSBICO SENSUAL COUNTRY
+#EXTINF:-1 tvg-id="SexyHot.br" tvg-name="LÉSBICO SENSUAL COUNTRY" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="SEX PRIVÉ",LÉSBICO SENSUAL COUNTRY
 https://videohd4.mais.uol.com.br/16813853-10-90.m3u8
-
-#EXTINF:-1 tvg-id="VenusTV.br" tvg-name="LÉSBICO SENSUAL INVERNO" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title=" SEX PRIVÉ ", LÉSBICO SENSUAL INVERNO
+#EXTINF:-1 tvg-id="VenusTV.br" tvg-name="LÉSBICO SENSUAL INVERNO" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="SEX PRIVÉ",LÉSBICO SENSUAL INVERNO
 https://videohd4.mais.uol.com.br/16808820-10-90.m3u8
-
-#EXTINF:-1 tvg-id="Playboy.br" tvg-name="LÉSBICO SENSUAL LINGERIE BRANCA" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title=" SEX PRIVÉ ", LÉSBICO SENSUAL LINGERIE BRANCA
+#EXTINF:-1 tvg-id="Playboy.br" tvg-name="LÉSBICO SENSUAL LINGERIE BRANCA" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="SEX PRIVÉ",LÉSBICO SENSUAL LINGERIE BRANCA
 https://video28.mais.uol.com.br/16810563-10-90.m3u8
-
-#EXTINF:-1 tvg-id="SextremeBrazil.br" tvg-name="LÉSBICO SENSUAL NA BANHEIRA" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title=" SEX PRIVÉ ", LÉSBICO SENSUAL NA BANHEIRA
+#EXTINF:-1 tvg-id="SextremeBrazil.br" tvg-name="LÉSBICO SENSUAL NA BANHEIRA" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="SEX PRIVÉ",LÉSBICO SENSUAL NA BANHEIRA
 https://video19.mais.uol.com.br/16824987-10-90.m3u8
-
-#EXTINF:-1 tvg-id="SexyHot.br" tvg-name="LÉSBICO SENSUAL NA FAZENDA" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title=" SEX PRIVÉ ", LÉSBICO SENSUAL NA FAZENDA
+#EXTINF:-1 tvg-id="SexyHot.br" tvg-name="LÉSBICO SENSUAL NA FAZENDA" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="SEX PRIVÉ",LÉSBICO SENSUAL NA FAZENDA
 https://video18.mais.uol.com.br/16819304-10-90.m3u8
-
-#EXTINF:-1 tvg-id="SextremeBrazil.br" tvg-name="MADRASTA GOSTOSA" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title=" SEX PRIVÉ ", MADRASTA GOSTOSA
+#EXTINF:-1 tvg-id="SextremeBrazil.br" tvg-name="MADRASTA GOSTOSA" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="SEX PRIVÉ",MADRASTA GOSTOSA
 https://video23.mais.uol.com.br/16931316-10-90.m3u8
-
-#EXTINF:-1 tvg-id="Playboy.br" tvg-name="MASSAGEM COM TESÃO" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title=" SEX PRIVÉ ", MASSAGEM COM TESÃO
+#EXTINF:-1 tvg-id="Playboy.br" tvg-name="MASSAGEM COM TESÃO" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="SEX PRIVÉ",MASSAGEM COM TESÃO
 https://video21.mais.uol.com.br/16877754-10-90.m3u8
-
-#EXTINF:-1 tvg-id="SextremeBrazil.br" tvg-name="MASSAGISTAS SAFADAS" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title=" SEX PRIVÉ ", MASSAGISTAS SAFADAS
+#EXTINF:-1 tvg-id="SextremeBrazil.br" tvg-name="MASSAGISTAS SAFADAS" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="SEX PRIVÉ",MASSAGISTAS SAFADAS
 https://videohd1.mais.uol.com.br/16941256-10-90.m3u8
-
-#EXTINF:-1 tvg-id="SexyHot.br" tvg-name="MASTURBAÇÃO FEMININA" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title=" SEX PRIVÉ ", MASTURBAÇÃO FEMININA
+#EXTINF:-1 tvg-id="SexyHot.br" tvg-name="MASTURBAÇÃO FEMININA" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="SEX PRIVÉ",MASTURBAÇÃO FEMININA
 https://video28.mais.uol.com.br/16817379-10-90.m3u8
-
-#EXTINF:-1 tvg-id="VenusTV.br" tvg-name="MASTURBAÇÃO FEMININO" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title=" SEX PRIVÉ ", MASTURBAÇÃO FEMININO
+#EXTINF:-1 tvg-id="VenusTV.br" tvg-name="MASTURBAÇÃO FEMININO" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="SEX PRIVÉ",MASTURBAÇÃO FEMININO
 https://video27.mais.uol.com.br/16817379-10-80.m3u8
-
-#EXTINF:-1 tvg-id="Playboy.br" tvg-name="MASTURBAÇÃO MASCULINA" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title=" SEX PRIVÉ ", MASTURBAÇÃO MASCULINA
+#EXTINF:-1 tvg-id="Playboy.br" tvg-name="MASTURBAÇÃO MASCULINA" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="SEX PRIVÉ",MASTURBAÇÃO MASCULINA
 https://videohd2.mais.uol.com.br/16817131-10-90.m3u8
-
-#EXTINF:-1 tvg-id="SextremeBrazil.br" tvg-name="MATHEUS CARRIERI EM UM DIA DE SORTE..." tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title=" SEX PRIVÉ ", MATHEUS CARRIERI EM UM DIA DE SORTE...
+#EXTINF:-1 tvg-id="SextremeBrazil.br" tvg-name="MATHEUS CARRIERI EM UM DIA DE SORTE..." tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="SEX PRIVÉ",MATHEUS CARRIERI EM UM DIA DE SORTE...
 https://video29.mais.uol.com.br/16673277-10-90.m3u8
-
-#EXTINF:-1 tvg-id="SextremeBrazil.br" tvg-name="MATOU AULA E FOI AO MOTEL" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title=" SEX PRIVÉ ", MATOU AULA E FOI AO MOTEL
+#EXTINF:-1 tvg-id="SextremeBrazil.br" tvg-name="MATOU AULA E FOI AO MOTEL" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="SEX PRIVÉ",MATOU AULA E FOI AO MOTEL
 https://videohd2.mais.uol.com.br/16718693-10-90.m3u8
-
-#EXTINF:-1 tvg-id="VenusTV.br" tvg-name="MECÂNICA SENSUAL" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title=" SEX PRIVÉ ", MECÂNICA SENSUAL
+#EXTINF:-1 tvg-id="VenusTV.br" tvg-name="MECÂNICA SENSUAL" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="SEX PRIVÉ",MECÂNICA SENSUAL
 https://video19.mais.uol.com.br/16805321-10-90.m3u8
-
-#EXTINF:-1 tvg-id="SextremeBrazil.br" tvg-name="MENAGE COM A NINFETINHA" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title=" SEX PRIVÉ ", MENAGE COM A NINFETINHA
+#EXTINF:-1 tvg-id="SextremeBrazil.br" tvg-name="MENAGE COM A NINFETINHA" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="SEX PRIVÉ",MENAGE COM A NINFETINHA
 https://videohd6.mais.uol.com.br/16937879-10-90.m3u8
-
-#EXTINF:-1 tvg-id="SextremeBrazil.br" tvg-name="MENAGE SÓ COM PORN STARS" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title=" SEX PRIVÉ ", MENAGE SÓ COM PORN STARS
+#EXTINF:-1 tvg-id="SextremeBrazil.br" tvg-name="MENAGE SÓ COM PORN STARS" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="SEX PRIVÉ",MENAGE SÓ COM PORN STARS
 https://video21.mais.uol.com.br/16932770-10-90.m3u8
-
-#EXTINF:-1 tvg-id="SexyHot.br" tvg-name="METE NA BUNDINHA" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title=" SEX PRIVÉ ", METE NA BUNDINHA
+#EXTINF:-1 tvg-id="SexyHot.br" tvg-name="METE NA BUNDINHA" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="SEX PRIVÉ",METE NA BUNDINHA
 https://video18.mais.uol.com.br/16833539-10-90.m3u8
-
-#EXTINF:-1 tvg-id="SextremeBrazil.br" tvg-name="MINHA FAVORITA" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title=" SEX PRIVÉ ", MINHA FAVORITA
+#EXTINF:-1 tvg-id="SextremeBrazil.br" tvg-name="MINHA FAVORITA" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="SEX PRIVÉ",MINHA FAVORITA
 https://video30.mais.uol.com.br/16816359-10-90.m3u8
-
-#EXTINF:-1 tvg-id="SextremeBrazil.br" tvg-name="MIRELLA MANSUR DANDO GOSTOSO" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title=" SEX PRIVÉ ", MIRELLA MANSUR DANDO GOSTOSO
+#EXTINF:-1 tvg-id="SextremeBrazil.br" tvg-name="MIRELLA MANSUR DANDO GOSTOSO" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="SEX PRIVÉ",MIRELLA MANSUR DANDO GOSTOSO
 https://videohd3.mais.uol.com.br/16919383-10-90.m3u8
-
-#EXTINF:-1 tvg-id="SextremeBrazil.br" tvg-name="MONICA MATTOS COM O NEGÃO" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title=" SEX PRIVÉ ", MONICA MATTOS COM O NEGÃO
+#EXTINF:-1 tvg-id="SextremeBrazil.br" tvg-name="MONICA MATTOS COM O NEGÃO" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="SEX PRIVÉ",MONICA MATTOS COM O NEGÃO
 https://video28.mais.uol.com.br/16937219-10-90.m3u8
-
-#EXTINF:-1 tvg-id="SexyHot.br" tvg-name="MONICA MATTOS EM UM ANAL SURREAL" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title=" SEX PRIVÉ ", MONICA MATTOS EM UM ANAL SURREAL
+#EXTINF:-1 tvg-id="SexyHot.br" tvg-name="MONICA MATTOS EM UM ANAL SURREAL" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="SEX PRIVÉ",MONICA MATTOS EM UM ANAL SURREAL
 https://videohd4.mais.uol.com.br/17003841-10-90.m3u8
-
-#EXTINF:-1 tvg-id="VenusTV.br" tvg-name="MONICA MATTOS USANDO OS PÉS" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title=" SEX PRIVÉ ", MONICA MATTOS USANDO OS PÉS
+#EXTINF:-1 tvg-id="VenusTV.br" tvg-name="MONICA MATTOS USANDO OS PÉS" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="SEX PRIVÉ",MONICA MATTOS USANDO OS PÉS
 https://video18.mais.uol.com.br/16935218-10-90.m3u8
-
-#EXTINF:-1 tvg-id="Playboy.br" tvg-name="MORANGUINHO DA VALÉRIA" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title=" SEX PRIVÉ ", MORANGUINHO DA VALÉRIA
+#EXTINF:-1 tvg-id="Playboy.br" tvg-name="MORANGUINHO DA VALÉRIA" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="SEX PRIVÉ",MORANGUINHO DA VALÉRIA
 https://videohd7.mais.uol.com.br/16888533-10-90.m3u8
-
-#EXTINF:-1 tvg-id="SextremeBrazil.br" tvg-name="MORENA AMA ANAL" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title=" SEX PRIVÉ ", MORENA AMA ANAL
+#EXTINF:-1 tvg-id="SextremeBrazil.br" tvg-name="MORENA AMA ANAL" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="SEX PRIVÉ",MORENA AMA ANAL
 https://videohd5.mais.uol.com.br/16955574-10-90.m3u8
-
-#EXTINF:-1 tvg-id="SextremeBrazil.br" tvg-name="Morena TRANSANDO NO BARCO E NA PRAIA" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title=" SEX PRIVÉ ", Morena TRANSANDO NO BARCO E NA PRAIA
+#EXTINF:-1 tvg-id="SextremeBrazil.br" tvg-name="Morena TRANSANDO NO BARCO E NA PRAIA" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="SEX PRIVÉ",Morena TRANSANDO NO BARCO E NA PRAIA
 https://videohd2.mais.uol.com.br/16924438-10-90.m3u8
-
-#EXTINF:-1 tvg-id="VenusTV.br" tvg-name="MÁRCIA IMPERATOR E MATHEUS CARRIERI TRANSANDO NA CHUVA" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title=" SEX PRIVÉ ", MÁRCIA IMPERATOR E MATHEUS CARRIERI TRANSANDO NA CHUVA
+#EXTINF:-1 tvg-id="VenusTV.br" tvg-name="MÁRCIA IMPERATOR E MATHEUS CARRIERI TRANSANDO NA CHUVA" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="SEX PRIVÉ",MÁRCIA IMPERATOR E MATHEUS CARRIERI TRANSANDO NA CHUVA
 https://videohd7.mais.uol.com.br/16685424-10-90.m3u8
-
-#EXTINF:-1 tvg-id="Playboy.br" tvg-name="MÉDICO SAFADO" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title=" SEX PRIVÉ ", MÉDICO SAFADO
+#EXTINF:-1 tvg-id="Playboy.br" tvg-name="MÉDICO SAFADO" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="SEX PRIVÉ",MÉDICO SAFADO
 https://video27.mais.uol.com.br/16988288-10-60.m3u8
-
-#EXTINF:-1 tvg-id="SextremeBrazil.br" tvg-name="MÉNAGE COM A GUEIXA" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title=" SEX PRIVÉ ", MÉNAGE COM A GUEIXA
+#EXTINF:-1 tvg-id="SextremeBrazil.br" tvg-name="MÉNAGE COM A GUEIXA" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="SEX PRIVÉ",MÉNAGE COM A GUEIXA
 https://videohd5.mais.uol.com.br/16878073-10-90.m3u8
-
-#EXTINF:-1 tvg-id="SexyHot.br" tvg-name="MÉNAGE COM LEITINHO" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title=" SEX PRIVÉ ", MÉNAGE COM LEITINHO
+#EXTINF:-1 tvg-id="SexyHot.br" tvg-name="MÉNAGE COM LEITINHO" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="SEX PRIVÉ",MÉNAGE COM LEITINHO
 https://videohd6.mais.uol.com.br/16819597-10-90.m3u8
-
-#EXTINF:-1 tvg-id="VenusTV.br" tvg-name="MÉNAGE GRINGO" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title=" SEX PRIVÉ ", MÉNAGE GRINGO
+#EXTINF:-1 tvg-id="VenusTV.br" tvg-name="MÉNAGE GRINGO" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="SEX PRIVÉ",MÉNAGE GRINGO
 https://video29.mais.uol.com.br/16816325-10-90.m3u8
-
-#EXTINF:-1 tvg-id="Playboy.br" tvg-name="MÔNICA MATTOS DANDO PARA A O DOUTOR OLIVER" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title=" SEX PRIVÉ ", MÔNICA MATTOS DANDO PARA A O DOUTOR OLIVER
+#EXTINF:-1 tvg-id="Playboy.br" tvg-name="MÔNICA MATTOS DANDO PARA A O DOUTOR OLIVER" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="SEX PRIVÉ",MÔNICA MATTOS DANDO PARA A O DOUTOR OLIVER
 https://video19.mais.uol.com.br/16908548-10-70.m3u8
-
-#EXTINF:-1 tvg-id="SextremeBrazil.br" tvg-name="MÔNICA MATTOS E JU PANTERA JUNTAS E COM TESÃO" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title=" SEX PRIVÉ ", MÔNICA MATTOS E JU PANTERA JUNTAS E COM TESÃO
+#EXTINF:-1 tvg-id="SextremeBrazil.br" tvg-name="MÔNICA MATTOS E JU PANTERA JUNTAS E COM TESÃO" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="SEX PRIVÉ",MÔNICA MATTOS E JU PANTERA JUNTAS E COM TESÃO
 https://video27.mais.uol.com.br/16673264-10-90.m3u8
-
-#EXTINF:-1 tvg-id="SexyHot.br" tvg-name="NA PISCINA E NO CU" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title=" SEX PRIVÉ ", NA PISCINA E NO CU
+#EXTINF:-1 tvg-id="SexyHot.br" tvg-name="NA PISCINA E NO CU" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="SEX PRIVÉ",NA PISCINA E NO CU
 https://video26.mais.uol.com.br/16943941-10-90.m3u8
-
-#EXTINF:-1 tvg-id="VenusTV.br" tvg-name="NATIVA INSACIÁVEL" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title=" SEX PRIVÉ ", NATIVA INSACIÁVEL
+#EXTINF:-1 tvg-id="VenusTV.br" tvg-name="NATIVA INSACIÁVEL" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="SEX PRIVÉ",NATIVA INSACIÁVEL
 https://video26.mais.uol.com.br/16816370-10-90.m3u8
-
-#EXTINF:-1 tvg-id="Playboy.br" tvg-name="NEGO CATRA E MIRELLA MANSUR FODENDO NO SOFÁ" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title=" SEX PRIVÉ ", NEGO CATRA E MIRELLA MANSUR FODENDO NO SOFÁ
+#EXTINF:-1 tvg-id="Playboy.br" tvg-name="NEGO CATRA E MIRELLA MANSUR FODENDO NO SOFÁ" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="SEX PRIVÉ",NEGO CATRA E MIRELLA MANSUR FODENDO NO SOFÁ
 https://video26.mais.uol.com.br/16895626-10-90.m3u8
-
-#EXTINF:-1 tvg-id="SextremeBrazil.br" tvg-name="NENÉM?" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title=" SEX PRIVÉ ", NENÉM?
+#EXTINF:-1 tvg-id="SextremeBrazil.br" tvg-name="NENÉM?" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="SEX PRIVÉ",NENÉM?
 https://video28.mais.uol.com.br/16827429-10-90.m3u8
-
-#EXTINF:-1 tvg-id="SexyHot.br" tvg-name="NINFETINHA DANIELLA" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title=" SEX PRIVÉ ", NINFETINHA DANIELLA
+#EXTINF:-1 tvg-id="SexyHot.br" tvg-name="NINFETINHA DANIELLA" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="SEX PRIVÉ",NINFETINHA DANIELLA
 https://videohd6.mais.uol.com.br/16952742-10-90.m3u8
-
-#EXTINF:-1 tvg-id="VenusTV.br" tvg-name="NINFETINHA DELÍCIA" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title=" SEX PRIVÉ ", NINFETINHA DELÍCIA
+#EXTINF:-1 tvg-id="VenusTV.br" tvg-name="NINFETINHA DELÍCIA" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="SEX PRIVÉ",NINFETINHA DELÍCIA
 https://video19.mais.uol.com.br/16824802-10-90.m3u8
-
-#EXTINF:-1 tvg-id="Playboy.br" tvg-name="NINFETINHA PAULINHA" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title=" SEX PRIVÉ ", NINFETINHA PAULINHA
+#EXTINF:-1 tvg-id="Playboy.br" tvg-name="NINFETINHA PAULINHA" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="SEX PRIVÉ",NINFETINHA PAULINHA
 https://video24.mais.uol.com.br/16943083-10-90.m3u8
-
-#EXTINF:-1 tvg-id="SextremeBrazil.br" tvg-name="NO CÚ DA NINFETINHA" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title=" SEX PRIVÉ ", NO CÚ DA NINFETINHA
+#EXTINF:-1 tvg-id="SextremeBrazil.br" tvg-name="NO CÚ DA NINFETINHA" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="SEX PRIVÉ",NO CÚ DA NINFETINHA
 https://video22.mais.uol.com.br/16945818-10-90.m3u8
-
-#EXTINF:-1 tvg-id="SexyHot.br" tvg-name="NO CÚ DA PALOMA" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title=" SEX PRIVÉ ", NO CÚ DA PALOMA
+#EXTINF:-1 tvg-id="SexyHot.br" tvg-name="NO CÚ DA PALOMA" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="SEX PRIVÉ",NO CÚ DA PALOMA
 https://video22.mais.uol.com.br/16945805-10-90.m3u8
-
-#EXTINF:-1 tvg-id="VenusTV.br" tvg-name="NO CUZINHO DA CLAUDIA" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title=" SEX PRIVÉ ", NO CUZINHO DA CLAUDIA
+#EXTINF:-1 tvg-id="VenusTV.br" tvg-name="NO CUZINHO DA CLAUDIA" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="SEX PRIVÉ",NO CUZINHO DA CLAUDIA
 https://videohd4.mais.uol.com.br/16941207-10-90.m3u8
-
-#EXTINF:-1 tvg-id="Playboy.br" tvg-name="NO CUZINHO DELA" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title=" SEX PRIVÉ ", NO CUZINHO DELA
+#EXTINF:-1 tvg-id="Playboy.br" tvg-name="NO CUZINHO DELA" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="SEX PRIVÉ",NO CUZINHO DELA
 https://videohd2.mais.uol.com.br/16943124-10-90.m3u8
-
-#EXTINF:-1 tvg-id="SextremeBrazil.br" tvg-name="NO JEITO E COM VONTADE" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title=" SEX PRIVÉ ", NO JEITO E COM VONTADE
+#EXTINF:-1 tvg-id="SextremeBrazil.br" tvg-name="NO JEITO E COM VONTADE" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="SEX PRIVÉ",NO JEITO E COM VONTADE
 https://video26.mais.uol.com.br/16945810-10-90.m3u8
-
-#EXTINF:-1 tvg-id="SexyHot.br" tvg-name="NO MOTEL COM KID BENGALA" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title=" SEX PRIVÉ ", NO MOTEL COM KID BENGALA
+#EXTINF:-1 tvg-id="SexyHot.br" tvg-name="NO MOTEL COM KID BENGALA" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="SEX PRIVÉ",NO MOTEL COM KID BENGALA
 https://videohd2.mais.uol.com.br/17040261-10-90.m3u8
-
-#EXTINF:-1 tvg-id="VenusTV.br" tvg-name="NO PARES" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title=" SEX PRIVÉ ", NO PARES
+#EXTINF:-1 tvg-id="VenusTV.br" tvg-name="NO PARES" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="SEX PRIVÉ",NO PARES
 https://video32.mais.uol.com.br/16827428-10-90.m3u8
-
-#EXTINF:-1 tvg-id="Playboy.br" tvg-name="NOIVA SENSUAL" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title=" SEX PRIVÉ ", NOIVA SENSUAL
+#EXTINF:-1 tvg-id="Playboy.br" tvg-name="NOIVA SENSUAL" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="SEX PRIVÉ",NOIVA SENSUAL
 https://video29.mais.uol.com.br/16801936-10-90.m3u8
-
-#EXTINF:-1 tvg-id="SextremeBrazil.br" tvg-name="NÃO SOBROU ORIFÍCIO VAZIO..." tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title=" SEX PRIVÉ ", NÃO SOBROU ORIFÍCIO VAZIO...
+#EXTINF:-1 tvg-id="SextremeBrazil.br" tvg-name="NÃO SOBROU ORIFÍCIO VAZIO..." tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="SEX PRIVÉ",NÃO SOBROU ORIFÍCIO VAZIO...
 https://video18.mais.uol.com.br/16718719-10-90.m3u8
-
-#EXTINF:-1 tvg-id="SexyHot.br" tvg-name="O ANAL DA BABALU" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title=" SEX PRIVÉ ", O ANAL DA BABALU
+#EXTINF:-1 tvg-id="SexyHot.br" tvg-name="O ANAL DA BABALU" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="SEX PRIVÉ",O ANAL DA BABALU
 https://videohd8.mais.uol.com.br/16892238-10-60.m3u8
-
-#EXTINF:-1 tvg-id="VenusTV.br" tvg-name="O DETETIVE FROTA" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title=" SEX PRIVÉ ", O DETETIVE FROTA
+#EXTINF:-1 tvg-id="VenusTV.br" tvg-name="O DETETIVE FROTA" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="SEX PRIVÉ",O DETETIVE FROTA
 https://video19.mais.uol.com.br/16936076-10-90.m3u8
-
-#EXTINF:-1 tvg-id="Playboy.br" tvg-name="O PEGADOR - EPISÓDIO 1" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title=" SEX PRIVÉ ", O PEGADOR - EPISÓDIO 1
+#EXTINF:-1 tvg-id="Playboy.br" tvg-name="O PEGADOR - EPISÓDIO 1" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="SEX PRIVÉ",O PEGADOR - EPISÓDIO 1
 https://video19.mais.uol.com.br/16799412-10-90.m3u8
-
-#EXTINF:-1 tvg-id="SextremeBrazil.br" tvg-name="O PEGADOR - EPISÓDIO 3" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title=" SEX PRIVÉ ", O PEGADOR - EPISÓDIO 3
+#EXTINF:-1 tvg-id="SextremeBrazil.br" tvg-name="O PEGADOR - EPISÓDIO 3" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="SEX PRIVÉ",O PEGADOR - EPISÓDIO 3
 https://videohd3.mais.uol.com.br/16824996-10-90.m3u8
-
-#EXTINF:-1 tvg-id="SexyHot.br" tvg-name="O PSICÓLOGO DE CASAIS" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title=" SEX PRIVÉ ", O PSICÓLOGO DE CASAIS
+#EXTINF:-1 tvg-id="SexyHot.br" tvg-name="O PSICÓLOGO DE CASAIS" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="SEX PRIVÉ",O PSICÓLOGO DE CASAIS
 https://videohd1.mais.uol.com.br/16951829-10-90.m3u8
-
-#EXTINF:-1 tvg-id="VenusTV.br" tvg-name="O VENCEDORA DO OSCAR DO PORNÔ!" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title=" SEX PRIVÉ ", O VENCEDORA DO OSCAR DO PORNÔ!
+#EXTINF:-1 tvg-id="VenusTV.br" tvg-name="O VENCEDORA DO OSCAR DO PORNÔ!" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="SEX PRIVÉ",O VENCEDORA DO OSCAR DO PORNÔ!
 https://videohd3.mais.uol.com.br/16682571-10-90.m3u8
-
-#EXTINF:-1 tvg-id="VenusTV.br" tvg-name="OLIVER FUDENDO COM A MANU" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title=" SEX PRIVÉ ", OLIVER FUDENDO COM A MANU
+#EXTINF:-1 tvg-id="VenusTV.br" tvg-name="OLIVER FUDENDO COM A MANU" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="SEX PRIVÉ",OLIVER FUDENDO COM A MANU
 https://video20.mais.uol.com.br/16917189-10-90.m3u8
-
-#EXTINF:-1 tvg-id="SextremeBrazil.br" tvg-name="OUSADIA NA DUPLA PENETRAÇÃO" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title=" SEX PRIVÉ ", OUSADIA NA DUPLA PENETRAÇÃO
+#EXTINF:-1 tvg-id="SextremeBrazil.br" tvg-name="OUSADIA NA DUPLA PENETRAÇÃO" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="SEX PRIVÉ",OUSADIA NA DUPLA PENETRAÇÃO
 https://video18.mais.uol.com.br/16939574-10-90.m3u8
-
-#EXTINF:-1 tvg-id="VenusTV.br" tvg-name="PAULA MORENO E O PIRULITO" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title=" SEX PRIVÉ ", PAULA MORENO E O PIRULITO
+#EXTINF:-1 tvg-id="VenusTV.br" tvg-name="PAULA MORENO E O PIRULITO" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="SEX PRIVÉ",PAULA MORENO E O PIRULITO
 https://videohd5.mais.uol.com.br/16988291-10-90.m3u8
-
-#EXTINF:-1 tvg-id="VenusTV.br" tvg-name="PEDINDO REFORÇO" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title=" SEX PRIVÉ ", PEDINDO REFORÇO
+#EXTINF:-1 tvg-id="VenusTV.br" tvg-name="PEDINDO REFORÇO" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="SEX PRIVÉ",PEDINDO REFORÇO
 https://video24.mais.uol.com.br/16819596-10-90.m3u8
-
-#EXTINF:-1 tvg-id="VenusTV.br" tvg-name="PEITUDA COM DOIS BEM DOTADOS" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title=" SEX PRIVÉ ", PEITUDA COM DOIS BEM DOTADOS
+#EXTINF:-1 tvg-id="VenusTV.br" tvg-name="PEITUDA COM DOIS BEM DOTADOS" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="SEX PRIVÉ",PEITUDA COM DOIS BEM DOTADOS
 https://video22.mais.uol.com.br/16877394-10-90.m3u8
-
-#EXTINF:-1 tvg-id="VenusTV.br" tvg-name="PEITUDA DANDO NA SALA" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title=" SEX PRIVÉ ", PEITUDA DANDO NA SALA
+#EXTINF:-1 tvg-id="VenusTV.br" tvg-name="PEITUDA DANDO NA SALA" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="SEX PRIVÉ",PEITUDA DANDO NA SALA
 https://videohd2.mais.uol.com.br/16881729-10-90.m3u8
-
-#EXTINF:-1 tvg-id="SexyHot.br" tvg-name="PIROCADA DUPLA" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title=" SEX PRIVÉ ", PIROCADA DUPLA
+#EXTINF:-1 tvg-id="SexyHot.br" tvg-name="PIROCADA DUPLA" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="SEX PRIVÉ",PIROCADA DUPLA
 https://video28.mais.uol.com.br/16824697-10-90.m3u8
-
-#EXTINF:-1 tvg-id="VenusTV.br" tvg-name="POLE DANCE" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title=" SEX PRIVÉ ", POLE DANCE
+#EXTINF:-1 tvg-id="VenusTV.br" tvg-name="POLE DANCE" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="SEX PRIVÉ",POLE DANCE
 https://video20.mais.uol.com.br/16812139-10-90.m3u8
-
-#EXTINF:-1 tvg-id="VenusTV.br" tvg-name="POV COM A LOIRA" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title=" SEX PRIVÉ ", POV COM A LOIRA
+#EXTINF:-1 tvg-id="VenusTV.br" tvg-name="POV COM A LOIRA" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="SEX PRIVÉ",POV COM A LOIRA
 https://videohd4.mais.uol.com.br/16892523-10-90.m3u8
-
-#EXTINF:-1 tvg-id="SextremeBrazil.br" tvg-name="PRESENTÃO!" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title=" SEX PRIVÉ ", PRESENTÃO!
+#EXTINF:-1 tvg-id="SextremeBrazil.br" tvg-name="PRESENTÃO!" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="SEX PRIVÉ",PRESENTÃO!
 https://video17.mais.uol.com.br/16789009-10-90.m3u8
-
-#EXTINF:-1 tvg-id="VenusTV.br" tvg-name="PRIMEIRO ANAL DA MARI SAITO" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title=" SEX PRIVÉ ", PRIMEIRO ANAL DA MARI SAITO
+#EXTINF:-1 tvg-id="VenusTV.br" tvg-name="PRIMEIRO ANAL DA MARI SAITO" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="SEX PRIVÉ",PRIMEIRO ANAL DA MARI SAITO
 https://videohd2.mais.uol.com.br/16902073-10-90.m3u8
-
-#EXTINF:-1 tvg-id="VenusTV.br" tvg-name="PRIMEIRO ANAL DE VIVI" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title=" SEX PRIVÉ ", PRIMEIRO ANAL DE VIVI
+#EXTINF:-1 tvg-id="VenusTV.br" tvg-name="PRIMEIRO ANAL DE VIVI" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="SEX PRIVÉ",PRIMEIRO ANAL DE VIVI
 https://videohd2.mais.uol.com.br/16666238-10-90.m3u8
-
-#EXTINF:-1 tvg-id="Playboy.br" tvg-name="PRIMEIRO DIA DE BOBBI STAR NO RIO" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title=" SEX PRIVÉ ", PRIMEIRO DIA DE BOBBI STAR NO RIO
+#EXTINF:-1 tvg-id="Playboy.br" tvg-name="PRIMEIRO DIA DE BOBBI STAR NO RIO" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="SEX PRIVÉ",PRIMEIRO DIA DE BOBBI STAR NO RIO
 https://video22.mais.uol.com.br/16936067-10-90.m3u8
-
-#EXTINF:-1 tvg-id="SextremeBrazil.br" tvg-name="PRISCILLA GOSTA ATRÁS - PRISCILLA PRADO E DON PICONE" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title=" SEX PRIVÉ ", PRISCILLA GOSTA ATRÁS - PRISCILLA PRADO E DON PICONE
+#EXTINF:-1 tvg-id="SextremeBrazil.br" tvg-name="PRISCILLA GOSTA ATRÁS - PRISCILLA PRADO E DON PICONE" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="SEX PRIVÉ",PRISCILLA GOSTA ATRÁS - PRISCILLA PRADO E DON PICONE
 https://videohd3.mais.uol.com.br/16678699-10-90.m3u8
-
-#EXTINF:-1 tvg-id="VenusTV.br" tvg-name="PROFUNDAMENTE ANAL" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title=" SEX PRIVÉ ", PROFUNDAMENTE ANAL
+#EXTINF:-1 tvg-id="VenusTV.br" tvg-name="PROFUNDAMENTE ANAL" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="SEX PRIVÉ",PROFUNDAMENTE ANAL
 https://video23.mais.uol.com.br/16833568-10-80.m3u8
-
-#EXTINF:-1 tvg-id="VenusTV.br" tvg-name="PUTARIA DA FERNANDINHA FERNANDEZ" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title=" SEX PRIVÉ ", PUTARIA DA FERNANDINHA FERNANDEZ
+#EXTINF:-1 tvg-id="VenusTV.br" tvg-name="PUTARIA DA FERNANDINHA FERNANDEZ" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="SEX PRIVÉ",PUTARIA DA FERNANDINHA FERNANDEZ
 https://videohd7.mais.uol.com.br/16938584-10-90.m3u8
-
-#EXTINF:-1 tvg-id="Playboy.br" tvg-name="QUE CLIENTE MAIS DELICIOSA ESSA MAYARA RODRIGUES" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title=" SEX PRIVÉ ", QUE CLIENTE MAIS DELICIOSA ESSA MAYARA RODRIGUES
+#EXTINF:-1 tvg-id="Playboy.br" tvg-name="QUE CLIENTE MAIS DELICIOSA ESSA MAYARA RODRIGUES" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="SEX PRIVÉ",QUE CLIENTE MAIS DELICIOSA ESSA MAYARA RODRIGUES
 https://video28.mais.uol.com.br/16673251-10-90.m3u8
-
-#EXTINF:-1 tvg-id="SextremeBrazil.br" tvg-name="QUE EU QUERO ROLA" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title=" SEX PRIVÉ ", QUE EU QUERO ROLA
+#EXTINF:-1 tvg-id="SextremeBrazil.br" tvg-name="QUE EU QUERO ROLA" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="SEX PRIVÉ",QUE EU QUERO ROLA
 https://video22.mais.uol.com.br/16718779-10-90.m3u8
-
-#EXTINF:-1 tvg-id="SexyHot.br" tvg-name="QUERO FODER!" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title=" SEX PRIVÉ ", QUERO FODER!
+#EXTINF:-1 tvg-id="SexyHot.br" tvg-name="QUERO FODER!" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="SEX PRIVÉ",QUERO FODER!
 https://video31.mais.uol.com.br/16821111-10-90.m3u8
-
-#EXTINF:-1 tvg-id="VenusTV.br" tvg-name="RABÃO GULOSO" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title=" SEX PRIVÉ ", RABÃO GULOSO
+#EXTINF:-1 tvg-id="VenusTV.br" tvg-name="RABÃO GULOSO" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="SEX PRIVÉ",RABÃO GULOSO
 https://video30.mais.uol.com.br/16821103-10-90.m3u8
-
-#EXTINF:-1 tvg-id="Playboy.br" tvg-name="RAPIDINHA NO BANHEIRO" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title=" SEX PRIVÉ ", RAPIDINHA NO BANHEIRO
+#EXTINF:-1 tvg-id="Playboy.br" tvg-name="RAPIDINHA NO BANHEIRO" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="SEX PRIVÉ",RAPIDINHA NO BANHEIRO
 https://video28.mais.uol.com.br/16837552-10-90.m3u8
-
-#EXTINF:-1 tvg-id="SextremeBrazil.br" tvg-name="RAPIDINHA NO ESCRITÓRIO" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title=" SEX PRIVÉ ", RAPIDINHA NO ESCRITÓRIO
+#EXTINF:-1 tvg-id="SextremeBrazil.br" tvg-name="RAPIDINHA NO ESCRITÓRIO" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="SEX PRIVÉ",RAPIDINHA NO ESCRITÓRIO
 https://videohd4.mais.uol.com.br/16792836-10-90.m3u8
-
-#EXTINF:-1 tvg-id="SexyHot.br" tvg-name="RAPIDINHA NO SOFÁ" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title=" SEX PRIVÉ ", RAPIDINHA NO SOFÁ
+#EXTINF:-1 tvg-id="SexyHot.br" tvg-name="RAPIDINHA NO SOFÁ" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="SEX PRIVÉ",RAPIDINHA NO SOFÁ
 https://videohd1.mais.uol.com.br/16816372-10-90.m3u8
-
-#EXTINF:-1 tvg-id="VenusTV.br" tvg-name="RELAXADINHA" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title=" SEX PRIVÉ ", RELAXADINHA
+#EXTINF:-1 tvg-id="VenusTV.br" tvg-name="RELAXADINHA" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="SEX PRIVÉ",RELAXADINHA
 https://videohd1.mais.uol.com.br/16816326-10-90.m3u8
-
-#EXTINF:-1 tvg-id="Playboy.br" tvg-name="REVELAÇÕES ANAIS COM MILENA SANTOS" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title=" SEX PRIVÉ ", REVELAÇÕES ANAIS COM MILENA SANTOS
+#EXTINF:-1 tvg-id="Playboy.br" tvg-name="REVELAÇÕES ANAIS COM MILENA SANTOS" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="SEX PRIVÉ",REVELAÇÕES ANAIS COM MILENA SANTOS
 https://video30.mais.uol.com.br/17029502-10-90.m3u8
-
-#EXTINF:-1 tvg-id="VenusTV.br" tvg-name="RITA CADILLAC BOQUETEIRA" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title=" SEX PRIVÉ ", RITA CADILLAC BOQUETEIRA
+#EXTINF:-1 tvg-id="VenusTV.br" tvg-name="RITA CADILLAC BOQUETEIRA" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="SEX PRIVÉ",RITA CADILLAC BOQUETEIRA
 https://video19.mais.uol.com.br/16935220-10-80.m3u8
-
-#EXTINF:-1 tvg-id="SexyHot.br" tvg-name="SAFADA E MALANDRINHA" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title=" SEX PRIVÉ ", SAFADA E MALANDRINHA
+#EXTINF:-1 tvg-id="SexyHot.br" tvg-name="SAFADA E MALANDRINHA" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="SEX PRIVÉ",SAFADA E MALANDRINHA
 https://videohd2.mais.uol.com.br/16838283-10-90.m3u8
-
-#EXTINF:-1 tvg-id="SexyHot.br" tvg-name="SANDY BOQUINHA DE VELUDO" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title=" SEX PRIVÉ ", SANDY BOQUINHA DE VELUDO
+#EXTINF:-1 tvg-id="SexyHot.br" tvg-name="SANDY BOQUINHA DE VELUDO" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="SEX PRIVÉ",SANDY BOQUINHA DE VELUDO
 https://video17.mais.uol.com.br/16816324-10-90.m3u8
-
-#EXTINF:-1 tvg-id="SexyHot.br" tvg-name="SEDENDO POR SEXO" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title=" SEX PRIVÉ ", SEDENDO POR SEXO
+#EXTINF:-1 tvg-id="SexyHot.br" tvg-name="SEDENDO POR SEXO" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="SEX PRIVÉ",SEDENDO POR SEXO
 https://videohd3.mais.uol.com.br/16702525-10-90.m3u8
-
-#EXTINF:-1 tvg-id="SexyHot.br" tvg-name="SERÁ QUE ELA TIROU 10?" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title=" SEX PRIVÉ ", SERÁ QUE ELA TIROU 10?
+#EXTINF:-1 tvg-id="SexyHot.br" tvg-name="SERÁ QUE ELA TIROU 10?" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="SEX PRIVÉ",SERÁ QUE ELA TIROU 10?
 https://videohd8.mais.uol.com.br/16718678-10-90.m3u8
-
-#EXTINF:-1 tvg-id="VenusTV.br" tvg-name="SEX CITY" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title=" SEX PRIVÉ ", SEX CITY
+#EXTINF:-1 tvg-id="VenusTV.br" tvg-name="SEX CITY" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="SEX PRIVÉ",SEX CITY
 https://videohd3.mais.uol.com.br/16687615-10-90.m3u8
-
-#EXTINF:-1 tvg-id="SextremeBrazil.br" tvg-name="SEXO COM AMIZADE" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title=" SEX PRIVÉ ", SEXO COM AMIZADE
+#EXTINF:-1 tvg-id="SextremeBrazil.br" tvg-name="SEXO COM AMIZADE" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="SEX PRIVÉ",SEXO COM AMIZADE
 https://video32.mais.uol.com.br/16908528-10-90.m3u8
-
-#EXTINF:-1 tvg-id="SextremeBrazil.br" tvg-name="SEXO CRIMINOSO" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title=" SEX PRIVÉ ", SEXO CRIMINOSO
+#EXTINF:-1 tvg-id="SextremeBrazil.br" tvg-name="SEXO CRIMINOSO" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="SEX PRIVÉ",SEXO CRIMINOSO
 https://videohd7.mais.uol.com.br/16914668-10-90.m3u8
-
-#EXTINF:-1 tvg-id="SextremeBrazil.br" tvg-name="SEXO NA CHUVA" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title=" SEX PRIVÉ ", SEXO NA CHUVA
+#EXTINF:-1 tvg-id="SextremeBrazil.br" tvg-name="SEXO NA CHUVA" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="SEX PRIVÉ",SEXO NA CHUVA
 https://video21.mais.uol.com.br/16949954-10-90.m3u8
-
-#EXTINF:-1 tvg-id="SextremeBrazil.br" tvg-name="SEXO NA OFICINA" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title=" SEX PRIVÉ ", SEXO NA OFICINA
+#EXTINF:-1 tvg-id="SextremeBrazil.br" tvg-name="SEXO NA OFICINA" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="SEX PRIVÉ",SEXO NA OFICINA
 https://video27.mais.uol.com.br/16816376-10-90.m3u8
-
-#EXTINF:-1 tvg-id="Playboy.br" tvg-name="SEXPRIVÉ CLUB - PROGRAMA 12" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title=" SEX PRIVÉ ", SEXPRIVÉ CLUB - PROGRAMA 12
+#EXTINF:-1 tvg-id="Playboy.br" tvg-name="SEXPRIVÉ CLUB - PROGRAMA 12" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="SEX PRIVÉ",SEXPRIVÉ CLUB - PROGRAMA 12
 https://video22.mais.uol.com.br/16888125-10-90.m3u8
-
-#EXTINF:-1 tvg-id="SextremeBrazil.br" tvg-name="SEXPRIVÉ CLUB - PROGRAMA 3 ROGÊ FERRO" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title=" SEX PRIVÉ ", SEXPRIVÉ CLUB - PROGRAMA 3 ROGÊ FERRO
+#EXTINF:-1 tvg-id="SextremeBrazil.br" tvg-name="SEXPRIVÉ CLUB - PROGRAMA 3 ROGÊ FERRO" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="SEX PRIVÉ",SEXPRIVÉ CLUB - PROGRAMA 3 ROGÊ FERRO
 https://video21.mais.uol.com.br/16838671-10-90.m3u8
-
-#EXTINF:-1 tvg-id="SexyHot.br" tvg-name="SHOW DE BOLA" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title=" SEX PRIVÉ ", SHOW DE BOLA
+#EXTINF:-1 tvg-id="SexyHot.br" tvg-name="SHOW DE BOLA" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="SEX PRIVÉ",SHOW DE BOLA
 https://video19.mais.uol.com.br/16682588-10-90.m3u8
-
-#EXTINF:-1 tvg-id="VenusTV.br" tvg-name="SOBRINHA SAFADA" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title=" SEX PRIVÉ ", SOBRINHA SAFADA
+#EXTINF:-1 tvg-id="VenusTV.br" tvg-name="SOBRINHA SAFADA" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="SEX PRIVÉ",SOBRINHA SAFADA
 https://video21.mais.uol.com.br/16824891-10-90.m3u8
-
-#EXTINF:-1 tvg-id="Playboy.br" tvg-name="SONHO COM AS GOSTOSAS" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title=" SEX PRIVÉ ", SONHO COM AS GOSTOSAS
+#EXTINF:-1 tvg-id="Playboy.br" tvg-name="SONHO COM AS GOSTOSAS" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="SEX PRIVÉ",SONHO COM AS GOSTOSAS
 https://video26.mais.uol.com.br/16943997-10-90.m3u8
-
-#EXTINF:-1 tvg-id="SextremeBrazil.br" tvg-name="SOU MAIS AS LOURAS" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title=" SEX PRIVÉ ", SOU MAIS AS LOURAS
+#EXTINF:-1 tvg-id="SextremeBrazil.br" tvg-name="SOU MAIS AS LOURAS" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="SEX PRIVÉ",SOU MAIS AS LOURAS
 https://video26.mais.uol.com.br/16682130-10-90.m3u8
-
-#EXTINF:-1 tvg-id="SexyHot.br" tvg-name="SUZANA E AMIGAS" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title=" SEX PRIVÉ ", SUZANA E AMIGAS
+#EXTINF:-1 tvg-id="SexyHot.br" tvg-name="SUZANA E AMIGAS" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="SEX PRIVÉ",SUZANA E AMIGAS
 https://video18.mais.uol.com.br/16687682-10-90.m3u8
-
-#EXTINF:-1 tvg-id="VenusTV.br" tvg-name="TAMMY GRETCHEN E SUA AMIGAS" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title=" SEX PRIVÉ ", TAMMY GRETCHEN E SUA AMIGAS
+#EXTINF:-1 tvg-id="VenusTV.br" tvg-name="TAMMY GRETCHEN E SUA AMIGAS" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="SEX PRIVÉ",TAMMY GRETCHEN E SUA AMIGAS
 https://video28.mais.uol.com.br/16934427-10-90.m3u8
-
-#EXTINF:-1 tvg-id="Playboy.br" tvg-name="TAPINHA NA BUNDA" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title=" SEX PRIVÉ ", TAPINHA NA BUNDA
+#EXTINF:-1 tvg-id="Playboy.br" tvg-name="TAPINHA NA BUNDA" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="SEX PRIVÉ",TAPINHA NA BUNDA
 https://video23.mais.uol.com.br/16819589-10-90.m3u8
-
-#EXTINF:-1 tvg-id="SextremeBrazil.br" tvg-name="TARDE COM A GAUCHINHA" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title=" SEX PRIVÉ ", TARDE COM A GAUCHINHA
+#EXTINF:-1 tvg-id="SextremeBrazil.br" tvg-name="TARDE COM A GAUCHINHA" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="SEX PRIVÉ",TARDE COM A GAUCHINHA
 https://videohd3.mais.uol.com.br/16937107-10-90.m3u8
-
-#EXTINF:-1 tvg-id="SexyHot.br" tvg-name="TATUADA E GOSTOSA" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title=" SEX PRIVÉ ", TATUADA E GOSTOSA
+#EXTINF:-1 tvg-id="SexyHot.br" tvg-name="TATUADA E GOSTOSA" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="SEX PRIVÉ",TATUADA E GOSTOSA
 https://video28.mais.uol.com.br/16826870-10-90.m3u8
-
-#EXTINF:-1 tvg-id="VenusTV.br" tvg-name="TEDDY – O URSINHO SENSUAL" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title=" SEX PRIVÉ ", TEDDY – O URSINHO SENSUAL
+#EXTINF:-1 tvg-id="VenusTV.br" tvg-name="TEDDY – O URSINHO SENSUAL" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="SEX PRIVÉ",TEDDY – O URSINHO SENSUAL
 https://videohd3.mais.uol.com.br/16791010-10-90.m3u8
-
-#EXTINF:-1 tvg-id="Playboy.br" tvg-name="TESTE ANAL DA CAROL ROX" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title=" SEX PRIVÉ ", TESTE ANAL DA CAROL ROX
+#EXTINF:-1 tvg-id="Playboy.br" tvg-name="TESTE ANAL DA CAROL ROX" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="SEX PRIVÉ",TESTE ANAL DA CAROL ROX
 https://video27.mais.uol.com.br/16998346-10-70.m3u8
-
-#EXTINF:-1 tvg-id="SextremeBrazil.br" tvg-name="TESÃO PELO PERIGO" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title=" SEX PRIVÉ ", TESÃO PELO PERIGO
+#EXTINF:-1 tvg-id="SextremeBrazil.br" tvg-name="TESÃO PELO PERIGO" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="SEX PRIVÉ",TESÃO PELO PERIGO
 https://videohd3.mais.uol.com.br/16824839-10-90.m3u8
-
-#EXTINF:-1 tvg-id="Playboy.br" tvg-name="THAMMY GRETCHEN E SUA NAMORADA" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title=" SEX PRIVÉ ", THAMMY GRETCHEN E SUA NAMORADA
+#EXTINF:-1 tvg-id="Playboy.br" tvg-name="THAMMY GRETCHEN E SUA NAMORADA" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="SEX PRIVÉ",THAMMY GRETCHEN E SUA NAMORADA
 https://video18.mais.uol.com.br/16932593-10-90.m3u8
-
-#EXTINF:-1 tvg-id="VenusTV.br" tvg-name="TODA SUA" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title=" SEX PRIVÉ ", TODA SUA
+#EXTINF:-1 tvg-id="VenusTV.br" tvg-name="TODA SUA" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="SEX PRIVÉ",TODA SUA
 https://videohd5.mais.uol.com.br/16793553-10-90.m3u8
-
-#EXTINF:-1 tvg-id="Playboy.br" tvg-name="TONS DE CINZA" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title=" SEX PRIVÉ ", TONS DE CINZA
+#EXTINF:-1 tvg-id="Playboy.br" tvg-name="TONS DE CINZA" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="SEX PRIVÉ",TONS DE CINZA
 https://videohd4.mais.uol.com.br/16791352-10-90.m3u8
-
-#EXTINF:-1 tvg-id="SextremeBrazil.br" tvg-name="TONS DE CINZA LÉSBICO" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title=" SEX PRIVÉ ", TONS DE CINZA LÉSBICO
+#EXTINF:-1 tvg-id="SextremeBrazil.br" tvg-name="TONS DE CINZA LÉSBICO" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="SEX PRIVÉ",TONS DE CINZA LÉSBICO
 https://videohd1.mais.uol.com.br/16815454-10-90.m3u8
-
-#EXTINF:-1 tvg-id="SexyHot.br" tvg-name="TOP SEXPRIVÉ - DANÇAS SENSUAIS" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title=" SEX PRIVÉ ", TOP SEXPRIVÉ - DANÇAS SENSUAIS
+#EXTINF:-1 tvg-id="SexyHot.br" tvg-name="TOP SEXPRIVÉ - DANÇAS SENSUAIS" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="SEX PRIVÉ",TOP SEXPRIVÉ - DANÇAS SENSUAIS
 https://videohd8.mais.uol.com.br/16835360-10-90.m3u8
-
-#EXTINF:-1 tvg-id="VenusTV.br" tvg-name="TRAIÇÃO POR ANAL" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title=" SEX PRIVÉ ", TRAIÇÃO POR ANAL
+#EXTINF:-1 tvg-id="VenusTV.br" tvg-name="TRAIÇÃO POR ANAL" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="SEX PRIVÉ",TRAIÇÃO POR ANAL
 https://video24.mais.uol.com.br/16877821-10-90.m3u8
-
-#EXTINF:-1 tvg-id="SexPrive.br" tvg-name="TRANSA AO AR LIVRE" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title=" SEX PRIVÉ ", TRANSA AO AR LIVRE
+#EXTINF:-1 tvg-id="SexPrive.br" tvg-name="TRANSA AO AR LIVRE" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="SEX PRIVÉ",TRANSA AO AR LIVRE
 https://video28.mais.uol.com.br/16898444-10-90.m3u8
-
-#EXTINF:-1 tvg-id="SextremeBrazil.br" tvg-name="TRANSA NO SOFÁ DA BALADA" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title=" SEX PRIVÉ ", TRANSA NO SOFÁ DA BALADA
+#EXTINF:-1 tvg-id="SextremeBrazil.br" tvg-name="TRANSA NO SOFÁ DA BALADA" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="SEX PRIVÉ",TRANSA NO SOFÁ DA BALADA
 https://video29.mais.uol.com.br/16888599-10-90.m3u8
-
-#EXTINF:-1 tvg-id="SexyHot.br" tvg-name="TREPADA NA BALADA" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title=" SEX PRIVÉ ", TREPADA NA BALADA
+#EXTINF:-1 tvg-id="SexyHot.br" tvg-name="TREPADA NA BALADA" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="SEX PRIVÉ",TREPADA NA BALADA
 https://video32.mais.uol.com.br/16819594-10-90.m3u8
-
-#EXTINF:-1 tvg-id="VenusTV.br" tvg-name="TREPANDO COM O ADMIRADOR" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title=" SEX PRIVÉ ", TREPANDO COM O ADMIRADOR
+#EXTINF:-1 tvg-id="VenusTV.br" tvg-name="TREPANDO COM O ADMIRADOR" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="SEX PRIVÉ",TREPANDO COM O ADMIRADOR
 https://video26.mais.uol.com.br/16826793-10-90.m3u8
-
-#EXTINF:-1 tvg-id="Playboy.br" tvg-name="TROCA DE FLUÍDOS 3 - VOLUME 3" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title=" SEX PRIVÉ ", TROCA DE FLUÍDOS 3 - VOLUME 3
+#EXTINF:-1 tvg-id="Playboy.br" tvg-name="TROCA DE FLUÍDOS 3 - VOLUME 3" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="SEX PRIVÉ",TROCA DE FLUÍDOS 3 - VOLUME 3
 https://video28.mais.uol.com.br/16826783-10-90.m3u8
-
-#EXTINF:-1 tvg-id="SextremeBrazil.br" tvg-name="UM BELO INTER-RACIAL" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title=" SEX PRIVÉ ", UM BELO INTER-RACIAL
+#EXTINF:-1 tvg-id="SextremeBrazil.br" tvg-name="UM BELO INTER-RACIAL" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="SEX PRIVÉ",UM BELO INTER-RACIAL
 https://video20.mais.uol.com.br/16942157-10-50.m3u8
-
-#EXTINF:-1 tvg-id="VenusTV.br" tvg-name="VEM DAR UMA VOLTINHA NESSE UBER XXX" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title=" SEX PRIVÉ ", VEM DAR UMA VOLTINHA NESSE UBER XXX
+#EXTINF:-1 tvg-id="VenusTV.br" tvg-name="VEM DAR UMA VOLTINHA NESSE UBER XXX" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="SEX PRIVÉ",VEM DAR UMA VOLTINHA NESSE UBER XXX
 https://video29.mais.uol.com.br/16792830-10-90.m3u8
-
-#EXTINF:-1 tvg-id="VenusTV.br" tvg-name="VICIADA EM ROLA" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title=" SEX PRIVÉ ", VICIADA EM ROLA
+#EXTINF:-1 tvg-id="VenusTV.br" tvg-name="VICIADA EM ROLA" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="SEX PRIVÉ",VICIADA EM ROLA
 https://videohd7.mais.uol.com.br/16824741-10-90.m3u8
-
-#EXTINF:-1 tvg-id="SextremeBrazil.br" tvg-name="VIRANDO OS OLHOS" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title=" SEX PRIVÉ ", VIRANDO OS OLHOS
+#EXTINF:-1 tvg-id="SextremeBrazil.br" tvg-name="VIRANDO OS OLHOS" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="SEX PRIVÉ",VIRANDO OS OLHOS
 https://videohd6.mais.uol.com.br/16816334-10-90.m3u8
-
-#EXTINF:-1 tvg-id="SexyHot.br" tvg-name="VIVI COM ANAL" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title=" SEX PRIVÉ ", VIVI COM ANAL
+#EXTINF:-1 tvg-id="SexyHot.br" tvg-name="VIVI COM ANAL" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="SEX PRIVÉ",VIVI COM ANAL
 https://video23.mais.uol.com.br/16687700-10-90.m3u8
-
-#EXTINF:-1 tvg-id="VenusTV.br" tvg-name="VIVIAN MELLO FAZENDO SEXO ANAL!" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title=" SEX PRIVÉ ", VIVIAN MELLO FAZENDO SEXO ANAL!
+#EXTINF:-1 tvg-id="VenusTV.br" tvg-name="VIVIAN MELLO FAZENDO SEXO ANAL!" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="SEX PRIVÉ",VIVIAN MELLO FAZENDO SEXO ANAL!
 https://videohd2.mais.uol.com.br/16934508-10-90.m3u8
-
-#EXTINF:-1 tvg-id="Playboy.br" tvg-name="VIZINHAS GOSTOSAS" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title=" SEX PRIVÉ ", VIZINHAS GOSTOSAS
+#EXTINF:-1 tvg-id="Playboy.br" tvg-name="VIZINHAS GOSTOSAS" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="SEX PRIVÉ",VIZINHAS GOSTOSAS
 https://video32.mais.uol.com.br/16685372-10-90.m3u8
-
-#EXTINF:-1 tvg-id="SextremeBrazil.br" tvg-name="VOCÊ VAI QUERER FICAR LÁ PARA SEMPRE" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title=" SEX PRIVÉ ", VOCÊ VAI QUERER FICAR LÁ PARA SEMPRE
+#EXTINF:-1 tvg-id="SextremeBrazil.br" tvg-name="VOCÊ VAI QUERER FICAR LÁ PARA SEMPRE" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="SEX PRIVÉ",VOCÊ VAI QUERER FICAR LÁ PARA SEMPRE
 https://video18.mais.uol.com.br/16793572-10-90.m3u8
-
-#EXTINF:-1 tvg-id="SexyHot.br" tvg-name="VOLTINHA DE CADILLAC" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title=" SEX PRIVÉ ", VOLTINHA DE CADILLAC
+#EXTINF:-1 tvg-id="SexyHot.br" tvg-name="VOLTINHA DE CADILLAC" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="SEX PRIVÉ",VOLTINHA DE CADILLAC
 https://video18.mais.uol.com.br/16827413-10-90.m3u8
-
-#EXTINF:-1 tvg-id="VenusTV.br" tvg-name="É UM PRATO PARA COMER QUENTE!" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title=" SEX PRIVÉ ", É UM PRATO PARA COMER QUENTE!
+#EXTINF:-1 tvg-id="VenusTV.br" tvg-name="É UM PRATO PARA COMER QUENTE!" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="SEX PRIVÉ",É UM PRATO PARA COMER QUENTE!
 https://video28.mais.uol.com.br/16793548-10-90.m3u8
-
-#EXTINF:-1 tvg-id="SexyHot.br" tvg-name="XVIDEOS 01" tvg-logo="https://i.imgur.com/xx7uGiJ.jpeg" group-title=" XVIDEOS ", XVIDEOS 01
+#EXTINF:-1 tvg-id="SexyHot.br" tvg-name="XVIDEOS 01" tvg-logo="https://i.imgur.com/xx7uGiJ.jpeg" group-title="XVIDEOS",XVIDEOS 01
 https://files.catbox.moe/2xn1q0.mp4
-
-#EXTINF:-1 tvg-id="VenusTV.br" tvg-name="XVIDEOS 02" tvg-logo="https://i.imgur.com/xx7uGiJ.jpeg" group-title=" XVIDEOS ", XVIDEOS 02
+#EXTINF:-1 tvg-id="VenusTV.br" tvg-name="XVIDEOS 02" tvg-logo="https://i.imgur.com/xx7uGiJ.jpeg" group-title="XVIDEOS",XVIDEOS 02
 https://files.catbox.moe/mk8cqi.mp4
-
-#EXTINF:-1 tvg-id="Playboy.br" tvg-name="XVIDEOS 03" tvg-logo="https://i.imgur.com/xx7uGiJ.jpeg" group-title=" XVIDEOS ", XVIDEOS 03
+#EXTINF:-1 tvg-id="Playboy.br" tvg-name="XVIDEOS 03" tvg-logo="https://i.imgur.com/xx7uGiJ.jpeg" group-title="XVIDEOS",XVIDEOS 03
 https://files.catbox.moe/njk9ry.mp4
-
-#EXTINF:-1 tvg-id="SextremeBrazil.br" tvg-name="XVIDEOS 04" tvg-logo="https://i.imgur.com/xx7uGiJ.jpeg" group-title=" XVIDEOS ", XVIDEOS 04
+#EXTINF:-1 tvg-id="SextremeBrazil.br" tvg-name="XVIDEOS 04" tvg-logo="https://i.imgur.com/xx7uGiJ.jpeg" group-title="XVIDEOS",XVIDEOS 04
 https://files.catbox.moe/6yf5yh.mp4
-
-#EXTINF:-1 tvg-id="SexyHot.br" tvg-name="XVIDEOS 05" tvg-logo="https://i.imgur.com/xx7uGiJ.jpeg" group-title=" XVIDEOS ", XVIDEOS 05
+#EXTINF:-1 tvg-id="SexyHot.br" tvg-name="XVIDEOS 05" tvg-logo="https://i.imgur.com/xx7uGiJ.jpeg" group-title="XVIDEOS",XVIDEOS 05
 https://files.catbox.moe/es0wim.mp4
-
-#EXTINF:-1 tvg-id="VenusTV.br" tvg-name="XVIDEOS 06" tvg-logo="https://i.imgur.com/xx7uGiJ.jpeg" group-title=" XVIDEOS ", XVIDEOS 06
+#EXTINF:-1 tvg-id="VenusTV.br" tvg-name="XVIDEOS 06" tvg-logo="https://i.imgur.com/xx7uGiJ.jpeg" group-title="XVIDEOS",XVIDEOS 06
 https://files.catbox.moe/iifb9m.mp4
-
-#EXTINF:-1 tvg-id="Playboy.br" tvg-name="XVIDEOS 07" tvg-logo="https://i.imgur.com/xx7uGiJ.jpeg" group-title=" XVIDEOS ", XVIDEOS 07
+#EXTINF:-1 tvg-id="Playboy.br" tvg-name="XVIDEOS 07" tvg-logo="https://i.imgur.com/xx7uGiJ.jpeg" group-title="XVIDEOS",XVIDEOS 07
 https://files.catbox.moe/iacbrs.mp4
-
-#EXTINF:-1 tvg-id="SextremeBrazil.br" tvg-name="XVIDEOS 08" tvg-logo="https://i.imgur.com/xx7uGiJ.jpeg" group-title=" XVIDEOS ", XVIDEOS 08
+#EXTINF:-1 tvg-id="SextremeBrazil.br" tvg-name="XVIDEOS 08" tvg-logo="https://i.imgur.com/xx7uGiJ.jpeg" group-title="XVIDEOS",XVIDEOS 08
 https://files.catbox.moe/gw16z2.mp4
-
-#EXTINF:-1 tvg-id="SexyHot.br" tvg-name="XVIDEOS 09" tvg-logo="https://i.imgur.com/xx7uGiJ.jpeg" group-title=" XVIDEOS ", XVIDEOS 09
+#EXTINF:-1 tvg-id="SexyHot.br" tvg-name="XVIDEOS 09" tvg-logo="https://i.imgur.com/xx7uGiJ.jpeg" group-title="XVIDEOS",XVIDEOS 09
 https://files.catbox.moe/xdl2k1.mp4
-
-#EXTINF:-1 tvg-id="VenusTV.br" tvg-name="XVIDEOS 10" tvg-logo="https://i.imgur.com/xx7uGiJ.jpeg" group-title=" XVIDEOS ", XVIDEOS 10
+#EXTINF:-1 tvg-id="VenusTV.br" tvg-name="XVIDEOS 10" tvg-logo="https://i.imgur.com/xx7uGiJ.jpeg" group-title="XVIDEOS",XVIDEOS 10
 https://files.catbox.moe/04xz11.mp4
-
-#EXTINF:-1 tvg-id="Playboy.br" tvg-name="XVIDEOS 11" tvg-logo="https://i.imgur.com/xx7uGiJ.jpeg" group-title=" XVIDEOS ", XVIDEOS 11
+#EXTINF:-1 tvg-id="Playboy.br" tvg-name="XVIDEOS 11" tvg-logo="https://i.imgur.com/xx7uGiJ.jpeg" group-title="XVIDEOS",XVIDEOS 11
 https://files.catbox.moe/3parcb.mp4
-
-#EXTINF:-1 tvg-id="SextremeBrazil.br" tvg-name="XVIDEOS 12" tvg-logo="https://i.imgur.com/xx7uGiJ.jpeg" group-title=" XVIDEOS ", XVIDEOS 12
+#EXTINF:-1 tvg-id="SextremeBrazil.br" tvg-name="XVIDEOS 12" tvg-logo="https://i.imgur.com/xx7uGiJ.jpeg" group-title="XVIDEOS",XVIDEOS 12
 https://files.catbox.moe/l5c7sl.mp4
-
-#EXTINF:-1 tvg-id="SexyHot.br" tvg-name="XVIDEOS 13" tvg-logo="https://i.imgur.com/xx7uGiJ.jpeg" group-title=" XVIDEOS ", XVIDEOS 13
+#EXTINF:-1 tvg-id="SexyHot.br" tvg-name="XVIDEOS 13" tvg-logo="https://i.imgur.com/xx7uGiJ.jpeg" group-title="XVIDEOS",XVIDEOS 13
 https://files.catbox.moe/0goz9l.mp4
-
-#EXTINF:-1 tvg-id="VenusTV.br" tvg-name="XVIDEOS 14" tvg-logo="https://i.imgur.com/xx7uGiJ.jpeg" group-title=" XVIDEOS ", XVIDEOS 14
+#EXTINF:-1 tvg-id="VenusTV.br" tvg-name="XVIDEOS 14" tvg-logo="https://i.imgur.com/xx7uGiJ.jpeg" group-title="XVIDEOS",XVIDEOS 14
 https://files.catbox.moe/oqet4l.mp4
-
-#EXTINF:-1 tvg-id="Playboy.br" tvg-name="XVIDEOS 15" tvg-logo="https://i.imgur.com/xx7uGiJ.jpeg" group-title=" XVIDEOS ", XVIDEOS 15
+#EXTINF:-1 tvg-id="Playboy.br" tvg-name="XVIDEOS 15" tvg-logo="https://i.imgur.com/xx7uGiJ.jpeg" group-title="XVIDEOS",XVIDEOS 15
 https://files.catbox.moe/2m0osl.mp4
-
-#EXTINF:-1 tvg-id="SextremeBrazil.br" tvg-name="XVIDEOS 16" tvg-logo="https://i.imgur.com/xx7uGiJ.jpeg" group-title=" XVIDEOS ", XVIDEOS 16
+#EXTINF:-1 tvg-id="SextremeBrazil.br" tvg-name="XVIDEOS 16" tvg-logo="https://i.imgur.com/xx7uGiJ.jpeg" group-title="XVIDEOS",XVIDEOS 16
 https://files.catbox.moe/j90468.mp4
-
-#EXTINF:-1 tvg-id="SexyHot.br" tvg-name="XVIDEOS 17" tvg-logo="https://i.imgur.com/xx7uGiJ.jpeg" group-title=" XVIDEOS ", XVIDEOS 17
+#EXTINF:-1 tvg-id="SexyHot.br" tvg-name="XVIDEOS 17" tvg-logo="https://i.imgur.com/xx7uGiJ.jpeg" group-title="XVIDEOS",XVIDEOS 17
 https://files.catbox.moe/wcg3u5.mp4
-
-#EXTINF:-1 tvg-id="VenusTV.br" tvg-name="XVIDEOS 18" tvg-logo="https://i.imgur.com/xx7uGiJ.jpeg" group-title=" XVIDEOS ", XVIDEOS 18
+#EXTINF:-1 tvg-id="VenusTV.br" tvg-name="XVIDEOS 18" tvg-logo="https://i.imgur.com/xx7uGiJ.jpeg" group-title="XVIDEOS",XVIDEOS 18
 https://files.catbox.moe/3v2eu5.mp4
-
-#EXTINF:-1 tvg-id="Playboy.br" tvg-name="XVIDEOS 19" tvg-logo="https://i.imgur.com/xx7uGiJ.jpeg" group-title=" XVIDEOS ", XVIDEOS 19
+#EXTINF:-1 tvg-id="Playboy.br" tvg-name="XVIDEOS 19" tvg-logo="https://i.imgur.com/xx7uGiJ.jpeg" group-title="XVIDEOS",XVIDEOS 19
 https://files.catbox.moe/cejuzi.mp4
-
-#EXTINF:-1 tvg-id="SextremeBrazil.br" tvg-name="XVIDEOS 20" tvg-logo="https://i.imgur.com/xx7uGiJ.jpeg" group-title=" XVIDEOS ", XVIDEOS 20
+#EXTINF:-1 tvg-id="SextremeBrazil.br" tvg-name="XVIDEOS 20" tvg-logo="https://i.imgur.com/xx7uGiJ.jpeg" group-title="XVIDEOS",XVIDEOS 20
 https://files.catbox.moe/1nwo65.mp4
-
-#EXTINF:-1 tvg-id="SexyHot.br" tvg-name="XVIDEOS 21" tvg-logo="https://i.imgur.com/xx7uGiJ.jpeg" group-title=" XVIDEOS ", XVIDEOS 21
+#EXTINF:-1 tvg-id="SexyHot.br" tvg-name="XVIDEOS 21" tvg-logo="https://i.imgur.com/xx7uGiJ.jpeg" group-title="XVIDEOS",XVIDEOS 21
 https://files.catbox.moe/10spf7.mp4
-
-#EXTINF:-1 tvg-id="VenusTV.br" tvg-name="XVIDEOS 22" tvg-logo="https://i.imgur.com/xx7uGiJ.jpeg" group-title=" XVIDEOS ", XVIDEOS 22
+#EXTINF:-1 tvg-id="VenusTV.br" tvg-name="XVIDEOS 22" tvg-logo="https://i.imgur.com/xx7uGiJ.jpeg" group-title="XVIDEOS",XVIDEOS 22
 https://files.catbox.moe/b85e26.mp4
-
-#EXTINF:-1 tvg-id="Playboy.br" tvg-name="XVIDEOS 23" tvg-logo="https://i.imgur.com/xx7uGiJ.jpeg" group-title=" XVIDEOS ", XVIDEOS 23
+#EXTINF:-1 tvg-id="Playboy.br" tvg-name="XVIDEOS 23" tvg-logo="https://i.imgur.com/xx7uGiJ.jpeg" group-title="XVIDEOS",XVIDEOS 23
 https://files.catbox.moe/15ez6j.mp4
-
-#EXTINF:-1 tvg-id="SextremeBrazil.br" tvg-name="XVIDEOS 24" tvg-logo="https://i.imgur.com/xx7uGiJ.jpeg" group-title=" XVIDEOS ", XVIDEOS 24
+#EXTINF:-1 tvg-id="SextremeBrazil.br" tvg-name="XVIDEOS 24" tvg-logo="https://i.imgur.com/xx7uGiJ.jpeg" group-title="XVIDEOS",XVIDEOS 24
 https://files.catbox.moe/ovepgu.mp4
-
-#EXTINF:-1 tvg-id="SexyHot.br" tvg-name="XVIDEOS 25" tvg-logo="https://i.imgur.com/xx7uGiJ.jpeg" group-title=" XVIDEOS ", XVIDEOS 25
+#EXTINF:-1 tvg-id="SexyHot.br" tvg-name="XVIDEOS 25" tvg-logo="https://i.imgur.com/xx7uGiJ.jpeg" group-title="XVIDEOS",XVIDEOS 25
 https://files.catbox.moe/ni258c.mp4
-
-#EXTINF:-1 tvg-id="VenusTV.br" tvg-name="XVIDEOS 26" tvg-logo="https://i.imgur.com/xx7uGiJ.jpeg" group-title=" XVIDEOS ", XVIDEOS 26
+#EXTINF:-1 tvg-id="VenusTV.br" tvg-name="XVIDEOS 26" tvg-logo="https://i.imgur.com/xx7uGiJ.jpeg" group-title="XVIDEOS",XVIDEOS 26
 https://files.catbox.moe/e9k7ea.mp4
-
-#EXTINF:-1 tvg-id="Playboy.br" tvg-name="XVIDEOS 27" tvg-logo="https://i.imgur.com/xx7uGiJ.jpeg" group-title=" XVIDEOS ", XVIDEOS 27
+#EXTINF:-1 tvg-id="Playboy.br" tvg-name="XVIDEOS 27" tvg-logo="https://i.imgur.com/xx7uGiJ.jpeg" group-title="XVIDEOS",XVIDEOS 27
 https://files.catbox.moe/e0862z.mp4
-
-#EXTINF:-1 tvg-id="SextremeBrazil.br" tvg-name="XVIDEOS 28" tvg-logo="https://i.imgur.com/xx7uGiJ.jpeg" group-title=" XVIDEOS ", XVIDEOS 28
+#EXTINF:-1 tvg-id="SextremeBrazil.br" tvg-name="XVIDEOS 28" tvg-logo="https://i.imgur.com/xx7uGiJ.jpeg" group-title="XVIDEOS",XVIDEOS 28
 https://files.catbox.moe/d3mwq9.mp4
-
-#EXTINF:-1 tvg-id="SexyHot.br" tvg-name="XVIDEOS 29" tvg-logo="https://i.imgur.com/xx7uGiJ.jpeg" group-title=" XVIDEOS ", XVIDEOS 29
+#EXTINF:-1 tvg-id="SexyHot.br" tvg-name="XVIDEOS 29" tvg-logo="https://i.imgur.com/xx7uGiJ.jpeg" group-title="XVIDEOS",XVIDEOS 29
 https://files.catbox.moe/4sj8md.mp4
-
-#EXTINF:-1 tvg-id="VenusTV.br" tvg-name="XVIDEOS 30" tvg-logo="https://i.imgur.com/xx7uGiJ.jpeg" group-title=" XVIDEOS ", XVIDEOS 30
+#EXTINF:-1 tvg-id="VenusTV.br" tvg-name="XVIDEOS 30" tvg-logo="https://i.imgur.com/xx7uGiJ.jpeg" group-title="XVIDEOS",XVIDEOS 30
 https://files.catbox.moe/zlmxqi.mp4
-
-#EXTINF:-1 tvg-id="Playboy.br" tvg-name="XVIDEOS 31" tvg-logo="https://i.imgur.com/xx7uGiJ.jpeg" group-title=" XVIDEOS ", XVIDEOS 31
+#EXTINF:-1 tvg-id="Playboy.br" tvg-name="XVIDEOS 31" tvg-logo="https://i.imgur.com/xx7uGiJ.jpeg" group-title="XVIDEOS",XVIDEOS 31
 https://files.catbox.moe/pjqxim.mp4
-
-#EXTINF:-1 tvg-id="SextremeBrazil.br" tvg-name="XVIDEOS 32" tvg-logo="https://i.imgur.com/xx7uGiJ.jpeg" group-title=" XVIDEOS ", XVIDEOS 32
+#EXTINF:-1 tvg-id="SextremeBrazil.br" tvg-name="XVIDEOS 32" tvg-logo="https://i.imgur.com/xx7uGiJ.jpeg" group-title="XVIDEOS",XVIDEOS 32
 https://files.catbox.moe/8njrhu.mp4
-
-#EXTINF:-1 tvg-id="SexyHot.br" tvg-name="XVIDEOS 33" tvg-logo="https://i.imgur.com/xx7uGiJ.jpeg" group-title=" XVIDEOS ", XVIDEOS 33
+#EXTINF:-1 tvg-id="SexyHot.br" tvg-name="XVIDEOS 33" tvg-logo="https://i.imgur.com/xx7uGiJ.jpeg" group-title="XVIDEOS",XVIDEOS 33
 https://files.catbox.moe/9cfrb3.mp4
-
-#EXTINF:-1 tvg-id="VenusTV.br" tvg-name="XVIDEOS 34" tvg-logo="https://i.imgur.com/xx7uGiJ.jpeg" group-title=" XVIDEOS ", XVIDEOS 34
+#EXTINF:-1 tvg-id="VenusTV.br" tvg-name="XVIDEOS 34" tvg-logo="https://i.imgur.com/xx7uGiJ.jpeg" group-title="XVIDEOS",XVIDEOS 34
 https://files.catbox.moe/6mn5pq.mp4
-
-#EXTINF:-1 tvg-id="Playboy.br" tvg-name="XVIDEOS 35" tvg-logo="https://i.imgur.com/xx7uGiJ.jpeg" group-title=" XVIDEOS ", XVIDEOS 35
+#EXTINF:-1 tvg-id="Playboy.br" tvg-name="XVIDEOS 35" tvg-logo="https://i.imgur.com/xx7uGiJ.jpeg" group-title="XVIDEOS",XVIDEOS 35
 https://files.catbox.moe/o1dss7.mp4
-
-#EXTINF:-1 tvg-id="SextremeBrazil.br" tvg-name="XVIDEOS 36" tvg-logo="https://i.imgur.com/xx7uGiJ.jpeg" group-title=" XVIDEOS ", XVIDEOS 36
+#EXTINF:-1 tvg-id="SextremeBrazil.br" tvg-name="XVIDEOS 36" tvg-logo="https://i.imgur.com/xx7uGiJ.jpeg" group-title="XVIDEOS",XVIDEOS 36
 https://files.catbox.moe/dn9uby.mp4
-
-#EXTINF:-1 tvg-id="SexyHot.br" tvg-name="XVIDEOS 37" tvg-logo="https://i.imgur.com/xx7uGiJ.jpeg" group-title=" XVIDEOS ", XVIDEOS 37
+#EXTINF:-1 tvg-id="SexyHot.br" tvg-name="XVIDEOS 37" tvg-logo="https://i.imgur.com/xx7uGiJ.jpeg" group-title="XVIDEOS",XVIDEOS 37
 https://files.catbox.moe/qsmi99.mp4
-
-#EXTINF:-1 tvg-id="VenusTV.br" tvg-name="XVIDEOS 38" tvg-logo="https://i.imgur.com/xx7uGiJ.jpeg" group-title=" XVIDEOS ", XVIDEOS 38
+#EXTINF:-1 tvg-id="VenusTV.br" tvg-name="XVIDEOS 38" tvg-logo="https://i.imgur.com/xx7uGiJ.jpeg" group-title="XVIDEOS",XVIDEOS 38
 https://files.catbox.moe/zt3b1m.mp4
-
-#EXTINF:-1 tvg-id="Playboy.br" tvg-name="XVIDEOS 39" tvg-logo="https://i.imgur.com/xx7uGiJ.jpeg" group-title=" XVIDEOS ", XVIDEOS 39
+#EXTINF:-1 tvg-id="Playboy.br" tvg-name="XVIDEOS 39" tvg-logo="https://i.imgur.com/xx7uGiJ.jpeg" group-title="XVIDEOS",XVIDEOS 39
 https://files.catbox.moe/buegj2.mp4
-
-#EXTINF:-1 tvg-id="SextremeBrazil.br" tvg-name="XVIDEOS 40" tvg-logo="https://i.imgur.com/xx7uGiJ.jpeg" group-title=" XVIDEOS ", XVIDEOS 40
+#EXTINF:-1 tvg-id="SextremeBrazil.br" tvg-name="XVIDEOS 40" tvg-logo="https://i.imgur.com/xx7uGiJ.jpeg" group-title="XVIDEOS",XVIDEOS 40
 https://files.catbox.moe/mjg1kz.mp4
-
-#EXTINF:-1 tvg-id="SexyHot.br" tvg-name="XVIDEOS 41" tvg-logo="https://i.imgur.com/xx7uGiJ.jpeg" group-title=" XVIDEOS ", XVIDEOS 41
+#EXTINF:-1 tvg-id="SexyHot.br" tvg-name="XVIDEOS 41" tvg-logo="https://i.imgur.com/xx7uGiJ.jpeg" group-title="XVIDEOS",XVIDEOS 41
 https://files.catbox.moe/689lt9.mp4
-
-#EXTINF:-1 tvg-id="VenusTV.br" tvg-name="XVIDEOS 42" tvg-logo="https://i.imgur.com/xx7uGiJ.jpeg" group-title=" XVIDEOS ", XVIDEOS 42
+#EXTINF:-1 tvg-id="VenusTV.br" tvg-name="XVIDEOS 42" tvg-logo="https://i.imgur.com/xx7uGiJ.jpeg" group-title="XVIDEOS",XVIDEOS 42
 https://files.catbox.moe/nhepc2.mp4
-
-#EXTINF:-1 tvg-id="Playboy.br" tvg-name="XVIDEOS 43" tvg-logo="https://i.imgur.com/xx7uGiJ.jpeg" group-title=" XVIDEOS ", XVIDEOS 43
+#EXTINF:-1 tvg-id="Playboy.br" tvg-name="XVIDEOS 43" tvg-logo="https://i.imgur.com/xx7uGiJ.jpeg" group-title="XVIDEOS",XVIDEOS 43
 https://files.catbox.moe/kgmfye.mp4
-
-#EXTINF:-1 tvg-id="SextremeBrazil.br" tvg-name="XVIDEOS 44" tvg-logo="https://i.imgur.com/xx7uGiJ.jpeg" group-title=" XVIDEOS ", XVIDEOS 44
+#EXTINF:-1 tvg-id="SextremeBrazil.br" tvg-name="XVIDEOS 44" tvg-logo="https://i.imgur.com/xx7uGiJ.jpeg" group-title="XVIDEOS",XVIDEOS 44
 https://files.catbox.moe/l9u5qa.mp4
-
-#EXTINF:-1 tvg-id="TVAlvoradadoSul.br" tvg-name="ATV - AO VIVO E ENJOY CINEMA" tvg-logo="https://nsfw-dl.glitch.me/1001953408171/10748" group-title=" ATV ", ATV - AO VIVO E ENJOY CINEMA
+#EXTINF:-1 tvg-id="TVAlvoradadoSul.br" tvg-name="ATV - AO VIVO E ENJOY CINEMA" tvg-logo="https://nsfw-dl.glitch.me/1001953408171/10748" group-title="ATV",ATV - AO VIVO E ENJOY CINEMA
 https://files.catbox.moe/249z1v.mp4
-
-
-
-# Josiel Jefferson
-
-
-#EXTM3U url-tvg="http://m3u4u.com/epg/xe47yz1pd9spv21mn9vq"
-#EXTM3U url-tvg="http://m3u4u.com/epg/j67zn6m4w7fq9rv8yd1w"
-
-#EXTM3U url-tvg="http://m3u4u.com/epg/5z3endkpx8cd7z4dyqpk"
 #EXTINF:-1 tvg-id="AandE.br" tvg-name="A&E 4k²" tvg-logo="https://i.imgur.com/AH7Xnng.png" group-title="BR",A&E 4k²
 http://p23.miami:80/live/Rp0808328/Bk20305060/200520.ts
 #EXTINF:-1 tvg-id="AandE.br" tvg-name="A&E FHD" tvg-logo="https://i.imgur.com/AH7Xnng.png" group-title="BR",A&E FHD
@@ -1065,11 +751,11 @@ http://p23.miami:80/live/Rp0808328/Bk20305060/181696.ts
 http://p23.miami:80/live/Rp0808328/Bk20305060/181010.ts
 #EXTINF:-1 tvg-id="BandSports.br" tvg-name="BAND SPORTS SD²" tvg-logo="https://i.imgur.com/nsI0PIg.png" group-title="BR",BAND SPORTS SD²
 http://p23.miami:80/live/Rp0808328/Bk20305060/181704.ts
-#EXTINF:-1 tvg-id="TVTaroba.br" tvg-name="BAND TAROBA FHD" tvg-logo="https://i.imgur.com/RuhvMaw.png" group-title="BR",BAND TAROBA FHD
+#EXTINF:-1 tvg-id="Band.br" tvg-name="BAND TAROBA FHD" tvg-logo="https://i.imgur.com/RuhvMaw.png" group-title="BR",BAND TAROBA FHD
 http://p23.miami:80/live/Rp0808328/Bk20305060/180961.ts
-#EXTINF:-1 tvg-id="TVTaroba.br" tvg-name="BAND TAROBA FHD H265" tvg-logo="https://i.imgur.com/RuhvMaw.png" group-title="BR",BAND TAROBA FHD H265
+#EXTINF:-1 tvg-id="Band.br" tvg-name="BAND TAROBA FHD H265" tvg-logo="https://i.imgur.com/RuhvMaw.png" group-title="BR",BAND TAROBA FHD H265
 http://p23.miami:80/live/Rp0808328/Bk20305060/180987.ts
-#EXTINF:-1 tvg-id="TVTaroba.br" tvg-name="BAND TAROBA HD" tvg-logo="https://i.imgur.com/RuhvMaw.png" group-title="BR",BAND TAROBA HD
+#EXTINF:-1 tvg-id="Band.br" tvg-name="BAND TAROBA HD" tvg-logo="https://i.imgur.com/RuhvMaw.png" group-title="BR",BAND TAROBA HD
 http://p23.miami:80/live/Rp0808328/Bk20305060/180941.ts
 #EXTINF:-1 tvg-id="BandSports.br" tvg-name="BANDSPORTS 4k²" tvg-logo="https://i.imgur.com/nsI0PIg.png" group-title="BR",BANDSPORTS 4k²
 http://p23.miami:80/live/Rp0808328/Bk20305060/200522.ts
@@ -1093,15 +779,15 @@ http://p23.miami:80/live/Rp0808328/Bk20305060/181991.ts
 http://smattv.eatuo.com:25461/live/w7AyZCx5Sn3Z/Smf2zbxLtB/205.m3u8
 #EXTINF:-1 tvg-id="RedeAmazonicaManaus.br" tvg-name="BR: GLOBO AMAZONAS HD" tvg-logo="https://static.epg.best/pt/Globo.pt.png" group-title="BR",BR: GLOBO AMAZONAS HD
 http://smattv.eatuo.com:25461/live/w7AyZCx5Sn3Z/Smf2zbxLtB/226.m3u8
-#EXTINF:-1 tvg-id="HBOPlusBrasil.br" tvg-name="BR: HBO Extreme HD" tvg-logo="https://static.epg.best/br/HBO.br.png" group-title="BR",BR: HBO Extreme HD
+#EXTINF:-1 tvg-id="HBOXtreme.br" tvg-name="BR: HBO Extreme HD" tvg-logo="https://static.epg.best/br/HBO.br.png" group-title="BR",BR: HBO Extreme HD
 http://smattv.eatuo.com:25461/live/w7AyZCx5Sn3Z/Smf2zbxLtB/100.m3u8
 #EXTINF:-1 tvg-id="MaxPrimePanregional.br" tvg-name="BR: MAX UP HD" tvg-logo="https://static.epg.best/br/maxUP.br.png" group-title="BR",BR: MAX UP HD
 http://smattv.eatuo.com:25461/live/w7AyZCx5Sn3Z/Smf2zbxLtB/129.m3u8
 #EXTINF:-1 tvg-id="RecordTVSaoPaulo.br" tvg-name="BR: RECORD SP 4K" tvg-logo="https://static.epg.best/br/RecordTV.br.png" group-title="BR",BR: RECORD SP 4K
 http://smattv.eatuo.com:25461/live/w7AyZCx5Sn3Z/Smf2zbxLtB/222.m3u8
-#EXTINF:-1 tvg-id="Sportv4.br" tvg-name="BR: SPORTV4 4K (Olimpiadas)" tvg-logo="https://static.epg.best/br/SporTV3.br.png" group-title="BR",BR: SPORTV4 4K (Olimpiadas)
+#EXTINF:-1 tvg-id="SporTV.br" tvg-name="BR: SPORTV4 4K (Olimpiadas)" tvg-logo="https://static.epg.best/br/SporTV3.br.png" group-title="BR",BR: SPORTV4 4K (Olimpiadas)
 http://smattv.eatuo.com:25461/live/w7AyZCx5Sn3Z/Smf2zbxLtB/54.m3u8
-#EXTINF:-1 tvg-id="ClanTVE.es" tvg-name="BR: TVE BAHIA" tvg-logo="https://static.epg.best/br/TvEscola.br.png" group-title="BR",BR: TVE BAHIA
+#EXTINF:-1 tvg-id="TVEBahia.br" tvg-name="BR: TVE BAHIA" tvg-logo="https://static.epg.best/br/TvEscola.br.png" group-title="BR",BR: TVE BAHIA
 http://smattv.eatuo.com:25461/live/w7AyZCx5Sn3Z/Smf2zbxLtB/422.m3u8
 #EXTINF:-1 tvg-id="Studiouniversal.br" tvg-name="BR: UNIVERSAL CHANNEL HD" tvg-logo="https://static.epg.best/ph/UniversalChannel.ph.png" group-title="BR",BR: UNIVERSAL CHANNEL HD
 http://smattv.eatuo.com:25461/live/w7AyZCx5Sn3Z/Smf2zbxLtB/171.m3u8
@@ -1183,9 +869,9 @@ http://p23.miami:80/live/Rp0808328/Bk20305060/181157.ts
 http://p23.miami:80/live/Rp0808328/Bk20305060/180804.ts
 #EXTINF:-1 tvg-id="CGTN(English).br" tvg-name="CGTN SD²" tvg-logo="https://i.imgur.com/PKbtcim.png" group-title="BR",CGTN SD²
 http://p23.miami:80/live/Rp0808328/Bk20305060/182172.ts
-#EXTINF:-1 tvg-id="KChefTVPlus.br" tvg-name="CHEF TV FHD²" tvg-logo="https://i.imgur.com/msilIhs.png" group-title="BR",CHEF TV FHD²
+#EXTINF:-1 tvg-id="ChefTv.br" tvg-name="CHEF TV FHD²" tvg-logo="https://i.imgur.com/msilIhs.png" group-title="BR",CHEF TV FHD²
 http://p23.miami:80/live/Rp0808328/Bk20305060/182066.ts
-#EXTINF:-1 tvg-id="KChefTVPlus.br" tvg-name="CHEFE TV HD" tvg-logo="https://i.imgur.com/msilIhs.png" group-title="BR",CHEFE TV HD
+#EXTINF:-1 tvg-id="ChefTv.br" tvg-name="CHEFE TV HD" tvg-logo="https://i.imgur.com/msilIhs.png" group-title="BR",CHEFE TV HD
 http://p23.miami:80/live/Rp0808328/Bk20305060/180747.ts
 #EXTINF:-1 tvg-id="CineBrasilTV.br" tvg-name="CINE BRASIL HD²" tvg-logo="https://i.imgur.com/CAyeUhS.png" group-title="BR",CINE BRASIL HD²
 http://p23.miami:80/live/Rp0808328/Bk20305060/182009.ts
@@ -1271,7 +957,7 @@ http://p23.miami:80/live/Rp0808328/Bk20305060/184445.ts
 http://p23.miami:80/live/Rp0808328/Bk20305060/184491.ts
 #EXTINF:-1 tvg-id="ConmebolTV1.br" tvg-name="CONMEBOL 1 SD" tvg-logo="https://i.imgur.com/yXt1aWe.png" group-title="BR",CONMEBOL 1 SD
 http://p23.miami:80/live/Rp0808328/Bk20305060/184503.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CONMEBOL 1 SD²" tvg-logo="https://i.imgur.com/yXt1aWe.png" group-title="BR",CONMEBOL 1 SD²
+#EXTINF:-1 tvg-id="ConmebolTV1.br" tvg-name="CONMEBOL 1 SD²" tvg-logo="https://i.imgur.com/yXt1aWe.png" group-title="BR",CONMEBOL 1 SD²
 http://p23.miami:80/live/Rp0808328/Bk20305060/184493.ts
 #EXTINF:-1 tvg-id="ConmebolTV1.br" tvg-name="CONMEBOL 1 SD² H265" tvg-logo="https://i.imgur.com/yXt1aWe.png" group-title="BR",CONMEBOL 1 SD² H265
 http://p23.miami:80/live/Rp0808328/Bk20305060/184534.ts
@@ -1481,15 +1167,15 @@ http://p23.miami:80/live/Rp0808328/Bk20305060/181041.ts
 http://p23.miami:80/live/Rp0808328/Bk20305060/181971.ts
 #EXTINF:-1 tvg-id="ESPN.br" tvg-name="ESPN 4K²" tvg-logo="https://i.imgur.com/L6bSpDK.png" group-title="BR",ESPN 4K²
 http://p23.miami:80/live/Rp0808328/Bk20305060/200322.ts
-#EXTINF:-1 tvg-id="Espnextra.br" tvg-name="ESPN EXTRA FHD" tvg-logo="https://i.imgur.com/bBO2R1g.png" group-title="BR",ESPN EXTRA FHD
+#EXTINF:-1 tvg-id="ESPN6.br" tvg-name="ESPN EXTRA FHD" tvg-logo="https://i.imgur.com/bBO2R1g.png" group-title="BR",ESPN EXTRA FHD
 http://p23.miami:80/live/Rp0808328/Bk20305060/181392.ts
-#EXTINF:-1 tvg-id="Espnextra.br" tvg-name="ESPN EXTRA FHD H265" tvg-logo="https://i.imgur.com/bBO2R1g.png" group-title="BR",ESPN EXTRA FHD H265
+#EXTINF:-1 tvg-id="ESPN6.br" tvg-name="ESPN EXTRA FHD H265" tvg-logo="https://i.imgur.com/bBO2R1g.png" group-title="BR",ESPN EXTRA FHD H265
 http://p23.miami:80/live/Rp0808328/Bk20305060/180822.ts
-#EXTINF:-1 tvg-id="Espnextra.br" tvg-name="ESPN EXTRA FHD²" tvg-logo="https://i.imgur.com/0cFXrL2.png" group-title="BR",ESPN EXTRA FHD²
+#EXTINF:-1 tvg-id="ESPN6.br" tvg-name="ESPN EXTRA FHD²" tvg-logo="https://i.imgur.com/0cFXrL2.png" group-title="BR",ESPN EXTRA FHD²
 http://p23.miami:80/live/Rp0808328/Bk20305060/181927.ts
-#EXTINF:-1 tvg-id="Espnextra.br" tvg-name="ESPN EXTRA HD" tvg-logo="https://i.imgur.com/bBO2R1g.png" group-title="BR",ESPN EXTRA HD
+#EXTINF:-1 tvg-id="ESPN6.br" tvg-name="ESPN EXTRA HD" tvg-logo="https://i.imgur.com/bBO2R1g.png" group-title="BR",ESPN EXTRA HD
 http://p23.miami:80/live/Rp0808328/Bk20305060/180613.ts
-#EXTINF:-1 tvg-id="Espnextra.br" tvg-name="ESPN EXTRA HD²" tvg-logo="https://i.imgur.com/0cFXrL2.png" group-title="BR",ESPN EXTRA HD²
+#EXTINF:-1 tvg-id="ESPN6.br" tvg-name="ESPN EXTRA HD²" tvg-logo="https://i.imgur.com/0cFXrL2.png" group-title="BR",ESPN EXTRA HD²
 http://p23.miami:80/live/Rp0808328/Bk20305060/181928.ts
 #EXTINF:-1 tvg-id="ESPN.br" tvg-name="ESPN FHD" tvg-logo="https://i.imgur.com/L6bSpDK.png" group-title="BR",ESPN FHD
 http://p23.miami:80/live/Rp0808328/Bk20305060/181393.ts
@@ -1541,21 +1227,21 @@ http://p23.miami:80/live/Rp0808328/Bk20305060/182074.ts
 http://p23.miami:80/live/Rp0808328/Bk20305060/180614.ts
 #EXTINF:-1 tvg-id="FoodNetwork.br" tvg-name="FOOD NETWORK SD²" tvg-logo="https://i.imgur.com/B4s8uxi.png" group-title="BR",FOOD NETWORK SD²
 http://p23.miami:80/live/Rp0808328/Bk20305060/182075.ts
-#EXTINF:-1 tvg-id="FoxSports2Brazil.br" tvg-name="FOX SPORTS 2 FHD" tvg-logo="https://i.imgur.com/M4FIKdZ.png" group-title="BR",FOX SPORTS 2 FHD
+#EXTINF:-1 tvg-id="ESPN5.br" tvg-name="FOX SPORTS 2 FHD" tvg-logo="https://i.imgur.com/M4FIKdZ.png" group-title="BR",FOX SPORTS 2 FHD
 http://p23.miami:80/live/Rp0808328/Bk20305060/181395.ts
-#EXTINF:-1 tvg-id="FoxSports2Brazil.br" tvg-name="FOX SPORTS 2 FHD H265" tvg-logo="https://i.imgur.com/M4FIKdZ.png" group-title="BR",FOX SPORTS 2 FHD H265
+#EXTINF:-1 tvg-id="ESPN5.br" tvg-name="FOX SPORTS 2 FHD H265" tvg-logo="https://i.imgur.com/M4FIKdZ.png" group-title="BR",FOX SPORTS 2 FHD H265
 http://p23.miami:80/live/Rp0808328/Bk20305060/180832.ts
-#EXTINF:-1 tvg-id="FoxSports2Brazil.br" tvg-name="FOX SPORTS 2 FHD²" tvg-logo="https://i.imgur.com/M4FIKdZ.png" group-title="BR",FOX SPORTS 2 FHD²
+#EXTINF:-1 tvg-id="ESPN5.br" tvg-name="FOX SPORTS 2 FHD²" tvg-logo="https://i.imgur.com/M4FIKdZ.png" group-title="BR",FOX SPORTS 2 FHD²
 http://p23.miami:80/live/Rp0808328/Bk20305060/181967.ts
-#EXTINF:-1 tvg-id="FoxSports2Brazil.br" tvg-name="FOX SPORTS 2 FHD² H264" tvg-logo="https://i.imgur.com/M4FIKdZ.png" group-title="BR",FOX SPORTS 2 FHD² H264
+#EXTINF:-1 tvg-id="ESPN5.br" tvg-name="FOX SPORTS 2 FHD² H264" tvg-logo="https://i.imgur.com/M4FIKdZ.png" group-title="BR",FOX SPORTS 2 FHD² H264
 http://p23.miami:80/live/Rp0808328/Bk20305060/196083.ts
-#EXTINF:-1 tvg-id="FoxSports2Brazil.br" tvg-name="FOX SPORTS 2 HD" tvg-logo="https://i.imgur.com/M4FIKdZ.png" group-title="BR",FOX SPORTS 2 HD
+#EXTINF:-1 tvg-id="ESPN5.br" tvg-name="FOX SPORTS 2 HD" tvg-logo="https://i.imgur.com/M4FIKdZ.png" group-title="BR",FOX SPORTS 2 HD
 http://p23.miami:80/live/Rp0808328/Bk20305060/180619.ts
-#EXTINF:-1 tvg-id="FoxSports2Brazil.br" tvg-name="FOX SPORTS 2 HD²" tvg-logo="https://i.imgur.com/M4FIKdZ.png" group-title="BR",FOX SPORTS 2 HD²
+#EXTINF:-1 tvg-id="ESPN5.br" tvg-name="FOX SPORTS 2 HD²" tvg-logo="https://i.imgur.com/M4FIKdZ.png" group-title="BR",FOX SPORTS 2 HD²
 http://p23.miami:80/live/Rp0808328/Bk20305060/181968.ts
-#EXTINF:-1 tvg-id="FoxSports2Brazil.br" tvg-name="FOX SPORTS 2 SD" tvg-logo="https://i.imgur.com/M4FIKdZ.png" group-title="BR",FOX SPORTS 2 SD
+#EXTINF:-1 tvg-id="ESPN5.br" tvg-name="FOX SPORTS 2 SD" tvg-logo="https://i.imgur.com/M4FIKdZ.png" group-title="BR",FOX SPORTS 2 SD
 http://p23.miami:80/live/Rp0808328/Bk20305060/181042.ts
-#EXTINF:-1 tvg-id="FoxSports2Brazil.br" tvg-name="FOX SPORTS 2 SD²" tvg-logo="https://i.imgur.com/M4FIKdZ.png" group-title="BR",FOX SPORTS 2 SD²
+#EXTINF:-1 tvg-id="ESPN5.br" tvg-name="FOX SPORTS 2 SD²" tvg-logo="https://i.imgur.com/M4FIKdZ.png" group-title="BR",FOX SPORTS 2 SD²
 http://p23.miami:80/live/Rp0808328/Bk20305060/181972.ts
 #EXTINF:-1 tvg-id="France24(French).br" tvg-name="FRANCE 24HS HD²" tvg-logo="https://i.imgur.com/7sKBaIA.png" group-title="BR",FRANCE 24HS HD²
 http://p23.miami:80/live/Rp0808328/Bk20305060/182148.ts
@@ -1649,13 +1335,13 @@ http://p23.miami:80/live/Rp0808328/Bk20305060/181322.ts
 http://p23.miami:80/live/Rp0808328/Bk20305060/181611.ts
 #EXTINF:-1 tvg-id="InterTVCabugi.br" tvg-name="GLOBO INTER TV CABUGI HD" tvg-logo="https://i.imgur.com/MQNHOHE.png" group-title="BR",GLOBO INTER TV CABUGI HD
 http://p23.miami:80/live/Rp0808328/Bk20305060/181060.ts
-#EXTINF:-1 tvg-id="Globo.br" tvg-name="GLOBO INTER TV MG  FHD" tvg-logo="https://i.imgur.com/MQNHOHE.png" group-title="BR",GLOBO INTER TV MG  FHD
+#EXTINF:-1 tvg-id="InterTVGrandeMinas.br" tvg-name="GLOBO INTER TV MG  FHD" tvg-logo="https://i.imgur.com/MQNHOHE.png" group-title="BR",GLOBO INTER TV MG  FHD
 http://p23.miami:80/live/Rp0808328/Bk20305060/180971.ts
-#EXTINF:-1 tvg-id="Globo.br" tvg-name="GLOBO INTER TV MG FHD²" tvg-logo="https://i.imgur.com/MQNHOHE.png" group-title="BR",GLOBO INTER TV MG FHD²
+#EXTINF:-1 tvg-id="InterTVGrandeMinas.br" tvg-name="GLOBO INTER TV MG FHD²" tvg-logo="https://i.imgur.com/MQNHOHE.png" group-title="BR",GLOBO INTER TV MG FHD²
 http://p23.miami:80/live/Rp0808328/Bk20305060/182016.ts
-#EXTINF:-1 tvg-id="Globo.br" tvg-name="GLOBO INTER TV MG HD" tvg-logo="https://i.imgur.com/MQNHOHE.png" group-title="BR",GLOBO INTER TV MG HD
+#EXTINF:-1 tvg-id="InterTVGrandeMinas.br" tvg-name="GLOBO INTER TV MG HD" tvg-logo="https://i.imgur.com/MQNHOHE.png" group-title="BR",GLOBO INTER TV MG HD
 http://p23.miami:80/live/Rp0808328/Bk20305060/180970.ts
-#EXTINF:-1 tvg-id="Globo.br" tvg-name="GLOBO INTER TV MG HD²" tvg-logo="https://i.imgur.com/MQNHOHE.png" group-title="BR",GLOBO INTER TV MG HD²
+#EXTINF:-1 tvg-id="InterTVGrandeMinas.br" tvg-name="GLOBO INTER TV MG HD²" tvg-logo="https://i.imgur.com/MQNHOHE.png" group-title="BR",GLOBO INTER TV MG HD²
 http://p23.miami:80/live/Rp0808328/Bk20305060/182017.ts
 #EXTINF:-1 tvg-id="Globo.br" tvg-name="GLOBO INTER TV RJ FHD" tvg-logo="https://i.imgur.com/MQNHOHE.png" group-title="BR",GLOBO INTER TV RJ FHD
 http://p23.miami:80/live/Rp0808328/Bk20305060/180969.ts
@@ -1757,15 +1443,15 @@ http://p23.miami:80/live/Rp0808328/Bk20305060/181637.ts
 http://p23.miami:80/live/Rp0808328/Bk20305060/180992.ts
 #EXTINF:-1 tvg-id="Globo.br" tvg-name="GLOBO PORTO VELHO HD²" tvg-logo="https://i.imgur.com/MQNHOHE.png" group-title="BR",GLOBO PORTO VELHO HD²
 http://p23.miami:80/live/Rp0808328/Bk20305060/181638.ts
-#EXTINF:-1 tvg-id="Globo.br" tvg-name="GLOBO RBS 4K" tvg-logo="https://i.imgur.com/MQNHOHE.png" group-title="BR",GLOBO RBS 4K
+#EXTINF:-1 tvg-id="RBSTVPortoAlegre.br" tvg-name="GLOBO RBS 4K" tvg-logo="https://i.imgur.com/MQNHOHE.png" group-title="BR",GLOBO RBS 4K
 http://p23.miami:80/live/Rp0808328/Bk20305060/181336.ts
-#EXTINF:-1 tvg-id="Globo.br" tvg-name="GLOBO RBS 4K²" tvg-logo="https://i.imgur.com/MQNHOHE.png" group-title="BR",GLOBO RBS 4K²
+#EXTINF:-1 tvg-id="RBSTVRioGrande.br" tvg-name="GLOBO RBS 4K²" tvg-logo="https://i.imgur.com/MQNHOHE.png" group-title="BR",GLOBO RBS 4K²
 http://p23.miami:80/live/Rp0808328/Bk20305060/182143.ts
-#EXTINF:-1 tvg-id="Globo.br" tvg-name="GLOBO RBS TV  PELOTAS RS HD" tvg-logo="https://i.imgur.com/MQNHOHE.png" group-title="BR",GLOBO RBS TV  PELOTAS RS HD
+#EXTINF:-1 tvg-id="RBSTVPortoAlegre.br" tvg-name="GLOBO RBS TV  PELOTAS RS HD" tvg-logo="https://i.imgur.com/MQNHOHE.png" group-title="BR",GLOBO RBS TV  PELOTAS RS HD
 http://p23.miami:80/live/Rp0808328/Bk20305060/180958.ts
 #EXTINF:-1 tvg-id="Globo.br" tvg-name="GLOBO RBS TV CARAZINHO FHD²" tvg-logo="https://i.imgur.com/MQNHOHE.png" group-title="BR",GLOBO RBS TV CARAZINHO FHD²
 http://p23.miami:80/live/Rp0808328/Bk20305060/182147.ts
-#EXTINF:-1 tvg-id="Globo.br" tvg-name="GLOBO RBS TV CAXIAS DO SUL FHD" tvg-logo="https://i.imgur.com/MQNHOHE.png" group-title="BR",GLOBO RBS TV CAXIAS DO SUL FHD
+#EXTINF:-1 tvg-id="RBSTVPortoAlegre.br" tvg-name="GLOBO RBS TV CAXIAS DO SUL FHD" tvg-logo="https://i.imgur.com/MQNHOHE.png" group-title="BR",GLOBO RBS TV CAXIAS DO SUL FHD
 http://p23.miami:80/live/Rp0808328/Bk20305060/180956.ts
 #EXTINF:-1 tvg-id="Globo.br" tvg-name="GLOBO RBS TV CAXIAS DO SUL FHD²" tvg-logo="https://i.imgur.com/MQNHOHE.png" group-title="BR",GLOBO RBS TV CAXIAS DO SUL FHD²
 http://p23.miami:80/live/Rp0808328/Bk20305060/182019.ts
@@ -1801,7 +1487,7 @@ http://p23.miami:80/live/Rp0808328/Bk20305060/181337.ts
 http://p23.miami:80/live/Rp0808328/Bk20305060/180920.ts
 #EXTINF:-1 tvg-id="RBSTVPortoAlegre.br" tvg-name="GLOBO RBS TV PORTO ALEGRE HD²" tvg-logo="https://i.imgur.com/MQNHOHE.png" group-title="BR",GLOBO RBS TV PORTO ALEGRE HD²
 http://p23.miami:80/live/Rp0808328/Bk20305060/182022.ts
-#EXTINF:-1 tvg-id="RBSTVSantaMaria.br" tvg-name="GLOBO RBS TV STA MARIA RS HD" tvg-logo="https://i.imgur.com/MQNHOHE.png" group-title="BR",GLOBO RBS TV STA MARIA RS HD
+#EXTINF:-1 tvg-id="Globo.br" tvg-name="GLOBO RBS TV STA MARIA RS HD" tvg-logo="https://i.imgur.com/MQNHOHE.png" group-title="BR",GLOBO RBS TV STA MARIA RS HD
 http://p23.miami:80/live/Rp0808328/Bk20305060/181422.ts
 #EXTINF:-1 tvg-id="Globo.br" tvg-name="GLOBO REDE AMAZONICA BOA VISTA FHD" tvg-logo="https://i.imgur.com/MQNHOHE.png" group-title="BR",GLOBO REDE AMAZONICA BOA VISTA FHD
 http://p23.miami:80/live/Rp0808328/Bk20305060/180991.ts
@@ -1951,13 +1637,13 @@ http://p23.miami:80/live/Rp0808328/Bk20305060/181612.ts
 http://p23.miami:80/live/Rp0808328/Bk20305060/181341.ts
 #EXTINF:-1 tvg-id="TVGazetadeAlagoas.br" tvg-name="GLOBO TV GAZETA AL HD²" tvg-logo="https://i.imgur.com/MQNHOHE.png" group-title="BR",GLOBO TV GAZETA AL HD²
 http://p23.miami:80/live/Rp0808328/Bk20305060/181613.ts
-#EXTINF:-1 tvg-id="Globo.br" tvg-name="GLOBO TV GAZETA ES FHD" tvg-logo="https://i.imgur.com/MQNHOHE.png" group-title="BR",GLOBO TV GAZETA ES FHD
+#EXTINF:-1 tvg-id="TVGazeta.br" tvg-name="GLOBO TV GAZETA ES FHD" tvg-logo="https://i.imgur.com/MQNHOHE.png" group-title="BR",GLOBO TV GAZETA ES FHD
 http://p23.miami:80/live/Rp0808328/Bk20305060/181369.ts
-#EXTINF:-1 tvg-id="Globo.br" tvg-name="GLOBO TV GAZETA ES FHD²" tvg-logo="https://i.imgur.com/MQNHOHE.png" group-title="BR",GLOBO TV GAZETA ES FHD²
+#EXTINF:-1 tvg-id="TVGazeta.br" tvg-name="GLOBO TV GAZETA ES FHD²" tvg-logo="https://i.imgur.com/MQNHOHE.png" group-title="BR",GLOBO TV GAZETA ES FHD²
 http://p23.miami:80/live/Rp0808328/Bk20305060/181652.ts
-#EXTINF:-1 tvg-id="Globo.br" tvg-name="GLOBO TV GAZETA ES HD" tvg-logo="https://i.imgur.com/MQNHOHE.png" group-title="BR",GLOBO TV GAZETA ES HD
+#EXTINF:-1 tvg-id="TVGazeta.br" tvg-name="GLOBO TV GAZETA ES HD" tvg-logo="https://i.imgur.com/MQNHOHE.png" group-title="BR",GLOBO TV GAZETA ES HD
 http://p23.miami:80/live/Rp0808328/Bk20305060/181370.ts
-#EXTINF:-1 tvg-id="Globo.br" tvg-name="GLOBO TV GAZETA ES HD²" tvg-logo="https://i.imgur.com/MQNHOHE.png" group-title="BR",GLOBO TV GAZETA ES HD²
+#EXTINF:-1 tvg-id="TVGazeta.br" tvg-name="GLOBO TV GAZETA ES HD²" tvg-logo="https://i.imgur.com/MQNHOHE.png" group-title="BR",GLOBO TV GAZETA ES HD²
 http://p23.miami:80/live/Rp0808328/Bk20305060/181653.ts
 #EXTINF:-1 tvg-id="Globo.br" tvg-name="GLOBO TV INTEGRAÇÃO ARAXÁ FHD" tvg-logo="https://i.imgur.com/MQNHOHE.png" group-title="BR",GLOBO TV INTEGRAÇÃO ARAXÁ FHD
 http://p23.miami:80/live/Rp0808328/Bk20305060/181374.ts
@@ -2119,9 +1805,9 @@ http://p23.miami:80/live/Rp0808328/Bk20305060/182077.ts
 http://p23.miami:80/live/Rp0808328/Bk20305060/181052.ts
 #EXTINF:-1 tvg-id="Gnt.br" tvg-name="GNT SD²" tvg-logo="https://i.imgur.com/xE9SDcI.png" group-title="BR",GNT SD²
 http://p23.miami:80/live/Rp0808328/Bk20305060/182078.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="GOSPEL CARTOON" tvg-logo="https://i.imgur.com/GkqqBsK.png" group-title="BR",GOSPEL CARTOON
+#EXTINF:-1 tvg-id="Gospel.br" tvg-name="GOSPEL CARTOON" tvg-logo="https://i.imgur.com/GkqqBsK.png" group-title="BR",GOSPEL CARTOON
 http://p23.miami:80/live/Rp0808328/Bk20305060/180740.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="GOSPEL MOVIE TV HD" tvg-logo="https://i.imgur.com/yLBt6cc.png" group-title="BR",GOSPEL MOVIE TV HD
+#EXTINF:-1 tvg-id="RedeGospel.br" tvg-name="GOSPEL MOVIE TV HD" tvg-logo="https://i.imgur.com/yLBt6cc.png" group-title="BR",GOSPEL MOVIE TV HD
 http://p23.miami:80/live/Rp0808328/Bk20305060/180739.ts
 #EXTINF:-1 tvg-id="Hbo2.br" tvg-name="HBO 2 FHD" tvg-logo="https://i.imgur.com/yZTQQu7.png" group-title="BR",HBO 2 FHD
 http://p23.miami:80/live/Rp0808328/Bk20305060/181415.ts
@@ -2297,7 +1983,7 @@ http://p23.miami:80/live/Rp0808328/Bk20305060/182080.ts
 http://p23.miami:80/live/Rp0808328/Bk20305060/181061.ts
 #EXTINF:-1 tvg-id="Lifetime.br" tvg-name="LIFETIME SD²" tvg-logo="https://i.imgur.com/ZbzDn8G.png" group-title="BR",LIFETIME SD²
 http://p23.miami:80/live/Rp0808328/Bk20305060/182174.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LIKE 4k²" tvg-logo="https://i.imgur.com/lhUGBVg.jpg" group-title="BR",LIKE 4k²
+#EXTINF:-1 tvg-id="LMCplus.br" tvg-name="LIKE 4k²" tvg-logo="https://i.imgur.com/lhUGBVg.jpg" group-title="BR",LIKE 4k²
 http://p23.miami:80/live/Rp0808328/Bk20305060/200518.ts
 #EXTINF:-1 tvg-id="Loading.br" tvg-name="LOADING FHD²" tvg-logo="https://i.imgur.com/eUMXCl5.png" group-title="BR",LOADING FHD²
 http://p23.miami:80/live/Rp0808328/Bk20305060/182081.ts
@@ -2309,25 +1995,25 @@ http://p23.miami:80/live/Rp0808328/Bk20305060/181501.ts
 http://p23.miami:80/live/Rp0808328/Bk20305060/180720.ts
 #EXTINF:-1 tvg-id="Loading.br" tvg-name="LOADING TV SD" tvg-logo="https://i.imgur.com/eUMXCl5.png" group-title="BR",LOADING TV SD
 http://p23.miami:80/live/Rp0808328/Bk20305060/181145.ts
-#EXTINF:-1 tvg-id="Lovenature.br" tvg-name="LOVE NATURE FHD" tvg-logo="https://i.imgur.com/KkCQq9t.png" group-title="BR",LOVE NATURE FHD
+#EXTINF:-1 tvg-id="MeioNorte.br" tvg-name="LOVE NATURE FHD" tvg-logo="https://i.imgur.com/KkCQq9t.png" group-title="BR",LOVE NATURE FHD
 http://p23.miami:80/live/Rp0808328/Bk20305060/180892.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LOVE NATURE FHD²" tvg-logo="https://i.imgur.com/KkCQq9t.png" group-title="BR",LOVE NATURE FHD²
+#EXTINF:-1 tvg-id="NordesTV.br" tvg-name="LOVE NATURE FHD²" tvg-logo="https://i.imgur.com/KkCQq9t.png" group-title="BR",LOVE NATURE FHD²
 http://p23.miami:80/live/Rp0808328/Bk20305060/181871.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LOVE NATURE HD²" tvg-logo="https://i.imgur.com/KkCQq9t.png" group-title="BR",LOVE NATURE HD²
+#EXTINF:-1 tvg-id="MeioNorte.br" tvg-name="LOVE NATURE HD²" tvg-logo="https://i.imgur.com/KkCQq9t.png" group-title="BR",LOVE NATURE HD²
 http://p23.miami:80/live/Rp0808328/Bk20305060/181872.ts
-#EXTINF:-1 tvg-id="+globosat.br" tvg-name="MAIS GLOBO SAT FHD²" tvg-logo="https://i.imgur.com/lxvA5RT.png" group-title="BR",MAIS GLOBO SAT FHD²
+#EXTINF:-1 tvg-id="NordesTV.br" tvg-name="MAIS GLOBO SAT FHD²" tvg-logo="https://i.imgur.com/lxvA5RT.png" group-title="BR",MAIS GLOBO SAT FHD²
 http://p23.miami:80/live/Rp0808328/Bk20305060/181601.ts
-#EXTINF:-1 tvg-id="+globosat.br" tvg-name="MAIS GLOBOSAT FHD" tvg-logo="https://i.imgur.com/lxvA5RT.png" group-title="BR",MAIS GLOBOSAT FHD
+#EXTINF:-1 tvg-id="MeioNorte.br" tvg-name="MAIS GLOBOSAT FHD" tvg-logo="https://i.imgur.com/lxvA5RT.png" group-title="BR",MAIS GLOBOSAT FHD
 http://p23.miami:80/live/Rp0808328/Bk20305060/181504.ts
-#EXTINF:-1 tvg-id="+globosat.br" tvg-name="MAIS GLOBOSAT FHD H265" tvg-logo="https://i.imgur.com/lxvA5RT.png" group-title="BR",MAIS GLOBOSAT FHD H265
+#EXTINF:-1 tvg-id="MeioNorte.br" tvg-name="MAIS GLOBOSAT FHD H265" tvg-logo="https://i.imgur.com/lxvA5RT.png" group-title="BR",MAIS GLOBOSAT FHD H265
 http://p23.miami:80/live/Rp0808328/Bk20305060/180846.ts
-#EXTINF:-1 tvg-id="+globosat.br" tvg-name="MAIS GLOBOSAT HD" tvg-logo="https://i.imgur.com/lxvA5RT.png" group-title="BR",MAIS GLOBOSAT HD
+#EXTINF:-1 tvg-id="MeioNorte.br" tvg-name="MAIS GLOBOSAT HD" tvg-logo="https://i.imgur.com/lxvA5RT.png" group-title="BR",MAIS GLOBOSAT HD
 http://p23.miami:80/live/Rp0808328/Bk20305060/180623.ts
-#EXTINF:-1 tvg-id="+globosat.br" tvg-name="MAIS GLOBOSAT HD²" tvg-logo="https://i.imgur.com/lxvA5RT.png" group-title="BR",MAIS GLOBOSAT HD²
+#EXTINF:-1 tvg-id="NordesTV.br" tvg-name="MAIS GLOBOSAT HD²" tvg-logo="https://i.imgur.com/lxvA5RT.png" group-title="BR",MAIS GLOBOSAT HD²
 http://p23.miami:80/live/Rp0808328/Bk20305060/181602.ts
-#EXTINF:-1 tvg-id="+globosat.br" tvg-name="MAIS GLOBOSAT SD" tvg-logo="https://i.imgur.com/lxvA5RT.png" group-title="BR",MAIS GLOBOSAT SD
+#EXTINF:-1 tvg-id="NordesTV.br" tvg-name="MAIS GLOBOSAT SD" tvg-logo="https://i.imgur.com/lxvA5RT.png" group-title="BR",MAIS GLOBOSAT SD
 http://p23.miami:80/live/Rp0808328/Bk20305060/181062.ts
-#EXTINF:-1 tvg-id="+globosat.br" tvg-name="MAIS GLOBOSAT SD²" tvg-logo="https://i.imgur.com/lxvA5RT.png" group-title="BR",MAIS GLOBOSAT SD²
+#EXTINF:-1 tvg-id="NordesTV.br" tvg-name="MAIS GLOBOSAT SD²" tvg-logo="https://i.imgur.com/lxvA5RT.png" group-title="BR",MAIS GLOBOSAT SD²
 http://p23.miami:80/live/Rp0808328/Bk20305060/182084.ts
 #EXTINF:-1 tvg-id="MaxPrimePanregional.br" tvg-name="MAX" tvg-logo="https://i.imgur.com/DanW0NR.png" group-title="BR",MAX
 http://p23.miami:80/live/Rp0808328/Bk20305060/181063.ts
@@ -2383,21 +2069,21 @@ http://p23.miami:80/live/Rp0808328/Bk20305060/182139.ts
 http://p23.miami:80/live/Rp0808328/Bk20305060/181069.ts
 #EXTINF:-1 tvg-id="MusicBoxBrasil.br" tvg-name="MUSIC BOX BRAZIL SD" tvg-logo="https://i.imgur.com/NX4qYvp.png" group-title="BR",MUSIC BOX BRAZIL SD
 http://p23.miami:80/live/Rp0808328/Bk20305060/181068.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NAT GEO KIDS FHD" tvg-logo="https://i.imgur.com/bnzkfCi.png" group-title="BR",NAT GEO KIDS FHD
+#EXTINF:-1 tvg-id="ZooMooKids.br" tvg-name="NAT GEO KIDS FHD" tvg-logo="https://i.imgur.com/bnzkfCi.png" group-title="BR",NAT GEO KIDS FHD
 http://p23.miami:80/live/Rp0808328/Bk20305060/181451.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NAT GEO KIDS HD" tvg-logo="https://i.imgur.com/bnzkfCi.png" group-title="BR",NAT GEO KIDS HD
+#EXTINF:-1 tvg-id="DiscoveryKids.br" tvg-name="NAT GEO KIDS HD" tvg-logo="https://i.imgur.com/bnzkfCi.png" group-title="BR",NAT GEO KIDS HD
 http://p23.miami:80/live/Rp0808328/Bk20305060/180642.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NAT GEO KIDS SD" tvg-logo="https://i.imgur.com/bnzkfCi.png" group-title="BR",NAT GEO KIDS SD
+#EXTINF:-1 tvg-id="BoxKids.br" tvg-name="NAT GEO KIDS SD" tvg-logo="https://i.imgur.com/bnzkfCi.png" group-title="BR",NAT GEO KIDS SD
 http://p23.miami:80/live/Rp0808328/Bk20305060/181070.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NAT GEO WILD FHD" tvg-logo="https://i.imgur.com/BmEYL5B.png" group-title="BR",NAT GEO WILD FHD
+#EXTINF:-1 tvg-id="NationalGeographic.br" tvg-name="NAT GEO WILD FHD" tvg-logo="https://i.imgur.com/BmEYL5B.png" group-title="BR",NAT GEO WILD FHD
 http://p23.miami:80/live/Rp0808328/Bk20305060/181425.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NAT GEO WILD FHD²" tvg-logo="https://i.imgur.com/vQHxKIk.png" group-title="BR",NAT GEO WILD FHD²
+#EXTINF:-1 tvg-id="NationalGeographic.br" tvg-name="NAT GEO WILD FHD²" tvg-logo="https://i.imgur.com/vQHxKIk.png" group-title="BR",NAT GEO WILD FHD²
 http://p23.miami:80/live/Rp0808328/Bk20305060/181869.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NAT GEO WILD HD" tvg-logo="https://i.imgur.com/BmEYL5B.png" group-title="BR",NAT GEO WILD HD
+#EXTINF:-1 tvg-id="NationalGeographic.br" tvg-name="NAT GEO WILD HD" tvg-logo="https://i.imgur.com/BmEYL5B.png" group-title="BR",NAT GEO WILD HD
 http://p23.miami:80/live/Rp0808328/Bk20305060/180643.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NAT GEO WILD HD²" tvg-logo="https://i.imgur.com/vQHxKIk.png" group-title="BR",NAT GEO WILD HD²
+#EXTINF:-1 tvg-id="NationalGeographic.br" tvg-name="NAT GEO WILD HD²" tvg-logo="https://i.imgur.com/vQHxKIk.png" group-title="BR",NAT GEO WILD HD²
 http://p23.miami:80/live/Rp0808328/Bk20305060/181870.ts
-#EXTINF:-1 tvg-id="Natgeowildhd.br" tvg-name="NAT GEO WILD SD" tvg-logo="https://i.imgur.com/BmEYL5B.png" group-title="BR",NAT GEO WILD SD
+#EXTINF:-1 tvg-id="NationalGeographic.br" tvg-name="NAT GEO WILD SD" tvg-logo="https://i.imgur.com/BmEYL5B.png" group-title="BR",NAT GEO WILD SD
 http://p23.miami:80/live/Rp0808328/Bk20305060/181071.ts
 #EXTINF:-1 tvg-id="Nationalgeographic.br" tvg-name="NATIONAL GEOGRAPHIC FHD" tvg-logo="https://i.imgur.com/RjXCFVb.png" group-title="BR",NATIONAL GEOGRAPHIC FHD
 http://p23.miami:80/live/Rp0808328/Bk20305060/181427.ts
@@ -2441,7 +2127,7 @@ http://p23.miami:80/live/Rp0808328/Bk20305060/180644.ts
 http://p23.miami:80/live/Rp0808328/Bk20305060/182048.ts
 #EXTINF:-1 tvg-id="Nickelodeon.br" tvg-name="NICKELODEON SD" tvg-logo="https://i.imgur.com/Oi8KJHf.png" group-title="BR",NICKELODEON SD
 http://p23.miami:80/live/Rp0808328/Bk20305060/181075.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PAI ETERNO SD²" tvg-logo="https://i.imgur.com/Q5caTlb.png" group-title="BR",PAI ETERNO SD²
+#EXTINF:-1 tvg-id="TVPaiEterno.br" tvg-name="PAI ETERNO SD²" tvg-logo="https://i.imgur.com/Q5caTlb.png" group-title="BR",PAI ETERNO SD²
 http://p23.miami:80/live/Rp0808328/Bk20305060/181976.ts
 #EXTINF:-1 tvg-id="ParamountChannel.br" tvg-name="PARAMONUT SD²" tvg-logo="https://i.imgur.com/frD5Atc.png" group-title="BR",PARAMONUT SD²
 http://p23.miami:80/live/Rp0808328/Bk20305060/181898.ts
@@ -2453,7 +2139,7 @@ http://p23.miami:80/live/Rp0808328/Bk20305060/180647.ts
 http://p23.miami:80/live/Rp0808328/Bk20305060/181897.ts
 #EXTINF:-1 tvg-id="ParamountChannel.br" tvg-name="PARAMOUNT SD" tvg-logo="https://i.imgur.com/orlWDtd.png" group-title="BR",PARAMOUNT SD
 http://p23.miami:80/live/Rp0808328/Bk20305060/181077.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PLAY KIDS SD" tvg-logo="https://i.imgur.com/btOVY4k.png" group-title="BR",PLAY KIDS SD
+#EXTINF:-1 tvg-id="PLAYTV.br" tvg-name="PLAY KIDS SD" tvg-logo="https://i.imgur.com/btOVY4k.png" group-title="BR",PLAY KIDS SD
 http://p23.miami:80/live/Rp0808328/Bk20305060/181148.ts
 #EXTINF:-1 tvg-id="Playboy.br" tvg-name="PLAYBOY FHD" tvg-logo="https://i.imgur.com/MV8Lfht.jpg" group-title="BR",PLAYBOY FHD
 http://p23.miami:80/live/Rp0808328/Bk20305060/181494.ts
@@ -2619,21 +2305,21 @@ http://p23.miami:80/live/Rp0808328/Bk20305060/182121.ts
 http://p23.miami:80/live/Rp0808328/Bk20305060/181401.ts
 #EXTINF:-1 tvg-id="RaiItalia(Italian).br" tvg-name="RAI ITALIA HD" tvg-logo="https://i.imgur.com/268cLXN.png" group-title="BR",RAI ITALIA HD
 http://p23.miami:80/live/Rp0808328/Bk20305060/181306.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RB TV FHD² H264" tvg-logo="https://i.imgur.com/s5XJRGt.jpg" group-title="BR",RB TV FHD² H264
+#EXTINF:-1 tvg-id="RBI.br" tvg-name="RB TV FHD² H264" tvg-logo="https://i.imgur.com/s5XJRGt.jpg" group-title="BR",RB TV FHD² H264
 http://p23.miami:80/live/Rp0808328/Bk20305060/196895.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RBI SD²" tvg-logo="https://i.imgur.com/YuXM22g.png" group-title="BR",RBI SD²
+#EXTINF:-1 tvg-id="RBI.br" tvg-name="RBI SD²" tvg-logo="https://i.imgur.com/YuXM22g.png" group-title="BR",RBI SD²
 http://p23.miami:80/live/Rp0808328/Bk20305060/182168.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RBI TV FHD² H264" tvg-logo="https://i.imgur.com/YuXM22g.png" group-title="BR",RBI TV FHD² H264
+#EXTINF:-1 tvg-id="RBI.br" tvg-name="RBI TV FHD² H264" tvg-logo="https://i.imgur.com/YuXM22g.png" group-title="BR",RBI TV FHD² H264
 http://p23.miami:80/live/Rp0808328/Bk20305060/196894.ts
-#EXTINF:-1 tvg-id="RecordTV.br" tvg-name="RECORD ACRITICA FDH² H264" tvg-logo="https://i.imgur.com/KH8ON5U.png" group-title="BR",RECORD ACRITICA FDH² H264
+#EXTINF:-1 tvg-id="TVACritica.br" tvg-name="RECORD ACRITICA FDH² H264" tvg-logo="https://i.imgur.com/KH8ON5U.png" group-title="BR",RECORD ACRITICA FDH² H264
 http://p23.miami:80/live/Rp0808328/Bk20305060/196188.ts
-#EXTINF:-1 tvg-id="RecordTV.br" tvg-name="RECORD ACRITICA FHD²" tvg-logo="https://i.imgur.com/KH8ON5U.png" group-title="BR",RECORD ACRITICA FHD²
+#EXTINF:-1 tvg-id="TVACritica.br" tvg-name="RECORD ACRITICA FHD²" tvg-logo="https://i.imgur.com/KH8ON5U.png" group-title="BR",RECORD ACRITICA FHD²
 http://p23.miami:80/live/Rp0808328/Bk20305060/181710.ts
-#EXTINF:-1 tvg-id="RecordTV.br" tvg-name="RECORD ACRITICA HD²" tvg-logo="https://i.imgur.com/KH8ON5U.png" group-title="BR",RECORD ACRITICA HD²
+#EXTINF:-1 tvg-id="TVACritica.br" tvg-name="RECORD ACRITICA HD²" tvg-logo="https://i.imgur.com/KH8ON5U.png" group-title="BR",RECORD ACRITICA HD²
 http://p23.miami:80/live/Rp0808328/Bk20305060/181711.ts
-#EXTINF:-1 tvg-id="RecordTV.br" tvg-name="RECORD BAHIA FHD" tvg-logo="https://i.imgur.com/KH8ON5U.png" group-title="BR",RECORD BAHIA FHD
+#EXTINF:-1 tvg-id="RECORDBahia.br" tvg-name="RECORD BAHIA FHD" tvg-logo="https://i.imgur.com/KH8ON5U.png" group-title="BR",RECORD BAHIA FHD
 http://p23.miami:80/live/Rp0808328/Bk20305060/181156.ts
-#EXTINF:-1 tvg-id="RecordTV.br" tvg-name="RECORD BAHIA HD" tvg-logo="https://i.imgur.com/KH8ON5U.png" group-title="BR",RECORD BAHIA HD
+#EXTINF:-1 tvg-id="RECORDBahia.br" tvg-name="RECORD BAHIA HD" tvg-logo="https://i.imgur.com/KH8ON5U.png" group-title="BR",RECORD BAHIA HD
 http://p23.miami:80/live/Rp0808328/Bk20305060/180737.ts
 #EXTINF:-1 tvg-id="RecordTVBelem.br" tvg-name="RECORD BELEM FHD²" tvg-logo="https://i.imgur.com/KH8ON5U.png" group-title="BR",RECORD BELEM FHD²
 http://p23.miami:80/live/Rp0808328/Bk20305060/181712.ts
@@ -2663,9 +2349,9 @@ http://p23.miami:80/live/Rp0808328/Bk20305060/181734.ts
 http://p23.miami:80/live/Rp0808328/Bk20305060/181718.ts
 #EXTINF:-1 tvg-id="RecordTV.br" tvg-name="RECORD INTERIOR SP HD²" tvg-logo="https://i.imgur.com/KH8ON5U.png" group-title="BR",RECORD INTERIOR SP HD²
 http://p23.miami:80/live/Rp0808328/Bk20305060/181719.ts
-#EXTINF:-1 tvg-id="RecordTVItapoan.br" tvg-name="RECORD ITAPOAN FHD²" tvg-logo="https://i.imgur.com/KH8ON5U.png" group-title="BR",RECORD ITAPOAN FHD²
+#EXTINF:-1 tvg-id="RecordTV.br" tvg-name="RECORD ITAPOAN FHD²" tvg-logo="https://i.imgur.com/KH8ON5U.png" group-title="BR",RECORD ITAPOAN FHD²
 http://p23.miami:80/live/Rp0808328/Bk20305060/181705.ts
-#EXTINF:-1 tvg-id="RecordTVItapoan.br" tvg-name="RECORD ITAPOAN HD²" tvg-logo="https://i.imgur.com/KH8ON5U.png" group-title="BR",RECORD ITAPOAN HD²
+#EXTINF:-1 tvg-id="RecordTV.br" tvg-name="RECORD ITAPOAN HD²" tvg-logo="https://i.imgur.com/KH8ON5U.png" group-title="BR",RECORD ITAPOAN HD²
 http://p23.miami:80/live/Rp0808328/Bk20305060/181720.ts
 #EXTINF:-1 tvg-id="RecordTV.br" tvg-name="RECORD LITORAL VALE DO PARAÍBA FHD²" tvg-logo="https://i.imgur.com/KH8ON5U.png" group-title="BR",RECORD LITORAL VALE DO PARAÍBA FHD²
 http://p23.miami:80/live/Rp0808328/Bk20305060/181721.ts
@@ -2709,17 +2395,17 @@ http://p23.miami:80/live/Rp0808328/Bk20305060/181726.ts
 http://p23.miami:80/live/Rp0808328/Bk20305060/181729.ts
 #EXTINF:-1 tvg-id="RecordTVRio.br" tvg-name="RECORD RJ INTERIOR HD²" tvg-logo="https://i.imgur.com/KH8ON5U.png" group-title="BR",RECORD RJ INTERIOR HD²
 http://p23.miami:80/live/Rp0808328/Bk20305060/181730.ts
-#EXTINF:-1 tvg-id="RecordTV.br" tvg-name="RECORD RS 4k²" tvg-logo="https://i.imgur.com/KH8ON5U.png" group-title="BR",RECORD RS 4k²
+#EXTINF:-1 tvg-id="RECORDRS.br" tvg-name="RECORD RS 4k²" tvg-logo="https://i.imgur.com/KH8ON5U.png" group-title="BR",RECORD RS 4k²
 http://p23.miami:80/live/Rp0808328/Bk20305060/181552.ts
 #EXTINF:-1 tvg-id="RECORDRS.br" tvg-name="RECORD RS FHD" tvg-logo="https://i.imgur.com/KH8ON5U.png" group-title="BR",RECORD RS FHD
 http://p23.miami:80/live/Rp0808328/Bk20305060/180998.ts
-#EXTINF:-1 tvg-id="RecordTVRS.br" tvg-name="RECORD RS FHD²" tvg-logo="https://i.imgur.com/KH8ON5U.png" group-title="BR",RECORD RS FHD²
+#EXTINF:-1 tvg-id="RECORDRS.br" tvg-name="RECORD RS FHD²" tvg-logo="https://i.imgur.com/KH8ON5U.png" group-title="BR",RECORD RS FHD²
 http://p23.miami:80/live/Rp0808328/Bk20305060/181708.ts
 #EXTINF:-1 tvg-id="RECORDRS.br" tvg-name="RECORD RS HD" tvg-logo="https://i.imgur.com/KH8ON5U.png" group-title="BR",RECORD RS HD
 http://p23.miami:80/live/Rp0808328/Bk20305060/180922.ts
-#EXTINF:-1 tvg-id="RecordTVRS.br" tvg-name="RECORD RS HD²" tvg-logo="https://i.imgur.com/KH8ON5U.png" group-title="BR",RECORD RS HD²
+#EXTINF:-1 tvg-id="RECORDRS.br" tvg-name="RECORD RS HD²" tvg-logo="https://i.imgur.com/KH8ON5U.png" group-title="BR",RECORD RS HD²
 http://p23.miami:80/live/Rp0808328/Bk20305060/181709.ts
-#EXTINF:-1 tvg-id="RecordTV.br" tvg-name="RECORD SANTA CATARINA HD" tvg-logo="https://i.imgur.com/KH8ON5U.png" group-title="BR",RECORD SANTA CATARINA HD
+#EXTINF:-1 tvg-id="RECORD.br" tvg-name="RECORD SANTA CATARINA HD" tvg-logo="https://i.imgur.com/KH8ON5U.png" group-title="BR",RECORD SANTA CATARINA HD
 http://p23.miami:80/live/Rp0808328/Bk20305060/180939.ts
 #EXTINF:-1 tvg-id="RecordTV.br" tvg-name="RECORD SANTA CATARINA HD²" tvg-logo="https://i.imgur.com/KH8ON5U.png" group-title="BR",RECORD SANTA CATARINA HD²
 http://p23.miami:80/live/Rp0808328/Bk20305060/198271.ts
@@ -2783,9 +2469,9 @@ http://p23.miami:80/live/Rp0808328/Bk20305060/181975.ts
 http://p23.miami:80/live/Rp0808328/Bk20305060/180738.ts
 #EXTINF:-1 tvg-id="RedeMinas.br" tvg-name="REDE MINAS HD" tvg-logo="https://i.imgur.com/bhy1TrT.png" group-title="BR",REDE MINAS HD
 http://p23.miami:80/live/Rp0808328/Bk20305060/180694.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="REDE PLENITUDE TV HD" tvg-logo="https://i.imgur.com/66om73Y.png" group-title="BR",REDE PLENITUDE TV HD
+#EXTINF:-1 tvg-id="RedeFamilia.br" tvg-name="REDE PLENITUDE TV HD" tvg-logo="https://i.imgur.com/66om73Y.png" group-title="BR",REDE PLENITUDE TV HD
 http://p23.miami:80/live/Rp0808328/Bk20305060/180742.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="REDE PLENITUDE TV HD²" tvg-logo="https://i.imgur.com/66om73Y.png" group-title="BR",REDE PLENITUDE TV HD²
+#EXTINF:-1 tvg-id="RedeGenesis.br" tvg-name="REDE PLENITUDE TV HD²" tvg-logo="https://i.imgur.com/66om73Y.png" group-title="BR",REDE PLENITUDE TV HD²
 http://p23.miami:80/live/Rp0808328/Bk20305060/181979.ts
 #EXTINF:-1 tvg-id="RedeSuper.br" tvg-name="REDE SUPER HD² H264" tvg-logo="https://i.imgur.com/rDJqbxy.png" group-title="BR",REDE SUPER HD² H264
 http://p23.miami:80/live/Rp0808328/Bk20305060/196888.ts
@@ -2823,13 +2509,13 @@ http://p23.miami:80/live/Rp0808328/Bk20305060/180929.ts
 http://p23.miami:80/live/Rp0808328/Bk20305060/180965.ts
 #EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT CAMPINAS HD" tvg-logo="https://i.imgur.com/jioQ8sm.png" group-title="BR",SBT CAMPINAS HD
 http://p23.miami:80/live/Rp0808328/Bk20305060/180964.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SBT MARANHÃO SD" tvg-logo="https://i.imgur.com/jioQ8sm.png" group-title="BR",SBT MARANHÃO SD
+#EXTINF:-1 tvg-id="TVDifusoraSaoLuis.br" tvg-name="SBT MARANHÃO SD" tvg-logo="https://i.imgur.com/jioQ8sm.png" group-title="BR",SBT MARANHÃO SD
 http://p23.miami:80/live/Rp0808328/Bk20305060/186911.ts
 #EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT PARANA FHD" tvg-logo="https://i.imgur.com/jioQ8sm.png" group-title="BR",SBT PARANA FHD
 http://p23.miami:80/live/Rp0808328/Bk20305060/180976.ts
 #EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT PARANA HD" tvg-logo="https://i.imgur.com/jioQ8sm.png" group-title="BR",SBT PARANA HD
 http://p23.miami:80/live/Rp0808328/Bk20305060/180942.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SBT PIAUI HD" tvg-logo="https://i.imgur.com/jioQ8sm.png" group-title="BR",SBT PIAUI HD
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT PIAUI HD" tvg-logo="https://i.imgur.com/jioQ8sm.png" group-title="BR",SBT PIAUI HD
 http://p23.miami:80/live/Rp0808328/Bk20305060/186913.ts
 #EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT PR 4K²" tvg-logo="https://i.imgur.com/jioQ8sm.png" group-title="BR",SBT PR 4K²
 http://p23.miami:80/live/Rp0808328/Bk20305060/200528.ts
@@ -2905,9 +2591,9 @@ http://p23.miami:80/live/Rp0808328/Bk20305060/181099.ts
 http://p23.miami:80/live/Rp0808328/Bk20305060/182113.ts
 #EXTINF:-1 tvg-id="SexyHot.br" tvg-name="SEXY HOT SD" tvg-logo="https://i.imgur.com/MV8Lfht.jpg" group-title="BR",SEXY HOT SD
 http://p23.miami:80/live/Rp0808328/Bk20305060/181100.ts
-#EXTINF:-1 tvg-id="Shoptime.br" tvg-name="SHOP TIME FHD" tvg-logo="https://i.imgur.com/Zs8c4ck.png" group-title="BR",SHOP TIME FHD
+#EXTINF:-1 tvg-id="Polishop.br" tvg-name="SHOP TIME FHD" tvg-logo="https://i.imgur.com/Zs8c4ck.png" group-title="BR",SHOP TIME FHD
 http://p23.miami:80/live/Rp0808328/Bk20305060/181507.ts
-#EXTINF:-1 tvg-id="Shoptime.br" tvg-name="SHOP TIME HD" tvg-logo="https://i.imgur.com/Zs8c4ck.png" group-title="BR",SHOP TIME HD
+#EXTINF:-1 tvg-id="Polishop.br" tvg-name="SHOP TIME HD" tvg-logo="https://i.imgur.com/Zs8c4ck.png" group-title="BR",SHOP TIME HD
 http://p23.miami:80/live/Rp0808328/Bk20305060/180736.ts
 #EXTINF:-1 tvg-id="SICInternacionalEuropa.br" tvg-name="SIC" tvg-logo="https://i.imgur.com/UT9vKek.png" group-title="BR",SIC
 http://p23.miami:80/live/Rp0808328/Bk20305060/182169.ts
@@ -2985,7 +2671,7 @@ http://p23.miami:80/live/Rp0808328/Bk20305060/181964.ts
 http://p23.miami:80/live/Rp0808328/Bk20305060/181965.ts
 #EXTINF:-1 tvg-id="Sportv.br" tvg-name="SPORTV SD² H265" tvg-logo="https://i.imgur.com/joOP4Q9.png" group-title="BR",SPORTV SD² H265
 http://p23.miami:80/live/Rp0808328/Bk20305060/184531.ts
-#EXTINF:-1 tvg-id="Foxlife.br" tvg-name="STAR  LIFE HD" tvg-logo="https://i.imgur.com/LgnudWt.png" group-title="BR",STAR  LIFE HD
+#EXTINF:-1 tvg-id="LifetimeBrazil.br" tvg-name="STAR  LIFE HD" tvg-logo="https://i.imgur.com/LgnudWt.png" group-title="BR",STAR  LIFE HD
 http://p23.miami:80/live/Rp0808328/Bk20305060/180616.ts
 #EXTINF:-1 tvg-id="StarChannel.br" tvg-name="STAR CHANNEL  FHD²" tvg-logo="https://i.imgur.com/uNwhGco.png" group-title="BR",STAR CHANNEL  FHD²
 http://p23.miami:80/live/Rp0808328/Bk20305060/181949.ts
@@ -2999,15 +2685,15 @@ http://p23.miami:80/live/Rp0808328/Bk20305060/181950.ts
 http://p23.miami:80/live/Rp0808328/Bk20305060/181039.ts
 #EXTINF:-1 tvg-id="StarChannel.br" tvg-name="STAR CHANNEL SD²" tvg-logo="https://i.imgur.com/uNwhGco.png" group-title="BR",STAR CHANNEL SD²
 http://p23.miami:80/live/Rp0808328/Bk20305060/181957.ts
-#EXTINF:-1 tvg-id="Foxlife.br" tvg-name="STAR LIFE FHD" tvg-logo="https://i.imgur.com/LgnudWt.png" group-title="BR",STAR LIFE FHD
+#EXTINF:-1 tvg-id="SonLifeBroadcastingNetwork(English).br" tvg-name="STAR LIFE FHD" tvg-logo="https://i.imgur.com/LgnudWt.png" group-title="BR",STAR LIFE FHD
 http://p23.miami:80/live/Rp0808328/Bk20305060/181459.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="STAR LIFE FHD²" tvg-logo="https://i.imgur.com/LgnudWt.png" group-title="BR",STAR LIFE FHD²
+#EXTINF:-1 tvg-id="Lifetime.br" tvg-name="STAR LIFE FHD²" tvg-logo="https://i.imgur.com/LgnudWt.png" group-title="BR",STAR LIFE FHD²
 http://p23.miami:80/live/Rp0808328/Bk20305060/181955.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="STAR LIFE HD²" tvg-logo="https://i.imgur.com/LgnudWt.png" group-title="BR",STAR LIFE HD²
+#EXTINF:-1 tvg-id="LifetimeBrazil.br" tvg-name="STAR LIFE HD²" tvg-logo="https://i.imgur.com/LgnudWt.png" group-title="BR",STAR LIFE HD²
 http://p23.miami:80/live/Rp0808328/Bk20305060/181956.ts
-#EXTINF:-1 tvg-id="Foxlife.br" tvg-name="STAR LIFE SD" tvg-logo="https://i.imgur.com/LgnudWt.png" group-title="BR",STAR LIFE SD
+#EXTINF:-1 tvg-id="LifetimeBrazil.br" tvg-name="STAR LIFE SD" tvg-logo="https://i.imgur.com/LgnudWt.png" group-title="BR",STAR LIFE SD
 http://p23.miami:80/live/Rp0808328/Bk20305060/181040.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="STAR LIFE SD²" tvg-logo="https://i.imgur.com/LgnudWt.png" group-title="BR",STAR LIFE SD²
+#EXTINF:-1 tvg-id="SonLifeBroadcastingNetwork(English).br" tvg-name="STAR LIFE SD²" tvg-logo="https://i.imgur.com/LgnudWt.png" group-title="BR",STAR LIFE SD²
 http://p23.miami:80/live/Rp0808328/Bk20305060/181958.ts
 #EXTINF:-1 tvg-id="Studiouniversal.br" tvg-name="STUDIO UNIVERSAL FHD" tvg-logo="https://i.imgur.com/RiOpdNR.png" group-title="BR",STUDIO UNIVERSAL FHD
 http://p23.miami:80/live/Rp0808328/Bk20305060/181469.ts
@@ -3021,7 +2707,7 @@ http://p23.miami:80/live/Rp0808328/Bk20305060/181905.ts
 http://p23.miami:80/live/Rp0808328/Bk20305060/181105.ts
 #EXTINF:-1 tvg-id="Studiouniversal.br" tvg-name="STUDIO UNIVERSAL SD²" tvg-logo="https://i.imgur.com/4ZPlyrH.png" group-title="BR",STUDIO UNIVERSAL SD²
 http://p23.miami:80/live/Rp0808328/Bk20305060/181906.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SUL TV FHD² H264" tvg-logo="https://i.imgur.com/MSKyoYi.jpg" group-title="BR",SUL TV FHD² H264
+#EXTINF:-1 tvg-id="RedeTVSul.br" tvg-name="SUL TV FHD² H264" tvg-logo="https://i.imgur.com/MSKyoYi.jpg" group-title="BR",SUL TV FHD² H264
 http://p23.miami:80/live/Rp0808328/Bk20305060/196887.ts
 #EXTINF:-1 tvg-id="SYFY(English).br" tvg-name="SYFY FHD" tvg-logo="https://i.imgur.com/zuQpmuD.png" group-title="BR",SYFY FHD
 http://p23.miami:80/live/Rp0808328/Bk20305060/181479.ts
@@ -3201,17 +2887,17 @@ http://p23.miami:80/live/Rp0808328/Bk20305060/181506.ts
 http://p23.miami:80/live/Rp0808328/Bk20305060/182140.ts
 #EXTINF:-1 tvg-id="Travelboxbrazil.br" tvg-name="TRAVEL BOX BRASIL HD" tvg-logo="https://i.imgur.com/NxVBVp4.png" group-title="BR",TRAVEL BOX BRASIL HD
 http://p23.miami:80/live/Rp0808328/Bk20305060/180723.ts
-#EXTINF:-1 tvg-id="Trutv.br" tvg-name="TRUTV FHD" tvg-logo="https://i.imgur.com/p6Z1YY1.png" group-title="BR",TRUTV FHD
+#EXTINF:-1 tvg-id="TVTropical.br" tvg-name="TRUTV FHD" tvg-logo="https://i.imgur.com/p6Z1YY1.png" group-title="BR",TRUTV FHD
 http://p23.miami:80/live/Rp0808328/Bk20305060/181500.ts
-#EXTINF:-1 tvg-id="Trutv.br" tvg-name="TRUTV FHD²" tvg-logo="https://i.imgur.com/H9hBqRx.png" group-title="BR",TRUTV FHD²
+#EXTINF:-1 tvg-id="TVTropical.br" tvg-name="TRUTV FHD²" tvg-logo="https://i.imgur.com/H9hBqRx.png" group-title="BR",TRUTV FHD²
 http://p23.miami:80/live/Rp0808328/Bk20305060/182144.ts
-#EXTINF:-1 tvg-id="Trutv.br" tvg-name="TRUTV HD" tvg-logo="https://i.imgur.com/p6Z1YY1.png" group-title="BR",TRUTV HD
+#EXTINF:-1 tvg-id="TVTropical.br" tvg-name="TRUTV HD" tvg-logo="https://i.imgur.com/p6Z1YY1.png" group-title="BR",TRUTV HD
 http://p23.miami:80/live/Rp0808328/Bk20305060/180719.ts
-#EXTINF:-1 tvg-id="Trutv.br" tvg-name="TRUTV HD²" tvg-logo="https://i.imgur.com/H9hBqRx.png" group-title="BR",TRUTV HD²
+#EXTINF:-1 tvg-id="TVTropical.br" tvg-name="TRUTV HD²" tvg-logo="https://i.imgur.com/H9hBqRx.png" group-title="BR",TRUTV HD²
 http://p23.miami:80/live/Rp0808328/Bk20305060/182157.ts
-#EXTINF:-1 tvg-id="Trutv.br" tvg-name="TRUTV SD" tvg-logo="https://i.imgur.com/p6Z1YY1.png" group-title="BR",TRUTV SD
+#EXTINF:-1 tvg-id="TVTropical.br" tvg-name="TRUTV SD" tvg-logo="https://i.imgur.com/p6Z1YY1.png" group-title="BR",TRUTV SD
 http://p23.miami:80/live/Rp0808328/Bk20305060/181120.ts
-#EXTINF:-1 tvg-id="Trutv.br" tvg-name="TRUTV SD²" tvg-logo="https://i.imgur.com/H9hBqRx.png" group-title="BR",TRUTV SD²
+#EXTINF:-1 tvg-id="TVTropical.br" tvg-name="TRUTV SD²" tvg-logo="https://i.imgur.com/H9hBqRx.png" group-title="BR",TRUTV SD²
 http://p23.miami:80/live/Rp0808328/Bk20305060/181873.ts
 #EXTINF:-1 tvg-id="TVAparecida.br" tvg-name="TV APARECIDA FHD²" tvg-logo="https://i.imgur.com/sdxKKZP.png" group-title="BR",TV APARECIDA FHD²
 http://p23.miami:80/live/Rp0808328/Bk20305060/181978.ts
@@ -3227,7 +2913,7 @@ http://p23.miami:80/live/Rp0808328/Bk20305060/180708.ts
 http://p23.miami:80/live/Rp0808328/Bk20305060/181124.ts
 #EXTINF:-1 tvg-id="Tvcamara.br" tvg-name="TV CAMERA SD²" tvg-logo="https://i.imgur.com/rGRAGIL.png" group-title="BR",TV CAMERA SD²
 http://p23.miami:80/live/Rp0808328/Bk20305060/181982.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV CARAVELAS HD²" tvg-logo="https://i.imgur.com/SIsakZC.png" group-title="BR",TV CARAVELAS HD²
+#EXTINF:-1 tvg-id="BandPiaui.br" tvg-name="TV CARAVELAS HD²" tvg-logo="https://i.imgur.com/SIsakZC.png" group-title="BR",TV CARAVELAS HD²
 http://p23.miami:80/live/Rp0808328/Bk20305060/182163.ts
 #EXTINF:-1 tvg-id="Cultura.br" tvg-name="TV CULTURA FHD²" tvg-logo="https://i.imgur.com/MEpdIyf.png" group-title="BR",TV CULTURA FHD²
 http://p23.miami:80/live/Rp0808328/Bk20305060/182008.ts
@@ -3241,25 +2927,25 @@ http://p23.miami:80/live/Rp0808328/Bk20305060/180695.ts
 http://p23.miami:80/live/Rp0808328/Bk20305060/182013.ts
 #EXTINF:-1 tvg-id="TVEducativa.br" tvg-name="TV EDUCATIVA FHD²" tvg-logo="https://i.imgur.com/mZsTmGR.png" group-title="BR",TV EDUCATIVA FHD²
 http://p23.miami:80/live/Rp0808328/Bk20305060/182158.ts
-#EXTINF:-1 tvg-id="Tvescola.br" tvg-name="TV ESCOLA FHD²" tvg-logo="https://i.imgur.com/T1z1Z9D.png" group-title="BR",TV ESCOLA FHD²
+#EXTINF:-1 tvg-id="TVAlvoradadoSul.br" tvg-name="TV ESCOLA FHD²" tvg-logo="https://i.imgur.com/T1z1Z9D.png" group-title="BR",TV ESCOLA FHD²
 http://p23.miami:80/live/Rp0808328/Bk20305060/182003.ts
-#EXTINF:-1 tvg-id="Tvescola.br" tvg-name="TV ESCOLA SD" tvg-logo="https://i.imgur.com/T1z1Z9D.png" group-title="BR",TV ESCOLA SD
+#EXTINF:-1 tvg-id="TVClube.br" tvg-name="TV ESCOLA SD" tvg-logo="https://i.imgur.com/T1z1Z9D.png" group-title="BR",TV ESCOLA SD
 http://p23.miami:80/live/Rp0808328/Bk20305060/181147.ts
-#EXTINF:-1 tvg-id="Tvescola.br" tvg-name="TV ESCOLA SD²" tvg-logo="https://i.imgur.com/T1z1Z9D.png" group-title="BR",TV ESCOLA SD²
+#EXTINF:-1 tvg-id="BandPiaui.br" tvg-name="TV ESCOLA SD²" tvg-logo="https://i.imgur.com/T1z1Z9D.png" group-title="BR",TV ESCOLA SD²
 http://p23.miami:80/live/Rp0808328/Bk20305060/181995.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV EVANGELIZAR FHD²" tvg-logo="https://i.imgur.com/6fGKKWr.png" group-title="BR",TV EVANGELIZAR FHD²
+#EXTINF:-1 tvg-id="MeioNorte.br" tvg-name="TV EVANGELIZAR FHD²" tvg-logo="https://i.imgur.com/6fGKKWr.png" group-title="BR",TV EVANGELIZAR FHD²
 http://p23.miami:80/live/Rp0808328/Bk20305060/181977.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV EVANGELIZAR FHD² H264" tvg-logo="https://i.imgur.com/6fGKKWr.png" group-title="BR",TV EVANGELIZAR FHD² H264
+#EXTINF:-1 tvg-id="TVAlvoradadoSul.br" tvg-name="TV EVANGELIZAR FHD² H264" tvg-logo="https://i.imgur.com/6fGKKWr.png" group-title="BR",TV EVANGELIZAR FHD² H264
 http://p23.miami:80/live/Rp0808328/Bk20305060/196891.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV EVANGELIZAR SD" tvg-logo="https://i.imgur.com/6fGKKWr.png" group-title="BR",TV EVANGELIZAR SD
+#EXTINF:-1 tvg-id="MeioNorte.br" tvg-name="TV EVANGELIZAR SD" tvg-logo="https://i.imgur.com/6fGKKWr.png" group-title="BR",TV EVANGELIZAR SD
 http://p23.miami:80/live/Rp0808328/Bk20305060/181149.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV GIDEOES HD" tvg-logo="https://i.imgur.com/ejRvZGf.png" group-title="BR",TV GIDEOES HD
+#EXTINF:-1 tvg-id="RedeGospel.br" tvg-name="TV GIDEOES HD" tvg-logo="https://i.imgur.com/ejRvZGf.png" group-title="BR",TV GIDEOES HD
 http://p23.miami:80/live/Rp0808328/Bk20305060/180741.ts
 #EXTINF:-1 tvg-id="Tvjustica.br" tvg-name="TV JUSTICA SD" tvg-logo="https://i.imgur.com/tstiHgo.png" group-title="BR",TV JUSTICA SD
 http://p23.miami:80/live/Rp0808328/Bk20305060/181127.ts
 #EXTINF:-1 tvg-id="Tvjustica.br" tvg-name="TV JUSTIÇA SD²" tvg-logo="https://i.imgur.com/n7MQr9K.png" group-title="BR",TV JUSTIÇA SD²
 http://p23.miami:80/live/Rp0808328/Bk20305060/181983.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV MAIS BRASIL FHD²" tvg-logo="https://i.imgur.com/g28Be9x.png" group-title="BR",TV MAIS BRASIL FHD²
+#EXTINF:-1 tvg-id="AgroBrasilTV.br" tvg-name="TV MAIS BRASIL FHD²" tvg-logo="https://i.imgur.com/g28Be9x.png" group-title="BR",TV MAIS BRASIL FHD²
 http://p23.miami:80/live/Rp0808328/Bk20305060/182162.ts
 #EXTINF:-1 tvg-id="Tvnovotempo.br" tvg-name="TV NOVO TEMPO HD" tvg-logo="https://i.imgur.com/wFT5IRo.png" group-title="BR",TV NOVO TEMPO HD
 http://p23.miami:80/live/Rp0808328/Bk20305060/180693.ts
@@ -3271,7 +2957,7 @@ http://p23.miami:80/live/Rp0808328/Bk20305060/180744.ts
 http://p23.miami:80/live/Rp0808328/Bk20305060/182004.ts
 #EXTINF:-1 tvg-id="TVPampa.br" tvg-name="TV PAMPA HD²" tvg-logo="https://i.imgur.com/bghGC97.png" group-title="BR",TV PAMPA HD²
 http://p23.miami:80/live/Rp0808328/Bk20305060/182005.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV POTENGI SD²" tvg-logo="https://i.imgur.com/ZFtWjRO.png" group-title="BR",TV POTENGI SD²
+#EXTINF:-1 tvg-id="Gospel.br" tvg-name="TV POTENGI SD²" tvg-logo="https://i.imgur.com/ZFtWjRO.png" group-title="BR",TV POTENGI SD²
 http://p23.miami:80/live/Rp0808328/Bk20305060/182171.ts
 #EXTINF:-1 tvg-id="TVRaTimBum.br" tvg-name="TV RA TIM BUM  FHD²" tvg-logo="https://i.imgur.com/sFi2v0U.png" group-title="BR",TV RA TIM BUM  FHD²
 http://p23.miami:80/live/Rp0808328/Bk20305060/182252.ts
@@ -3287,11 +2973,11 @@ http://p23.miami:80/live/Rp0808328/Bk20305060/181130.ts
 http://p23.miami:80/live/Rp0808328/Bk20305060/181984.ts
 #EXTINF:-1 tvg-id="TV5Monde(French).br" tvg-name="TV5 MONDE SD²" tvg-logo="https://i.imgur.com/qZzUc3n.png" group-title="BR",TV5 MONDE SD²
 http://p23.miami:80/live/Rp0808328/Bk20305060/181985.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV8 BRASIL SD²" tvg-logo="https://i.imgur.com/t3PDHvc.png" group-title="BR",TV8 BRASIL SD²
+#EXTINF:-1 tvg-id="Gospel.br" tvg-name="TV8 BRASIL SD²" tvg-logo="https://i.imgur.com/t3PDHvc.png" group-title="BR",TV8 BRASIL SD²
 http://p23.miami:80/live/Rp0808328/Bk20305060/182014.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TVE RS HD²" tvg-logo="https://i.imgur.com/P5sad7z.png" group-title="BR",TVE RS HD²
+#EXTINF:-1 tvg-id="TVEducativadePortoAlegre.br" tvg-name="TVE RS HD²" tvg-logo="https://i.imgur.com/P5sad7z.png" group-title="BR",TVE RS HD²
 http://p23.miami:80/live/Rp0808328/Bk20305060/182006.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TVE-ES SD²" tvg-logo="https://i.imgur.com/P5sad7z.png" group-title="BR",TVE-ES SD²
+#EXTINF:-1 tvg-id="TVEducativa.br" tvg-name="TVE-ES SD²" tvg-logo="https://i.imgur.com/P5sad7z.png" group-title="BR",TVE-ES SD²
 http://p23.miami:80/live/Rp0808328/Bk20305060/181986.ts
 #EXTINF:-1 tvg-id="UniversalTV.br" tvg-name="UNIVERSAL TV FHD" tvg-logo="https://i.imgur.com/eGWqa6s.png" group-title="BR",UNIVERSAL TV FHD
 http://p23.miami:80/live/Rp0808328/Bk20305060/181470.ts
@@ -3361,7 +3047,7 @@ http://p23.miami:80/live/Rp0808328/Bk20305060/182055.ts
 http://p23.miami:80/live/Rp0808328/Bk20305060/181141.ts
 #EXTINF:-1 tvg-id="AMC(src01).pt" tvg-name="PT: AMC HD" tvg-logo="https://i.imgur.com/wMh8fkU.png" group-title="PT",PT: AMC HD
 http://p23.miami:80/live/Rp0808328/Bk20305060/274623.ts
-#EXTINF:-1 tvg-id="BTV1(src01).pt" tvg-name="PT: BTV FHD" tvg-logo="https://i.imgur.com/mmRsMOV.jpg" group-title="PT",PT: BTV FHD
+#EXTINF:-1 tvg-id="BenficaTVMulticamaras(src01).pt" tvg-name="PT: BTV FHD" tvg-logo="https://i.imgur.com/mmRsMOV.jpg" group-title="PT",PT: BTV FHD
 http://p23.miami:80/live/Rp0808328/Bk20305060/274613.ts
 #EXTINF:-1 tvg-id="CINEMUNDO(src01).pt" tvg-name="PT: CINEMUNDO FHD" tvg-logo="https://3.bp.blogspot.com/-mHEz-7oSIXw/VSene5r6G5I/AAAAAAAAEyE/4R-rWWL9nyo/s1600/Cinemundo%2Blogo%2B1.png" group-title="PT",PT: CINEMUNDO FHD
 http://p23.miami:80/live/Rp0808328/Bk20305060/274614.ts
@@ -3381,7 +3067,7 @@ http://p23.miami:80/live/Rp0808328/Bk20305060/274602.ts
 http://p23.miami:80/live/Rp0808328/Bk20305060/274601.ts
 #EXTINF:-1 tvg-id="RTP1(src01).pt" tvg-name="PT: RTP 1" tvg-logo="https://3.bp.blogspot.com/-Y7dOGFU-Ks8/WB3MLKpKGpI/AAAAAAAAFR0/M2q_TAhPXhI0cPc6Cshp6VqmfBTuMMIuwCLcB/s1600/RTP%2B1.png" group-title="PT",PT: RTP 1
 http://p23.miami:80/live/Rp0808328/Bk20305060/274609.ts
-#EXTINF:-1 tvg-id="Agromais.br" tvg-name="PT: RTP 2" tvg-logo="https://imgur.com/w2Ij5zR.png" group-title="PT",PT: RTP 2
+#EXTINF:-1 tvg-id="RTP2(src01).pt" tvg-name="PT: RTP 2" tvg-logo="https://imgur.com/w2Ij5zR.png" group-title="PT",PT: RTP 2
 http://p23.miami:80/live/Rp0808328/Bk20305060/274610.ts
 #EXTINF:-1 tvg-id="RTP3(src01).pt" tvg-name="PT: RTP 3" tvg-logo="https://imgur.com/WvkQfxa.png" group-title="PT",PT: RTP 3
 http://p23.miami:80/live/Rp0808328/Bk20305060/274611.ts
@@ -3415,36 +3101,3 @@ http://p23.miami:80/live/Rp0808328/Bk20305060/274606.ts
 http://p23.miami:80/live/Rp0808328/Bk20305060/274604.ts
 #EXTINF:-1 tvg-id="TVIReal(src01).pt" tvg-name="PT: TVI REALITY" tvg-logo="http://bomybueno.caesperfeitos.pt:8080/images/85e050e42317858a0142a41dd2eeb667.png" group-title="PT",PT: TVI REALITY
 http://p23.miami:80/live/Rp0808328/Bk20305060/274612.ts
-#EXTINF:-1 tvg-id="Fishtv.br" tvg-name="FISH TV ²" tvg-logo="https://i.imgur.com/k7Z0JL9.png" group-title="BR",FISH TV ² [] [UHD]
-http://p23.miami:80/live/Rp0808328/Bk20305060/182073.ts
-
-#EXTINF:-1 tvg-id="Fishtv.br" tvg-name="FISHTV  H265" tvg-logo="https://i.imgur.com/k7Z0JL9.png" group-title="BR",FISHTV  H265 [] [UHD]
-http://p23.miami:80/live/Rp0808328/Bk20305060/180826.ts
-
-#EXTINF:-1 tvg-id="FoodNetwork.br" tvg-name="FOOD  NETWORK " tvg-logo="https://i.imgur.com/B4s8uxi.png" group-title="BR",FOOD  NETWORK [] [UHD]
-http://p23.miami:80/live/Rp0808328/Bk20305060/181485.ts
-
-#EXTINF:-1 tvg-id="FoodNetwork.br" tvg-name="FOOD NETWORK" tvg-logo="https://i.imgur.com/B4s8uxi.png" group-title="BR",FOOD NETWORK [] [UHD]
-http://p23.miami:80/live/Rp0808328/Bk20305060/181038.ts
-
-#EXTINF:-1 tvg-id="FoodNetwork.br" tvg-name="FOOD NETWORK ²" tvg-logo="https://i.imgur.com/B4s8uxi.png" group-title="BR",FOOD NETWORK ² [] [UHD]
-http://p23.miami:80/live/Rp0808328/Bk20305060/182074.ts
-
-#EXTINF:-1 tvg-id="FoodNetwork.br" tvg-name="FOOD NETWORK " tvg-logo="https://i.imgur.com/B4s8uxi.png" group-title="BR",FOOD NETWORK [] [UHD]
-http://p23.miami:80/live/Rp0808328/Bk20305060/180614.ts
-
-#EXTINF:-1 tvg-id="FoodNetwork.br" tvg-name="FOOD NETWORK ²" tvg-logo="https://i.imgur.com/B4s8uxi.png" group-title="BR",FOOD NETWORK ² [] [UHD]
-http://p23.miami:80/live/Rp0808328/Bk20305060/182075.ts
-
-#EXTINF:-1 tvg-id="FoxSports2Brazil.br" tvg-name="FOX SPORTS 2 " tvg-logo="https://i.imgur.com/M4FIKdZ.png" group-title="BR",FOX SPORTS 2 [] [UHD]
-http://p23.miami:80/live/Rp0808328/Bk20305060/181395.ts
-
-#EXTINF:-1 tvg-id="FoxSports2Brazil.br" tvg-name="FOX SPORTS 2  H265" tvg-logo="https://i.imgur.com/M4FIKdZ.png" group-title="BR",FOX SPORTS 2  H265 [] [UHD]
-http://p23.miami:80/live/Rp0808328/Bk20305060/180832.ts
-
-#EXTINF:-1 tvg-id="FoxSports2Brazil.br" tvg-name="FOX SPORTS 2 ²" tvg-logo="https://i.imgur.com/M4FIKdZ.png" group-title="BR",FOX SPORTS 2 ² [] [UHD]
-http://p23.miami:80/live/Rp0808328/Bk20305060/181967.ts
-
-#EXTINF:-1 tvg-id="FoxSports2Brazil.br" tvg-name="FOX SPORTS 2 ² H264" tvg-logo="https://i.imgur.com/M4FIKdZ.png" group-title="BR",FOX SPORTS 2 ² H264 [] [UHD]
-http://p23.miami:80/live/Rp0808328/Bk20305060/196083.ts
-
