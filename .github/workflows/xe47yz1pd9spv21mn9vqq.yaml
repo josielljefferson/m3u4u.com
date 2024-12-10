@@ -2,7 +2,7 @@ name: Update EPG
 
 on:
   schedule:
-    - cron: '10 */6 * * *'  # Executa a cada 6 horas
+    - cron: '0 */6 * * *'  # Executa a cada 6 horas
   workflow_dispatch:  # Permite execução manual
 
 jobs:
@@ -24,7 +24,4 @@ jobs:
         pip install requests
 
     - name: Run update script
-      run: python 8p4ey8mvw5fq89z8ng1v.py
-
-    - name: Save logs
-      run: dmesg > logs.txt
+      run: python xe47yz1pd9spv21mn9vq.py
