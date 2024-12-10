@@ -12,7 +12,7 @@ def download_epg(url, output_file):
         print(f"Erro ao baixar o EPG: {e}")
 
 def update_epg():
-    epg_url = "http://m3u4u.com/epg/xe47yz1pd9spv21mn9vq"  # Substitua pela URL do EPG
+    epg_url = "http://m3u4u.com/epg/j67zn6m4w7fq9rv8yd1w"  # Substitua pela URL do EPG
     output_file = "epg.xml"
     download_epg(epg_url, output_file)
 
